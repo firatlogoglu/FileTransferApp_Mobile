@@ -27,15 +27,13 @@ namespace FileTransferApp_Mobile
         }
         private async void btn_Accept_Clicked(object sender, EventArgs e)
         {
-            Main.ResponseToTransferRequest(true);
-            await Navigation.PopModalAsync();
             await Navigation.PushModalAsync(new TransferPage());
+            Main.ResponseToTransferRequest(true);
         }
 
         private async void btn_Reject_Clicked(object sender, EventArgs e)
         {
             Main.ResponseToTransferRequest(false);
-            await Navigation.PopModalAsync(); 
             await Navigation.PushModalAsync(new MainPage());
         }
     }

@@ -9,10 +9,12 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-            <Label Grid.Row="1" Text="File Transfer is Succesful!" VerticalOptions="CenterAndExpand" 
+            <Image Source="checked.png" Grid.Row="1" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="100" HeightRequest="100"/>
+            <Label Grid.Row="2" Text="File Transfer is Succesful!" VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" TextColor="White" FontSize="Title"/>
-            <Grid Grid.Row="2">
+            <Grid Grid.Row="3">
                 <Grid.ColumnDefinitions >
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="2*"/>
