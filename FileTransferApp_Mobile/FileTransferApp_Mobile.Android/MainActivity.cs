@@ -1,10 +1,7 @@
 ﻿using System;
-
 using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
-using Android.Views;
-using Android.Widget;
 using Android.OS;
 using AndroidX.Core.Content;
 using Android;
@@ -36,6 +33,8 @@ namespace FileTransferApp_Mobile.Droid
                 ActivityCompat.RequestPermissions(this, new string[] { Manifest.Permission.ReadExternalStorage }, 0);
             }
             MobileAds.Initialize(ApplicationContext);
+            global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            FFImageLoading.Forms.Platform.CachedImageRenderer.Init(true);
             LoadApplication(new App());
             
             // for diolagbox usage

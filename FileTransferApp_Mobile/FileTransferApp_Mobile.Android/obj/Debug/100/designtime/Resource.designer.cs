@@ -2688,6 +2688,18 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Animation.abc_slide_out_top = global::FileTransferApp_Mobile.Droid.Resource.Animation.abc_slide_out_top;
 			global::MarcTron.Plugin.Resource.Animation.abc_tooltip_enter = global::FileTransferApp_Mobile.Droid.Resource.Animation.abc_tooltip_enter;
 			global::MarcTron.Plugin.Resource.Animation.abc_tooltip_exit = global::FileTransferApp_Mobile.Droid.Resource.Animation.abc_tooltip_exit;
+			global::MarcTron.Plugin.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::MarcTron.Plugin.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::FileTransferApp_Mobile.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
 			global::MarcTron.Plugin.Resource.Animation.design_bottom_sheet_slide_in = global::FileTransferApp_Mobile.Droid.Resource.Animation.design_bottom_sheet_slide_in;
 			global::MarcTron.Plugin.Resource.Animation.design_bottom_sheet_slide_out = global::FileTransferApp_Mobile.Droid.Resource.Animation.design_bottom_sheet_slide_out;
 			global::MarcTron.Plugin.Resource.Animation.design_snackbar_in = global::FileTransferApp_Mobile.Droid.Resource.Animation.design_snackbar_in;
@@ -2696,12 +2708,27 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Animation.EnterFromRight = global::FileTransferApp_Mobile.Droid.Resource.Animation.EnterFromRight;
 			global::MarcTron.Plugin.Resource.Animation.ExitToLeft = global::FileTransferApp_Mobile.Droid.Resource.Animation.ExitToLeft;
 			global::MarcTron.Plugin.Resource.Animation.ExitToRight = global::FileTransferApp_Mobile.Droid.Resource.Animation.ExitToRight;
+			global::MarcTron.Plugin.Resource.Animation.fragment_close_enter = global::FileTransferApp_Mobile.Droid.Resource.Animation.fragment_close_enter;
+			global::MarcTron.Plugin.Resource.Animation.fragment_close_exit = global::FileTransferApp_Mobile.Droid.Resource.Animation.fragment_close_exit;
+			global::MarcTron.Plugin.Resource.Animation.fragment_fade_enter = global::FileTransferApp_Mobile.Droid.Resource.Animation.fragment_fade_enter;
+			global::MarcTron.Plugin.Resource.Animation.fragment_fade_exit = global::FileTransferApp_Mobile.Droid.Resource.Animation.fragment_fade_exit;
+			global::MarcTron.Plugin.Resource.Animation.fragment_fast_out_extra_slow_in = global::FileTransferApp_Mobile.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::MarcTron.Plugin.Resource.Animation.fragment_open_enter = global::FileTransferApp_Mobile.Droid.Resource.Animation.fragment_open_enter;
+			global::MarcTron.Plugin.Resource.Animation.fragment_open_exit = global::FileTransferApp_Mobile.Droid.Resource.Animation.fragment_open_exit;
+			global::MarcTron.Plugin.Resource.Animation.mtrl_bottom_sheet_slide_in = global::FileTransferApp_Mobile.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::MarcTron.Plugin.Resource.Animation.mtrl_bottom_sheet_slide_out = global::FileTransferApp_Mobile.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::MarcTron.Plugin.Resource.Animation.mtrl_card_lowers_interpolator = global::FileTransferApp_Mobile.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
 			global::MarcTron.Plugin.Resource.Animator.design_appbar_state_list_animator = global::FileTransferApp_Mobile.Droid.Resource.Animator.design_appbar_state_list_animator;
 			global::MarcTron.Plugin.Resource.Animator.design_fab_hide_motion_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.design_fab_hide_motion_spec;
 			global::MarcTron.Plugin.Resource.Animator.design_fab_show_motion_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.design_fab_show_motion_spec;
 			global::MarcTron.Plugin.Resource.Animator.mtrl_btn_state_list_anim = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_btn_state_list_anim;
 			global::MarcTron.Plugin.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::MarcTron.Plugin.Resource.Animator.mtrl_card_state_list_anim = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_card_state_list_anim;
 			global::MarcTron.Plugin.Resource.Animator.mtrl_chip_state_list_anim = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::MarcTron.Plugin.Resource.Animator.mtrl_extended_fab_change_size_motion_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_extended_fab_change_size_motion_spec;
+			global::MarcTron.Plugin.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::MarcTron.Plugin.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::MarcTron.Plugin.Resource.Animator.mtrl_extended_fab_state_list_animator = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
 			global::MarcTron.Plugin.Resource.Animator.mtrl_fab_hide_motion_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
 			global::MarcTron.Plugin.Resource.Animator.mtrl_fab_show_motion_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
 			global::MarcTron.Plugin.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::FileTransferApp_Mobile.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
@@ -2738,6 +2765,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.actionOverflowButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.actionOverflowButtonStyle;
 			global::MarcTron.Plugin.Resource.Attribute.actionOverflowMenuStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.actionOverflowMenuStyle;
 			global::MarcTron.Plugin.Resource.Attribute.actionProviderClass = global::FileTransferApp_Mobile.Droid.Resource.Attribute.actionProviderClass;
+			global::MarcTron.Plugin.Resource.Attribute.actionTextColorAlpha = global::FileTransferApp_Mobile.Droid.Resource.Attribute.actionTextColorAlpha;
 			global::MarcTron.Plugin.Resource.Attribute.actionViewClass = global::FileTransferApp_Mobile.Droid.Resource.Attribute.actionViewClass;
 			global::MarcTron.Plugin.Resource.Attribute.activityChooserViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.activityChooserViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.adSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.adSize;
@@ -2750,6 +2778,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.allowStacking = global::FileTransferApp_Mobile.Droid.Resource.Attribute.allowStacking;
 			global::MarcTron.Plugin.Resource.Attribute.alpha = global::FileTransferApp_Mobile.Droid.Resource.Attribute.alpha;
 			global::MarcTron.Plugin.Resource.Attribute.alphabeticModifiers = global::FileTransferApp_Mobile.Droid.Resource.Attribute.alphabeticModifiers;
+			global::MarcTron.Plugin.Resource.Attribute.animationMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.animationMode;
+			global::MarcTron.Plugin.Resource.Attribute.appBarLayoutStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.appBarLayoutStyle;
 			global::MarcTron.Plugin.Resource.Attribute.arrowHeadLength = global::FileTransferApp_Mobile.Droid.Resource.Attribute.arrowHeadLength;
 			global::MarcTron.Plugin.Resource.Attribute.arrowShaftLength = global::FileTransferApp_Mobile.Droid.Resource.Attribute.arrowShaftLength;
 			global::MarcTron.Plugin.Resource.Attribute.autoCompleteTextViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.autoCompleteTextViewStyle;
@@ -2759,16 +2789,29 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.autoSizeStepGranularity = global::FileTransferApp_Mobile.Droid.Resource.Attribute.autoSizeStepGranularity;
 			global::MarcTron.Plugin.Resource.Attribute.autoSizeTextType = global::FileTransferApp_Mobile.Droid.Resource.Attribute.autoSizeTextType;
 			global::MarcTron.Plugin.Resource.Attribute.background = global::FileTransferApp_Mobile.Droid.Resource.Attribute.background;
+			global::MarcTron.Plugin.Resource.Attribute.backgroundColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundColor;
+			global::MarcTron.Plugin.Resource.Attribute.backgroundInsetBottom = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::MarcTron.Plugin.Resource.Attribute.backgroundInsetEnd = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::MarcTron.Plugin.Resource.Attribute.backgroundInsetStart = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundInsetStart;
+			global::MarcTron.Plugin.Resource.Attribute.backgroundInsetTop = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundInsetTop;
+			global::MarcTron.Plugin.Resource.Attribute.backgroundOverlayColorAlpha = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
 			global::MarcTron.Plugin.Resource.Attribute.backgroundSplit = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundSplit;
 			global::MarcTron.Plugin.Resource.Attribute.backgroundStacked = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundStacked;
 			global::MarcTron.Plugin.Resource.Attribute.backgroundTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundTint;
 			global::MarcTron.Plugin.Resource.Attribute.backgroundTintMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.backgroundTintMode;
+			global::MarcTron.Plugin.Resource.Attribute.badgeGravity = global::FileTransferApp_Mobile.Droid.Resource.Attribute.badgeGravity;
+			global::MarcTron.Plugin.Resource.Attribute.badgeStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.badgeStyle;
+			global::MarcTron.Plugin.Resource.Attribute.badgeTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.badgeTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.barLength = global::FileTransferApp_Mobile.Droid.Resource.Attribute.barLength;
 			global::MarcTron.Plugin.Resource.Attribute.behavior_autoHide = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_autoHide;
+			global::MarcTron.Plugin.Resource.Attribute.behavior_autoShrink = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_autoShrink;
+			global::MarcTron.Plugin.Resource.Attribute.behavior_expandedOffset = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_expandedOffset;
 			global::MarcTron.Plugin.Resource.Attribute.behavior_fitToContents = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_fitToContents;
+			global::MarcTron.Plugin.Resource.Attribute.behavior_halfExpandedRatio = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_halfExpandedRatio;
 			global::MarcTron.Plugin.Resource.Attribute.behavior_hideable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_hideable;
 			global::MarcTron.Plugin.Resource.Attribute.behavior_overlapTop = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_overlapTop;
 			global::MarcTron.Plugin.Resource.Attribute.behavior_peekHeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_peekHeight;
+			global::MarcTron.Plugin.Resource.Attribute.behavior_saveFlags = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_saveFlags;
 			global::MarcTron.Plugin.Resource.Attribute.behavior_skipCollapsed = global::FileTransferApp_Mobile.Droid.Resource.Attribute.behavior_skipCollapsed;
 			global::MarcTron.Plugin.Resource.Attribute.borderlessButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.borderlessButtonStyle;
 			global::MarcTron.Plugin.Resource.Attribute.borderWidth = global::FileTransferApp_Mobile.Droid.Resource.Attribute.borderWidth;
@@ -2785,11 +2828,13 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.boxCornerRadiusTopStart = global::FileTransferApp_Mobile.Droid.Resource.Attribute.boxCornerRadiusTopStart;
 			global::MarcTron.Plugin.Resource.Attribute.boxStrokeColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.boxStrokeColor;
 			global::MarcTron.Plugin.Resource.Attribute.boxStrokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Attribute.boxStrokeWidth;
+			global::MarcTron.Plugin.Resource.Attribute.boxStrokeWidthFocused = global::FileTransferApp_Mobile.Droid.Resource.Attribute.boxStrokeWidthFocused;
 			global::MarcTron.Plugin.Resource.Attribute.buttonBarButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonBarButtonStyle;
 			global::MarcTron.Plugin.Resource.Attribute.buttonBarNegativeButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
 			global::MarcTron.Plugin.Resource.Attribute.buttonBarNeutralButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
 			global::MarcTron.Plugin.Resource.Attribute.buttonBarPositiveButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
 			global::MarcTron.Plugin.Resource.Attribute.buttonBarStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonBarStyle;
+			global::MarcTron.Plugin.Resource.Attribute.buttonCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonCompat;
 			global::MarcTron.Plugin.Resource.Attribute.buttonGravity = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonGravity;
 			global::MarcTron.Plugin.Resource.Attribute.buttonIconDimen = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonIconDimen;
 			global::MarcTron.Plugin.Resource.Attribute.buttonPanelSideLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.buttonPanelSideLayout;
@@ -2800,14 +2845,17 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.cardBackgroundColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardBackgroundColor;
 			global::MarcTron.Plugin.Resource.Attribute.cardCornerRadius = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardCornerRadius;
 			global::MarcTron.Plugin.Resource.Attribute.cardElevation = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardElevation;
+			global::MarcTron.Plugin.Resource.Attribute.cardForegroundColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardForegroundColor;
 			global::MarcTron.Plugin.Resource.Attribute.cardMaxElevation = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardMaxElevation;
 			global::MarcTron.Plugin.Resource.Attribute.cardPreventCornerOverlap = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardPreventCornerOverlap;
 			global::MarcTron.Plugin.Resource.Attribute.cardUseCompatPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardUseCompatPadding;
 			global::MarcTron.Plugin.Resource.Attribute.cardViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cardViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.checkboxStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkboxStyle;
+			global::MarcTron.Plugin.Resource.Attribute.checkedButton = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkedButton;
 			global::MarcTron.Plugin.Resource.Attribute.checkedChip = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkedChip;
 			global::MarcTron.Plugin.Resource.Attribute.checkedIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkedIcon;
 			global::MarcTron.Plugin.Resource.Attribute.checkedIconEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkedIconEnabled;
+			global::MarcTron.Plugin.Resource.Attribute.checkedIconTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkedIconTint;
 			global::MarcTron.Plugin.Resource.Attribute.checkedIconVisible = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkedIconVisible;
 			global::MarcTron.Plugin.Resource.Attribute.checkedTextViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.checkedTextViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.chipBackgroundColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipBackgroundColor;
@@ -2820,6 +2868,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.chipIconTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipIconTint;
 			global::MarcTron.Plugin.Resource.Attribute.chipIconVisible = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipIconVisible;
 			global::MarcTron.Plugin.Resource.Attribute.chipMinHeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipMinHeight;
+			global::MarcTron.Plugin.Resource.Attribute.chipMinTouchTargetSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipMinTouchTargetSize;
 			global::MarcTron.Plugin.Resource.Attribute.chipSpacing = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipSpacing;
 			global::MarcTron.Plugin.Resource.Attribute.chipSpacingHorizontal = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipSpacingHorizontal;
 			global::MarcTron.Plugin.Resource.Attribute.chipSpacingVertical = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipSpacingVertical;
@@ -2828,6 +2877,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.chipStrokeColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipStrokeColor;
 			global::MarcTron.Plugin.Resource.Attribute.chipStrokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipStrokeWidth;
 			global::MarcTron.Plugin.Resource.Attribute.chipStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipStyle;
+			global::MarcTron.Plugin.Resource.Attribute.chipSurfaceColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.chipSurfaceColor;
 			global::MarcTron.Plugin.Resource.Attribute.closeIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.closeIcon;
 			global::MarcTron.Plugin.Resource.Attribute.closeIconEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.closeIconEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.closeIconEndPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.closeIconEndPadding;
@@ -2840,6 +2890,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.collapsedTitleGravity = global::FileTransferApp_Mobile.Droid.Resource.Attribute.collapsedTitleGravity;
 			global::MarcTron.Plugin.Resource.Attribute.collapsedTitleTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.collapsedTitleTextAppearance;
 			global::MarcTron.Plugin.Resource.Attribute.collapseIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.collapseIcon;
+			global::MarcTron.Plugin.Resource.Attribute.collectionViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.collectionViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.color = global::FileTransferApp_Mobile.Droid.Resource.Attribute.color;
 			global::MarcTron.Plugin.Resource.Attribute.colorAccent = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorAccent;
 			global::MarcTron.Plugin.Resource.Attribute.colorBackgroundFloating = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorBackgroundFloating;
@@ -2848,9 +2899,19 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.colorControlHighlight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorControlHighlight;
 			global::MarcTron.Plugin.Resource.Attribute.colorControlNormal = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorControlNormal;
 			global::MarcTron.Plugin.Resource.Attribute.colorError = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorError;
+			global::MarcTron.Plugin.Resource.Attribute.colorOnBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorOnBackground;
+			global::MarcTron.Plugin.Resource.Attribute.colorOnError = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorOnError;
+			global::MarcTron.Plugin.Resource.Attribute.colorOnPrimary = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorOnPrimary;
+			global::MarcTron.Plugin.Resource.Attribute.colorOnPrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::MarcTron.Plugin.Resource.Attribute.colorOnSecondary = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorOnSecondary;
+			global::MarcTron.Plugin.Resource.Attribute.colorOnSurface = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorOnSurface;
 			global::MarcTron.Plugin.Resource.Attribute.colorPrimary = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorPrimary;
 			global::MarcTron.Plugin.Resource.Attribute.colorPrimaryDark = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorPrimaryDark;
+			global::MarcTron.Plugin.Resource.Attribute.colorPrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorPrimarySurface;
+			global::MarcTron.Plugin.Resource.Attribute.colorPrimaryVariant = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorPrimaryVariant;
 			global::MarcTron.Plugin.Resource.Attribute.colorSecondary = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorSecondary;
+			global::MarcTron.Plugin.Resource.Attribute.colorSecondaryVariant = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::MarcTron.Plugin.Resource.Attribute.colorSurface = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorSurface;
 			global::MarcTron.Plugin.Resource.Attribute.colorSwitchThumbNormal = global::FileTransferApp_Mobile.Droid.Resource.Attribute.colorSwitchThumbNormal;
 			global::MarcTron.Plugin.Resource.Attribute.commitIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.commitIcon;
 			global::MarcTron.Plugin.Resource.Attribute.contentDescription = global::FileTransferApp_Mobile.Droid.Resource.Attribute.contentDescription;
@@ -2868,12 +2929,28 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.contentScrim = global::FileTransferApp_Mobile.Droid.Resource.Attribute.contentScrim;
 			global::MarcTron.Plugin.Resource.Attribute.controlBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.controlBackground;
 			global::MarcTron.Plugin.Resource.Attribute.coordinatorLayoutStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::MarcTron.Plugin.Resource.Attribute.cornerFamily = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerFamily;
+			global::MarcTron.Plugin.Resource.Attribute.cornerFamilyBottomLeft = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::MarcTron.Plugin.Resource.Attribute.cornerFamilyBottomRight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::MarcTron.Plugin.Resource.Attribute.cornerFamilyTopLeft = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::MarcTron.Plugin.Resource.Attribute.cornerFamilyTopRight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerFamilyTopRight;
 			global::MarcTron.Plugin.Resource.Attribute.cornerRadius = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerRadius;
+			global::MarcTron.Plugin.Resource.Attribute.cornerSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerSize;
+			global::MarcTron.Plugin.Resource.Attribute.cornerSizeBottomLeft = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::MarcTron.Plugin.Resource.Attribute.cornerSizeBottomRight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::MarcTron.Plugin.Resource.Attribute.cornerSizeTopLeft = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::MarcTron.Plugin.Resource.Attribute.cornerSizeTopRight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.cornerSizeTopRight;
 			global::MarcTron.Plugin.Resource.Attribute.counterEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.counterEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.counterMaxLength = global::FileTransferApp_Mobile.Droid.Resource.Attribute.counterMaxLength;
 			global::MarcTron.Plugin.Resource.Attribute.counterOverflowTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.counterOverflowTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.counterOverflowTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.counterTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.counterTextAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.counterTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.counterTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.customNavigationLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.customNavigationLayout;
+			global::MarcTron.Plugin.Resource.Attribute.dayInvalidStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dayInvalidStyle;
+			global::MarcTron.Plugin.Resource.Attribute.daySelectedStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.daySelectedStyle;
+			global::MarcTron.Plugin.Resource.Attribute.dayStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dayStyle;
+			global::MarcTron.Plugin.Resource.Attribute.dayTodayStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dayTodayStyle;
 			global::MarcTron.Plugin.Resource.Attribute.defaultQueryHint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.defaultQueryHint;
 			global::MarcTron.Plugin.Resource.Attribute.dialogCornerRadius = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dialogCornerRadius;
 			global::MarcTron.Plugin.Resource.Attribute.dialogPreferredPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dialogPreferredPadding;
@@ -2883,18 +2960,40 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.dividerHorizontal = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dividerHorizontal;
 			global::MarcTron.Plugin.Resource.Attribute.dividerPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dividerPadding;
 			global::MarcTron.Plugin.Resource.Attribute.dividerVertical = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dividerVertical;
+			global::MarcTron.Plugin.Resource.Attribute.drawableBottomCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableBottomCompat;
+			global::MarcTron.Plugin.Resource.Attribute.drawableEndCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableEndCompat;
+			global::MarcTron.Plugin.Resource.Attribute.drawableLeftCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableLeftCompat;
+			global::MarcTron.Plugin.Resource.Attribute.drawableRightCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableRightCompat;
 			global::MarcTron.Plugin.Resource.Attribute.drawableSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableSize;
+			global::MarcTron.Plugin.Resource.Attribute.drawableStartCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableStartCompat;
+			global::MarcTron.Plugin.Resource.Attribute.drawableTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableTint;
+			global::MarcTron.Plugin.Resource.Attribute.drawableTintMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableTintMode;
+			global::MarcTron.Plugin.Resource.Attribute.drawableTopCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawableTopCompat;
 			global::MarcTron.Plugin.Resource.Attribute.drawerArrowStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawerArrowStyle;
+			global::MarcTron.Plugin.Resource.Attribute.drawerLayoutStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.drawerLayoutStyle;
 			global::MarcTron.Plugin.Resource.Attribute.dropdownListPreferredItemHeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
 			global::MarcTron.Plugin.Resource.Attribute.dropDownListViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.dropDownListViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.editTextBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.editTextBackground;
 			global::MarcTron.Plugin.Resource.Attribute.editTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.editTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.editTextStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.editTextStyle;
 			global::MarcTron.Plugin.Resource.Attribute.elevation = global::FileTransferApp_Mobile.Droid.Resource.Attribute.elevation;
+			global::MarcTron.Plugin.Resource.Attribute.elevationOverlayColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.elevationOverlayColor;
+			global::MarcTron.Plugin.Resource.Attribute.elevationOverlayEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::MarcTron.Plugin.Resource.Attribute.endIconCheckable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.endIconCheckable;
+			global::MarcTron.Plugin.Resource.Attribute.endIconContentDescription = global::FileTransferApp_Mobile.Droid.Resource.Attribute.endIconContentDescription;
+			global::MarcTron.Plugin.Resource.Attribute.endIconDrawable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.endIconDrawable;
+			global::MarcTron.Plugin.Resource.Attribute.endIconMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.endIconMode;
+			global::MarcTron.Plugin.Resource.Attribute.endIconTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.endIconTint;
+			global::MarcTron.Plugin.Resource.Attribute.endIconTintMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.endIconTintMode;
 			global::MarcTron.Plugin.Resource.Attribute.enforceMaterialTheme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.enforceMaterialTheme;
 			global::MarcTron.Plugin.Resource.Attribute.enforceTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.enforceTextAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.ensureMinTouchTargetSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.ensureMinTouchTargetSize;
 			global::MarcTron.Plugin.Resource.Attribute.errorEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.errorEnabled;
+			global::MarcTron.Plugin.Resource.Attribute.errorIconDrawable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.errorIconDrawable;
+			global::MarcTron.Plugin.Resource.Attribute.errorIconTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.errorIconTint;
+			global::MarcTron.Plugin.Resource.Attribute.errorIconTintMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.errorIconTintMode;
 			global::MarcTron.Plugin.Resource.Attribute.errorTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.errorTextAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.errorTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.errorTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.expandActivityOverflowButtonDrawable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
 			global::MarcTron.Plugin.Resource.Attribute.expanded = global::FileTransferApp_Mobile.Droid.Resource.Attribute.expanded;
 			global::MarcTron.Plugin.Resource.Attribute.expandedTitleGravity = global::FileTransferApp_Mobile.Droid.Resource.Attribute.expandedTitleGravity;
@@ -2904,7 +3003,10 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.expandedTitleMarginStart = global::FileTransferApp_Mobile.Droid.Resource.Attribute.expandedTitleMarginStart;
 			global::MarcTron.Plugin.Resource.Attribute.expandedTitleMarginTop = global::FileTransferApp_Mobile.Droid.Resource.Attribute.expandedTitleMarginTop;
 			global::MarcTron.Plugin.Resource.Attribute.expandedTitleTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.extendedFloatingActionButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::MarcTron.Plugin.Resource.Attribute.extendMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Attribute.extendMotionSpec;
 			global::MarcTron.Plugin.Resource.Attribute.fabAlignmentMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fabAlignmentMode;
+			global::MarcTron.Plugin.Resource.Attribute.fabAnimationMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fabAnimationMode;
 			global::MarcTron.Plugin.Resource.Attribute.fabCradleMargin = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fabCradleMargin;
 			global::MarcTron.Plugin.Resource.Attribute.fabCradleRoundedCornerRadius = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
 			global::MarcTron.Plugin.Resource.Attribute.fabCradleVerticalOffset = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fabCradleVerticalOffset;
@@ -2936,12 +3038,14 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.helperText = global::FileTransferApp_Mobile.Droid.Resource.Attribute.helperText;
 			global::MarcTron.Plugin.Resource.Attribute.helperTextEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.helperTextEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.helperTextTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.helperTextTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.helperTextTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.hideMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hideMotionSpec;
 			global::MarcTron.Plugin.Resource.Attribute.hideOnContentScroll = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hideOnContentScroll;
 			global::MarcTron.Plugin.Resource.Attribute.hideOnScroll = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hideOnScroll;
 			global::MarcTron.Plugin.Resource.Attribute.hintAnimationEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hintAnimationEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.hintEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hintEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.hintTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hintTextAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.hintTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hintTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.homeAsUpIndicator = global::FileTransferApp_Mobile.Droid.Resource.Attribute.homeAsUpIndicator;
 			global::MarcTron.Plugin.Resource.Attribute.homeLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.homeLayout;
 			global::MarcTron.Plugin.Resource.Attribute.hoveredFocusedTranslationZ = global::FileTransferApp_Mobile.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
@@ -2959,14 +3063,27 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.initialActivityCount = global::FileTransferApp_Mobile.Droid.Resource.Attribute.initialActivityCount;
 			global::MarcTron.Plugin.Resource.Attribute.insetForeground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.insetForeground;
 			global::MarcTron.Plugin.Resource.Attribute.isLightTheme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.isLightTheme;
+			global::MarcTron.Plugin.Resource.Attribute.isMaterialTheme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.isMaterialTheme;
 			global::MarcTron.Plugin.Resource.Attribute.itemBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemBackground;
+			global::MarcTron.Plugin.Resource.Attribute.itemFillColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemFillColor;
 			global::MarcTron.Plugin.Resource.Attribute.itemHorizontalPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemHorizontalPadding;
 			global::MarcTron.Plugin.Resource.Attribute.itemHorizontalTranslationEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.itemIconPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemIconPadding;
 			global::MarcTron.Plugin.Resource.Attribute.itemIconSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemIconSize;
 			global::MarcTron.Plugin.Resource.Attribute.itemIconTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemIconTint;
+			global::MarcTron.Plugin.Resource.Attribute.itemMaxLines = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemMaxLines;
 			global::MarcTron.Plugin.Resource.Attribute.itemPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemPadding;
+			global::MarcTron.Plugin.Resource.Attribute.itemRippleColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemRippleColor;
+			global::MarcTron.Plugin.Resource.Attribute.itemShapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemShapeAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.itemShapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Attribute.itemShapeFillColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemShapeFillColor;
+			global::MarcTron.Plugin.Resource.Attribute.itemShapeInsetBottom = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::MarcTron.Plugin.Resource.Attribute.itemShapeInsetEnd = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::MarcTron.Plugin.Resource.Attribute.itemShapeInsetStart = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::MarcTron.Plugin.Resource.Attribute.itemShapeInsetTop = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemShapeInsetTop;
 			global::MarcTron.Plugin.Resource.Attribute.itemSpacing = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemSpacing;
+			global::MarcTron.Plugin.Resource.Attribute.itemStrokeColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemStrokeColor;
+			global::MarcTron.Plugin.Resource.Attribute.itemStrokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemStrokeWidth;
 			global::MarcTron.Plugin.Resource.Attribute.itemTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemTextAppearance;
 			global::MarcTron.Plugin.Resource.Attribute.itemTextAppearanceActive = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemTextAppearanceActive;
 			global::MarcTron.Plugin.Resource.Attribute.itemTextAppearanceInactive = global::FileTransferApp_Mobile.Droid.Resource.Attribute.itemTextAppearanceInactive;
@@ -2987,9 +3104,12 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.layout_scrollFlags = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_scrollFlags;
 			global::MarcTron.Plugin.Resource.Attribute.layout_scrollInterpolator = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_scrollInterpolator;
 			global::MarcTron.Plugin.Resource.Attribute.liftOnScroll = global::FileTransferApp_Mobile.Droid.Resource.Attribute.liftOnScroll;
+			global::MarcTron.Plugin.Resource.Attribute.liftOnScrollTargetViewId = global::FileTransferApp_Mobile.Droid.Resource.Attribute.liftOnScrollTargetViewId;
 			global::MarcTron.Plugin.Resource.Attribute.lineHeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.lineHeight;
 			global::MarcTron.Plugin.Resource.Attribute.lineSpacing = global::FileTransferApp_Mobile.Droid.Resource.Attribute.lineSpacing;
 			global::MarcTron.Plugin.Resource.Attribute.listChoiceBackgroundIndicator = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::MarcTron.Plugin.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::MarcTron.Plugin.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
 			global::MarcTron.Plugin.Resource.Attribute.listDividerAlertDialog = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listDividerAlertDialog;
 			global::MarcTron.Plugin.Resource.Attribute.listItemLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listItemLayout;
 			global::MarcTron.Plugin.Resource.Attribute.listLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listLayout;
@@ -2998,22 +3118,45 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.listPreferredItemHeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listPreferredItemHeight;
 			global::MarcTron.Plugin.Resource.Attribute.listPreferredItemHeightLarge = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listPreferredItemHeightLarge;
 			global::MarcTron.Plugin.Resource.Attribute.listPreferredItemHeightSmall = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::MarcTron.Plugin.Resource.Attribute.listPreferredItemPaddingEnd = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
 			global::MarcTron.Plugin.Resource.Attribute.listPreferredItemPaddingLeft = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
 			global::MarcTron.Plugin.Resource.Attribute.listPreferredItemPaddingRight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::MarcTron.Plugin.Resource.Attribute.listPreferredItemPaddingStart = global::FileTransferApp_Mobile.Droid.Resource.Attribute.listPreferredItemPaddingStart;
 			global::MarcTron.Plugin.Resource.Attribute.logo = global::FileTransferApp_Mobile.Droid.Resource.Attribute.logo;
 			global::MarcTron.Plugin.Resource.Attribute.logoDescription = global::FileTransferApp_Mobile.Droid.Resource.Attribute.logoDescription;
+			global::MarcTron.Plugin.Resource.Attribute.materialAlertDialogBodyTextStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialAlertDialogTheme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::MarcTron.Plugin.Resource.Attribute.materialAlertDialogTitleIconStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialAlertDialogTitleTextStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialButtonOutlinedStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialButtonOutlinedStyle;
 			global::MarcTron.Plugin.Resource.Attribute.materialButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialButtonStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialButtonToggleGroupStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarDay = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarDay;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarFullscreenTheme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarHeaderConfirmButton = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarHeaderDivider = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarHeaderLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarHeaderSelection = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarHeaderTitle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarHeaderToggleButton = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialCalendarTheme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCalendarTheme;
 			global::MarcTron.Plugin.Resource.Attribute.materialCardViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialCardViewStyle;
+			global::MarcTron.Plugin.Resource.Attribute.materialThemeOverlay = global::FileTransferApp_Mobile.Droid.Resource.Attribute.materialThemeOverlay;
 			global::MarcTron.Plugin.Resource.Attribute.maxActionInlineWidth = global::FileTransferApp_Mobile.Droid.Resource.Attribute.maxActionInlineWidth;
 			global::MarcTron.Plugin.Resource.Attribute.maxButtonHeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.maxButtonHeight;
+			global::MarcTron.Plugin.Resource.Attribute.maxCharacterCount = global::FileTransferApp_Mobile.Droid.Resource.Attribute.maxCharacterCount;
 			global::MarcTron.Plugin.Resource.Attribute.maxImageSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.maxImageSize;
 			global::MarcTron.Plugin.Resource.Attribute.measureWithLargestChild = global::FileTransferApp_Mobile.Droid.Resource.Attribute.measureWithLargestChild;
 			global::MarcTron.Plugin.Resource.Attribute.menu = global::FileTransferApp_Mobile.Droid.Resource.Attribute.menu;
+			global::MarcTron.Plugin.Resource.Attribute.minTouchTargetSize = global::FileTransferApp_Mobile.Droid.Resource.Attribute.minTouchTargetSize;
 			global::MarcTron.Plugin.Resource.Attribute.multiChoiceItemLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.multiChoiceItemLayout;
 			global::MarcTron.Plugin.Resource.Attribute.navigationContentDescription = global::FileTransferApp_Mobile.Droid.Resource.Attribute.navigationContentDescription;
 			global::MarcTron.Plugin.Resource.Attribute.navigationIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.navigationIcon;
 			global::MarcTron.Plugin.Resource.Attribute.navigationMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.navigationMode;
 			global::MarcTron.Plugin.Resource.Attribute.navigationViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.navigationViewStyle;
+			global::MarcTron.Plugin.Resource.Attribute.number = global::FileTransferApp_Mobile.Droid.Resource.Attribute.number;
 			global::MarcTron.Plugin.Resource.Attribute.numericModifiers = global::FileTransferApp_Mobile.Droid.Resource.Attribute.numericModifiers;
 			global::MarcTron.Plugin.Resource.Attribute.overlapAnchor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.overlapAnchor;
 			global::MarcTron.Plugin.Resource.Attribute.paddingBottomNoButtons = global::FileTransferApp_Mobile.Droid.Resource.Attribute.paddingBottomNoButtons;
@@ -3028,6 +3171,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.passwordToggleEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.passwordToggleEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.passwordToggleTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.passwordToggleTint;
 			global::MarcTron.Plugin.Resource.Attribute.passwordToggleTintMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::MarcTron.Plugin.Resource.Attribute.popupMenuBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.popupMenuBackground;
 			global::MarcTron.Plugin.Resource.Attribute.popupMenuStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.popupMenuStyle;
 			global::MarcTron.Plugin.Resource.Attribute.popupTheme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.popupTheme;
 			global::MarcTron.Plugin.Resource.Attribute.popupWindowStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.popupWindowStyle;
@@ -3038,25 +3182,34 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.queryBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.queryBackground;
 			global::MarcTron.Plugin.Resource.Attribute.queryHint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.queryHint;
 			global::MarcTron.Plugin.Resource.Attribute.radioButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.radioButtonStyle;
+			global::MarcTron.Plugin.Resource.Attribute.rangeFillColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.rangeFillColor;
 			global::MarcTron.Plugin.Resource.Attribute.ratingBarStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.ratingBarStyle;
 			global::MarcTron.Plugin.Resource.Attribute.ratingBarStyleIndicator = global::FileTransferApp_Mobile.Droid.Resource.Attribute.ratingBarStyleIndicator;
 			global::MarcTron.Plugin.Resource.Attribute.ratingBarStyleSmall = global::FileTransferApp_Mobile.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::MarcTron.Plugin.Resource.Attribute.recyclerViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.recyclerViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.reverseLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.reverseLayout;
 			global::MarcTron.Plugin.Resource.Attribute.rippleColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.rippleColor;
 			global::MarcTron.Plugin.Resource.Attribute.scrimAnimationDuration = global::FileTransferApp_Mobile.Droid.Resource.Attribute.scrimAnimationDuration;
 			global::MarcTron.Plugin.Resource.Attribute.scrimBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.scrimBackground;
 			global::MarcTron.Plugin.Resource.Attribute.scrimVisibleHeightTrigger = global::FileTransferApp_Mobile.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::MarcTron.Plugin.Resource.Attribute.scrollViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.scrollViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.searchHintIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.searchHintIcon;
 			global::MarcTron.Plugin.Resource.Attribute.searchIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.searchIcon;
 			global::MarcTron.Plugin.Resource.Attribute.searchViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.searchViewStyle;
 			global::MarcTron.Plugin.Resource.Attribute.seekBarStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.seekBarStyle;
 			global::MarcTron.Plugin.Resource.Attribute.selectableItemBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.selectableItemBackground;
 			global::MarcTron.Plugin.Resource.Attribute.selectableItemBackgroundBorderless = global::FileTransferApp_Mobile.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::MarcTron.Plugin.Resource.Attribute.shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Attribute.shapeAppearance;
+			global::MarcTron.Plugin.Resource.Attribute.shapeAppearanceLargeComponent = global::FileTransferApp_Mobile.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::MarcTron.Plugin.Resource.Attribute.shapeAppearanceMediumComponent = global::FileTransferApp_Mobile.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::MarcTron.Plugin.Resource.Attribute.shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Attribute.shapeAppearanceSmallComponent = global::FileTransferApp_Mobile.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
 			global::MarcTron.Plugin.Resource.Attribute.showAsAction = global::FileTransferApp_Mobile.Droid.Resource.Attribute.showAsAction;
 			global::MarcTron.Plugin.Resource.Attribute.showDividers = global::FileTransferApp_Mobile.Droid.Resource.Attribute.showDividers;
 			global::MarcTron.Plugin.Resource.Attribute.showMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Attribute.showMotionSpec;
 			global::MarcTron.Plugin.Resource.Attribute.showText = global::FileTransferApp_Mobile.Droid.Resource.Attribute.showText;
 			global::MarcTron.Plugin.Resource.Attribute.showTitle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.showTitle;
+			global::MarcTron.Plugin.Resource.Attribute.shrinkMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Attribute.shrinkMotionSpec;
 			global::MarcTron.Plugin.Resource.Attribute.singleChoiceItemLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.singleChoiceItemLayout;
 			global::MarcTron.Plugin.Resource.Attribute.singleLine = global::FileTransferApp_Mobile.Droid.Resource.Attribute.singleLine;
 			global::MarcTron.Plugin.Resource.Attribute.singleSelection = global::FileTransferApp_Mobile.Droid.Resource.Attribute.singleSelection;
@@ -3069,12 +3222,19 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.splitTrack = global::FileTransferApp_Mobile.Droid.Resource.Attribute.splitTrack;
 			global::MarcTron.Plugin.Resource.Attribute.srcCompat = global::FileTransferApp_Mobile.Droid.Resource.Attribute.srcCompat;
 			global::MarcTron.Plugin.Resource.Attribute.stackFromEnd = global::FileTransferApp_Mobile.Droid.Resource.Attribute.stackFromEnd;
+			global::MarcTron.Plugin.Resource.Attribute.startIconCheckable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.startIconCheckable;
+			global::MarcTron.Plugin.Resource.Attribute.startIconContentDescription = global::FileTransferApp_Mobile.Droid.Resource.Attribute.startIconContentDescription;
+			global::MarcTron.Plugin.Resource.Attribute.startIconDrawable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.startIconDrawable;
+			global::MarcTron.Plugin.Resource.Attribute.startIconTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.startIconTint;
+			global::MarcTron.Plugin.Resource.Attribute.startIconTintMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.startIconTintMode;
 			global::MarcTron.Plugin.Resource.Attribute.state_above_anchor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.state_above_anchor;
 			global::MarcTron.Plugin.Resource.Attribute.state_collapsed = global::FileTransferApp_Mobile.Droid.Resource.Attribute.state_collapsed;
 			global::MarcTron.Plugin.Resource.Attribute.state_collapsible = global::FileTransferApp_Mobile.Droid.Resource.Attribute.state_collapsible;
+			global::MarcTron.Plugin.Resource.Attribute.state_dragged = global::FileTransferApp_Mobile.Droid.Resource.Attribute.state_dragged;
 			global::MarcTron.Plugin.Resource.Attribute.state_liftable = global::FileTransferApp_Mobile.Droid.Resource.Attribute.state_liftable;
 			global::MarcTron.Plugin.Resource.Attribute.state_lifted = global::FileTransferApp_Mobile.Droid.Resource.Attribute.state_lifted;
 			global::MarcTron.Plugin.Resource.Attribute.statusBarBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.statusBarBackground;
+			global::MarcTron.Plugin.Resource.Attribute.statusBarForeground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.statusBarForeground;
 			global::MarcTron.Plugin.Resource.Attribute.statusBarScrim = global::FileTransferApp_Mobile.Droid.Resource.Attribute.statusBarScrim;
 			global::MarcTron.Plugin.Resource.Attribute.strokeColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.strokeColor;
 			global::MarcTron.Plugin.Resource.Attribute.strokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Attribute.strokeWidth;
@@ -3085,6 +3245,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.subtitleTextColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.subtitleTextColor;
 			global::MarcTron.Plugin.Resource.Attribute.subtitleTextStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.subtitleTextStyle;
 			global::MarcTron.Plugin.Resource.Attribute.suggestionRowLayout = global::FileTransferApp_Mobile.Droid.Resource.Attribute.suggestionRowLayout;
+			global::MarcTron.Plugin.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.swipeRefreshLayoutProgressSpinnerBackgroundColor;
 			global::MarcTron.Plugin.Resource.Attribute.switchMinWidth = global::FileTransferApp_Mobile.Droid.Resource.Attribute.switchMinWidth;
 			global::MarcTron.Plugin.Resource.Attribute.switchPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.switchPadding;
 			global::MarcTron.Plugin.Resource.Attribute.switchStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.switchStyle;
@@ -3127,6 +3288,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.textAppearanceHeadline5 = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textAppearanceHeadline5;
 			global::MarcTron.Plugin.Resource.Attribute.textAppearanceHeadline6 = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textAppearanceHeadline6;
 			global::MarcTron.Plugin.Resource.Attribute.textAppearanceLargePopupMenu = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::MarcTron.Plugin.Resource.Attribute.textAppearanceLineHeightEnabled = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
 			global::MarcTron.Plugin.Resource.Attribute.textAppearanceListItem = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textAppearanceListItem;
 			global::MarcTron.Plugin.Resource.Attribute.textAppearanceListItemSecondary = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textAppearanceListItemSecondary;
 			global::MarcTron.Plugin.Resource.Attribute.textAppearanceListItemSmall = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textAppearanceListItemSmall;
@@ -3141,8 +3303,10 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.textColorSearchUrl = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textColorSearchUrl;
 			global::MarcTron.Plugin.Resource.Attribute.textEndPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textEndPadding;
 			global::MarcTron.Plugin.Resource.Attribute.textInputStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textInputStyle;
+			global::MarcTron.Plugin.Resource.Attribute.textLocale = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textLocale;
 			global::MarcTron.Plugin.Resource.Attribute.textStartPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.textStartPadding;
 			global::MarcTron.Plugin.Resource.Attribute.theme = global::FileTransferApp_Mobile.Droid.Resource.Attribute.theme;
+			global::MarcTron.Plugin.Resource.Attribute.themeLineHeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.themeLineHeight;
 			global::MarcTron.Plugin.Resource.Attribute.thickness = global::FileTransferApp_Mobile.Droid.Resource.Attribute.thickness;
 			global::MarcTron.Plugin.Resource.Attribute.thumbTextPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.thumbTextPadding;
 			global::MarcTron.Plugin.Resource.Attribute.thumbTint = global::FileTransferApp_Mobile.Droid.Resource.Attribute.thumbTint;
@@ -3174,6 +3338,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.trackTintMode = global::FileTransferApp_Mobile.Droid.Resource.Attribute.trackTintMode;
 			global::MarcTron.Plugin.Resource.Attribute.ttcIndex = global::FileTransferApp_Mobile.Droid.Resource.Attribute.ttcIndex;
 			global::MarcTron.Plugin.Resource.Attribute.useCompatPadding = global::FileTransferApp_Mobile.Droid.Resource.Attribute.useCompatPadding;
+			global::MarcTron.Plugin.Resource.Attribute.useMaterialThemeColors = global::FileTransferApp_Mobile.Droid.Resource.Attribute.useMaterialThemeColors;
 			global::MarcTron.Plugin.Resource.Attribute.viewInflaterClass = global::FileTransferApp_Mobile.Droid.Resource.Attribute.viewInflaterClass;
 			global::MarcTron.Plugin.Resource.Attribute.voiceIcon = global::FileTransferApp_Mobile.Droid.Resource.Attribute.voiceIcon;
 			global::MarcTron.Plugin.Resource.Attribute.windowActionBar = global::FileTransferApp_Mobile.Droid.Resource.Attribute.windowActionBar;
@@ -3186,15 +3351,24 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Attribute.windowMinWidthMajor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.windowMinWidthMajor;
 			global::MarcTron.Plugin.Resource.Attribute.windowMinWidthMinor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.windowMinWidthMinor;
 			global::MarcTron.Plugin.Resource.Attribute.windowNoTitle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.windowNoTitle;
+			global::MarcTron.Plugin.Resource.Attribute.yearSelectedStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.yearSelectedStyle;
+			global::MarcTron.Plugin.Resource.Attribute.yearStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.yearStyle;
+			global::MarcTron.Plugin.Resource.Attribute.yearTodayStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.yearTodayStyle;
 			global::MarcTron.Plugin.Resource.Boolean.abc_action_bar_embed_tabs = global::FileTransferApp_Mobile.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
 			global::MarcTron.Plugin.Resource.Boolean.abc_allow_stacked_button_bar = global::FileTransferApp_Mobile.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
 			global::MarcTron.Plugin.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::FileTransferApp_Mobile.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::MarcTron.Plugin.Resource.Boolean.enable_system_alarm_service_default = global::FileTransferApp_Mobile.Droid.Resource.Boolean.enable_system_alarm_service_default;
+			global::MarcTron.Plugin.Resource.Boolean.enable_system_foreground_service_default = global::FileTransferApp_Mobile.Droid.Resource.Boolean.enable_system_foreground_service_default;
+			global::MarcTron.Plugin.Resource.Boolean.enable_system_job_service_default = global::FileTransferApp_Mobile.Droid.Resource.Boolean.enable_system_job_service_default;
 			global::MarcTron.Plugin.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::FileTransferApp_Mobile.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::MarcTron.Plugin.Resource.Boolean.workmanager_test_configuration = global::FileTransferApp_Mobile.Droid.Resource.Boolean.workmanager_test_configuration;
 			global::MarcTron.Plugin.Resource.Color.abc_background_cache_hint_selector_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
 			global::MarcTron.Plugin.Resource.Color.abc_background_cache_hint_selector_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
 			global::MarcTron.Plugin.Resource.Color.abc_btn_colored_borderless_text_material = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
 			global::MarcTron.Plugin.Resource.Color.abc_btn_colored_text_material = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_btn_colored_text_material;
 			global::MarcTron.Plugin.Resource.Color.abc_color_highlight_material = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_color_highlight_material;
+			global::MarcTron.Plugin.Resource.Color.abc_decor_view_status_guard = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::MarcTron.Plugin.Resource.Color.abc_decor_view_status_guard_light = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_decor_view_status_guard_light;
 			global::MarcTron.Plugin.Resource.Color.abc_hint_foreground_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_hint_foreground_material_dark;
 			global::MarcTron.Plugin.Resource.Color.abc_hint_foreground_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_hint_foreground_material_light;
 			global::MarcTron.Plugin.Resource.Color.abc_primary_text_disable_only_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
@@ -3215,6 +3389,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Color.abc_tint_switch_track = global::FileTransferApp_Mobile.Droid.Resource.Color.abc_tint_switch_track;
 			global::MarcTron.Plugin.Resource.Color.accent_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.accent_material_dark;
 			global::MarcTron.Plugin.Resource.Color.accent_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.accent_material_light;
+			global::MarcTron.Plugin.Resource.Color.androidx_core_ripple_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::MarcTron.Plugin.Resource.Color.androidx_core_secondary_text_default_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
 			global::MarcTron.Plugin.Resource.Color.background_floating_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.background_floating_material_dark;
 			global::MarcTron.Plugin.Resource.Color.background_floating_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.background_floating_material_light;
 			global::MarcTron.Plugin.Resource.Color.background_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.background_material_dark;
@@ -3235,9 +3411,35 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Color.cardview_light_background = global::FileTransferApp_Mobile.Droid.Resource.Color.cardview_light_background;
 			global::MarcTron.Plugin.Resource.Color.cardview_shadow_end_color = global::FileTransferApp_Mobile.Droid.Resource.Color.cardview_shadow_end_color;
 			global::MarcTron.Plugin.Resource.Color.cardview_shadow_start_color = global::FileTransferApp_Mobile.Droid.Resource.Color.cardview_shadow_start_color;
+			global::MarcTron.Plugin.Resource.Color.checkbox_themeable_attribute_color = global::FileTransferApp_Mobile.Droid.Resource.Color.checkbox_themeable_attribute_color;
 			global::MarcTron.Plugin.Resource.Color.design_bottom_navigation_shadow_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::MarcTron.Plugin.Resource.Color.design_box_stroke_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_box_stroke_color;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_background = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_background;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_error = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_error;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_on_background = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_on_error = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_on_primary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_on_secondary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_on_surface = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_primary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_primary;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_primary_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_primary_variant = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_secondary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_secondary_variant = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::MarcTron.Plugin.Resource.Color.design_dark_default_color_surface = global::FileTransferApp_Mobile.Droid.Resource.Color.design_dark_default_color_surface;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_background = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_background;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_error = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_error;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_on_background = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_on_background;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_on_error = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_on_error;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_on_primary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_on_primary;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_on_secondary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_on_secondary;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_on_surface = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_on_surface;
 			global::MarcTron.Plugin.Resource.Color.design_default_color_primary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_primary;
 			global::MarcTron.Plugin.Resource.Color.design_default_color_primary_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_primary_dark;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_primary_variant = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_primary_variant;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_secondary = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_secondary;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_secondary_variant = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::MarcTron.Plugin.Resource.Color.design_default_color_surface = global::FileTransferApp_Mobile.Droid.Resource.Color.design_default_color_surface;
 			global::MarcTron.Plugin.Resource.Color.design_error = global::FileTransferApp_Mobile.Droid.Resource.Color.design_error;
 			global::MarcTron.Plugin.Resource.Color.design_fab_shadow_end_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_fab_shadow_end_color;
 			global::MarcTron.Plugin.Resource.Color.design_fab_shadow_mid_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_fab_shadow_mid_color;
@@ -3246,6 +3448,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Color.design_fab_stroke_end_outer_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_fab_stroke_end_outer_color;
 			global::MarcTron.Plugin.Resource.Color.design_fab_stroke_top_inner_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_fab_stroke_top_inner_color;
 			global::MarcTron.Plugin.Resource.Color.design_fab_stroke_top_outer_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::MarcTron.Plugin.Resource.Color.design_icon_tint = global::FileTransferApp_Mobile.Droid.Resource.Color.design_icon_tint;
 			global::MarcTron.Plugin.Resource.Color.design_snackbar_background_color = global::FileTransferApp_Mobile.Droid.Resource.Color.design_snackbar_background_color;
 			global::MarcTron.Plugin.Resource.Color.dim_foreground_disabled_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.dim_foreground_disabled_material_dark;
 			global::MarcTron.Plugin.Resource.Color.dim_foreground_disabled_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.dim_foreground_disabled_material_light;
@@ -3269,20 +3472,52 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Color.material_grey_800 = global::FileTransferApp_Mobile.Droid.Resource.Color.material_grey_800;
 			global::MarcTron.Plugin.Resource.Color.material_grey_850 = global::FileTransferApp_Mobile.Droid.Resource.Color.material_grey_850;
 			global::MarcTron.Plugin.Resource.Color.material_grey_900 = global::FileTransferApp_Mobile.Droid.Resource.Color.material_grey_900;
+			global::MarcTron.Plugin.Resource.Color.material_on_background_disabled = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_background_disabled;
+			global::MarcTron.Plugin.Resource.Color.material_on_background_emphasis_high_type = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::MarcTron.Plugin.Resource.Color.material_on_background_emphasis_medium = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::MarcTron.Plugin.Resource.Color.material_on_primary_disabled = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_primary_disabled;
+			global::MarcTron.Plugin.Resource.Color.material_on_primary_emphasis_high_type = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::MarcTron.Plugin.Resource.Color.material_on_primary_emphasis_medium = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::MarcTron.Plugin.Resource.Color.material_on_surface_disabled = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_surface_disabled;
+			global::MarcTron.Plugin.Resource.Color.material_on_surface_emphasis_high_type = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::MarcTron.Plugin.Resource.Color.material_on_surface_emphasis_medium = global::FileTransferApp_Mobile.Droid.Resource.Color.material_on_surface_emphasis_medium;
 			global::MarcTron.Plugin.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::MarcTron.Plugin.Resource.Color.mtrl_bottom_nav_colored_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_bottom_nav_colored_ripple_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_bottom_nav_item_tint = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::MarcTron.Plugin.Resource.Color.mtrl_bottom_nav_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_bottom_nav_ripple_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_btn_bg_color_selector = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_bg_color_selector;
 			global::MarcTron.Plugin.Resource.Color.mtrl_btn_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_ripple_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_btn_stroke_color_selector = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::MarcTron.Plugin.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
 			global::MarcTron.Plugin.Resource.Color.mtrl_btn_text_btn_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_btn_text_color_disabled = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_text_color_disabled;
 			global::MarcTron.Plugin.Resource.Color.mtrl_btn_text_color_selector = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_text_color_selector;
 			global::MarcTron.Plugin.Resource.Color.mtrl_btn_transparent_bg_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_calendar_item_stroke_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_calendar_selected_range = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::MarcTron.Plugin.Resource.Color.mtrl_card_view_foreground = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::MarcTron.Plugin.Resource.Color.mtrl_card_view_ripple = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_card_view_ripple;
 			global::MarcTron.Plugin.Resource.Color.mtrl_chip_background_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_chip_background_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_chip_close_icon_tint = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_chip_close_icon_tint;
 			global::MarcTron.Plugin.Resource.Color.mtrl_chip_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_chip_ripple_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_chip_surface_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_chip_surface_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_chip_text_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_chip_text_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_choice_chip_background_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_choice_chip_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_choice_chip_text_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_error = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_error;
 			global::MarcTron.Plugin.Resource.Color.mtrl_fab_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_filled_background_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_filled_background_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_filled_icon_tint = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::MarcTron.Plugin.Resource.Color.mtrl_filled_stroke_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_indicator_text_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_navigation_item_background_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_navigation_item_icon_tint = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::MarcTron.Plugin.Resource.Color.mtrl_navigation_item_text_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::MarcTron.Plugin.Resource.Color.mtrl_outlined_icon_tint = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::MarcTron.Plugin.Resource.Color.mtrl_outlined_stroke_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_popupmenu_overlay_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_scrim_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_scrim_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_tabs_colored_ripple_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_tabs_icon_color_selector = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
@@ -3292,6 +3527,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Color.mtrl_textinput_default_box_stroke_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_textinput_disabled_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_textinput_disabled_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::MarcTron.Plugin.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
 			global::MarcTron.Plugin.Resource.Color.mtrl_text_btn_text_color_selector = global::FileTransferApp_Mobile.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
 			global::MarcTron.Plugin.Resource.Color.notification_action_color_filter = global::FileTransferApp_Mobile.Droid.Resource.Color.notification_action_color_filter;
@@ -3317,6 +3553,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Color.switch_thumb_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.switch_thumb_material_light;
 			global::MarcTron.Plugin.Resource.Color.switch_thumb_normal_material_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.switch_thumb_normal_material_dark;
 			global::MarcTron.Plugin.Resource.Color.switch_thumb_normal_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::MarcTron.Plugin.Resource.Color.test_mtrl_calendar_day = global::FileTransferApp_Mobile.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::MarcTron.Plugin.Resource.Color.test_mtrl_calendar_day_selected = global::FileTransferApp_Mobile.Droid.Resource.Color.test_mtrl_calendar_day_selected;
 			global::MarcTron.Plugin.Resource.Color.tooltip_background_dark = global::FileTransferApp_Mobile.Droid.Resource.Color.tooltip_background_dark;
 			global::MarcTron.Plugin.Resource.Color.tooltip_background_light = global::FileTransferApp_Mobile.Droid.Resource.Color.tooltip_background_light;
 			global::MarcTron.Plugin.Resource.Dimension.abc_action_bar_content_inset_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
@@ -3367,6 +3605,9 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
 			global::MarcTron.Plugin.Resource.Dimension.abc_edit_text_inset_top_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
 			global::MarcTron.Plugin.Resource.Dimension.abc_floating_window_z = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_floating_window_z;
+			global::MarcTron.Plugin.Resource.Dimension.abc_list_item_height_large_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::MarcTron.Plugin.Resource.Dimension.abc_list_item_height_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::MarcTron.Plugin.Resource.Dimension.abc_list_item_height_small_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_list_item_height_small_material;
 			global::MarcTron.Plugin.Resource.Dimension.abc_list_item_padding_horizontal_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
 			global::MarcTron.Plugin.Resource.Dimension.abc_panel_menu_list_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_panel_menu_list_width;
 			global::MarcTron.Plugin.Resource.Dimension.abc_progress_bar_height_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_progress_bar_height_material;
@@ -3394,6 +3635,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
 			global::MarcTron.Plugin.Resource.Dimension.abc_text_size_title_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_text_size_title_material;
 			global::MarcTron.Plugin.Resource.Dimension.abc_text_size_title_material_toolbar = global::FileTransferApp_Mobile.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::MarcTron.Plugin.Resource.Dimension.action_bar_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.action_bar_size;
+			global::MarcTron.Plugin.Resource.Dimension.appcompat_dialog_background_inset = global::FileTransferApp_Mobile.Droid.Resource.Dimension.appcompat_dialog_background_inset;
 			global::MarcTron.Plugin.Resource.Dimension.browser_actions_context_menu_max_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
 			global::MarcTron.Plugin.Resource.Dimension.browser_actions_context_menu_min_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
 			global::MarcTron.Plugin.Resource.Dimension.cardview_compat_inset_shadow = global::FileTransferApp_Mobile.Droid.Resource.Dimension.cardview_compat_inset_shadow;
@@ -3406,6 +3649,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.compat_control_corner_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.compat_control_corner_material;
 			global::MarcTron.Plugin.Resource.Dimension.compat_notification_large_icon_max_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
 			global::MarcTron.Plugin.Resource.Dimension.compat_notification_large_icon_max_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::MarcTron.Plugin.Resource.Dimension.default_dimension = global::FileTransferApp_Mobile.Droid.Resource.Dimension.default_dimension;
+			global::MarcTron.Plugin.Resource.Dimension.def_drawer_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.def_drawer_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.design_appbar_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_appbar_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
 			global::MarcTron.Plugin.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
@@ -3418,6 +3663,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.design_bottom_navigation_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_navigation_margin;
 			global::MarcTron.Plugin.Resource.Dimension.design_bottom_navigation_shadow_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
 			global::MarcTron.Plugin.Resource.Dimension.design_bottom_navigation_text_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::MarcTron.Plugin.Resource.Dimension.design_bottom_sheet_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_sheet_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.design_bottom_sheet_modal_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.design_bottom_sheet_peek_height_min = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
 			global::MarcTron.Plugin.Resource.Dimension.design_fab_border_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_fab_border_width;
@@ -3436,6 +3682,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.design_navigation_padding_bottom = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_navigation_padding_bottom;
 			global::MarcTron.Plugin.Resource.Dimension.design_navigation_separator_vertical_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
 			global::MarcTron.Plugin.Resource.Dimension.design_snackbar_action_inline_max_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::MarcTron.Plugin.Resource.Dimension.design_snackbar_action_text_color_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
 			global::MarcTron.Plugin.Resource.Dimension.design_snackbar_background_corner_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
 			global::MarcTron.Plugin.Resource.Dimension.design_snackbar_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_snackbar_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
@@ -3465,7 +3712,24 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::FileTransferApp_Mobile.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
 			global::MarcTron.Plugin.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::FileTransferApp_Mobile.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
 			global::MarcTron.Plugin.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::FileTransferApp_Mobile.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::MarcTron.Plugin.Resource.Dimension.material_emphasis_disabled = global::FileTransferApp_Mobile.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::MarcTron.Plugin.Resource.Dimension.material_emphasis_high_type = global::FileTransferApp_Mobile.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::MarcTron.Plugin.Resource.Dimension.material_emphasis_medium = global::FileTransferApp_Mobile.Droid.Resource.Dimension.material_emphasis_medium;
+			global::MarcTron.Plugin.Resource.Dimension.material_text_view_test_line_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::MarcTron.Plugin.Resource.Dimension.material_text_view_test_line_height_override = global::FileTransferApp_Mobile.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_badge_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_badge_text_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_badge_with_text_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
@@ -3492,24 +3756,111 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_btn_text_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_btn_text_size;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_btn_z = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_btn_z;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_action_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_action_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_bottom_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_content_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_days_of_week_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_day_corner = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_day_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_day_today_stroke = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_day_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_content_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_text_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_landscape_header_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_navigation_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_year_corner = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_year_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_calendar_year_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_card_checked_icon_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_card_checked_icon_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_card_corner_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_card_dragged_z = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_card_dragged_z;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_card_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_card_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_card_spacing = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_card_spacing;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_chip_pressed_translation_z = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_chip_text_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_corner_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_end_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_icon_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_min_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_min_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_start_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_top_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_fab_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_fab_min_touch_target = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_fab_translation_z_pressed = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_high_ripple_default_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_large_touch_target = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_low_ripple_default_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_min_touch_target_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_min_touch_target_size;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_navigation_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_navigation_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_navigation_item_icon_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_navigation_item_icon_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_shape_corner_size_large_component = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_shape_corner_size_small_component = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_snackbar_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_switch_thumb_elevation = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::MarcTron.Plugin.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
 			global::MarcTron.Plugin.Resource.Dimension.mtrl_toolbar_default_height = global::FileTransferApp_Mobile.Droid.Resource.Dimension.mtrl_toolbar_default_height;
 			global::MarcTron.Plugin.Resource.Dimension.notification_action_icon_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.notification_action_icon_size;
 			global::MarcTron.Plugin.Resource.Dimension.notification_action_text_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.notification_action_text_size;
@@ -3526,6 +3877,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Dimension.notification_subtext_size = global::FileTransferApp_Mobile.Droid.Resource.Dimension.notification_subtext_size;
 			global::MarcTron.Plugin.Resource.Dimension.notification_top_pad = global::FileTransferApp_Mobile.Droid.Resource.Dimension.notification_top_pad;
 			global::MarcTron.Plugin.Resource.Dimension.notification_top_pad_large_text = global::FileTransferApp_Mobile.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::MarcTron.Plugin.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::FileTransferApp_Mobile.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
 			global::MarcTron.Plugin.Resource.Dimension.tooltip_corner_radius = global::FileTransferApp_Mobile.Droid.Resource.Dimension.tooltip_corner_radius;
 			global::MarcTron.Plugin.Resource.Dimension.tooltip_horizontal_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.tooltip_horizontal_padding;
 			global::MarcTron.Plugin.Resource.Dimension.tooltip_margin = global::FileTransferApp_Mobile.Droid.Resource.Dimension.tooltip_margin;
@@ -3538,11 +3890,13 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Drawable.abc_action_bar_item_background_material = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_action_bar_item_background_material;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_borderless_material = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_borderless_material;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_check_material = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_check_material;
+			global::MarcTron.Plugin.Resource.Drawable.abc_btn_check_material_anim = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_check_material_anim;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_colored_material = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_colored_material;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_default_mtrl_shape = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_radio_material = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::MarcTron.Plugin.Resource.Drawable.abc_btn_radio_material_anim = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_radio_material_anim;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
 			global::MarcTron.Plugin.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
@@ -3620,15 +3974,32 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Drawable.abc_vector_test = global::FileTransferApp_Mobile.Droid.Resource.Drawable.abc_vector_test;
 			global::MarcTron.Plugin.Resource.Drawable.avd_hide_password = global::FileTransferApp_Mobile.Droid.Resource.Drawable.avd_hide_password;
 			global::MarcTron.Plugin.Resource.Drawable.avd_show_password = global::FileTransferApp_Mobile.Droid.Resource.Drawable.avd_show_password;
+			global::MarcTron.Plugin.Resource.Drawable.btn_checkbox_checked_mtrl = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::MarcTron.Plugin.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::MarcTron.Plugin.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::MarcTron.Plugin.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::MarcTron.Plugin.Resource.Drawable.btn_radio_off_mtrl = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::MarcTron.Plugin.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::MarcTron.Plugin.Resource.Drawable.btn_radio_on_mtrl = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::MarcTron.Plugin.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::FileTransferApp_Mobile.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
 			global::MarcTron.Plugin.Resource.Drawable.design_bottom_navigation_item_background = global::FileTransferApp_Mobile.Droid.Resource.Drawable.design_bottom_navigation_item_background;
 			global::MarcTron.Plugin.Resource.Drawable.design_fab_background = global::FileTransferApp_Mobile.Droid.Resource.Drawable.design_fab_background;
 			global::MarcTron.Plugin.Resource.Drawable.design_ic_visibility = global::FileTransferApp_Mobile.Droid.Resource.Drawable.design_ic_visibility;
 			global::MarcTron.Plugin.Resource.Drawable.design_ic_visibility_off = global::FileTransferApp_Mobile.Droid.Resource.Drawable.design_ic_visibility_off;
 			global::MarcTron.Plugin.Resource.Drawable.design_password_eye = global::FileTransferApp_Mobile.Droid.Resource.Drawable.design_password_eye;
 			global::MarcTron.Plugin.Resource.Drawable.design_snackbar_background = global::FileTransferApp_Mobile.Droid.Resource.Drawable.design_snackbar_background;
+			global::MarcTron.Plugin.Resource.Drawable.ic_mtrl_checked_circle = global::FileTransferApp_Mobile.Droid.Resource.Drawable.ic_mtrl_checked_circle;
 			global::MarcTron.Plugin.Resource.Drawable.ic_mtrl_chip_checked_black = global::FileTransferApp_Mobile.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
 			global::MarcTron.Plugin.Resource.Drawable.ic_mtrl_chip_checked_circle = global::FileTransferApp_Mobile.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
 			global::MarcTron.Plugin.Resource.Drawable.ic_mtrl_chip_close_circle = global::FileTransferApp_Mobile.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_dialog_background = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_dropdown_arrow = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_ic_arrow_drop_down = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_ic_arrow_drop_up = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_ic_cancel = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_ic_error = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_ic_error;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_popupmenu_background = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::MarcTron.Plugin.Resource.Drawable.mtrl_popupmenu_background_dark = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_popupmenu_background_dark;
 			global::MarcTron.Plugin.Resource.Drawable.mtrl_tabs_default_indicator = global::FileTransferApp_Mobile.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
 			global::MarcTron.Plugin.Resource.Drawable.navigation_empty_icon = global::FileTransferApp_Mobile.Droid.Resource.Drawable.navigation_empty_icon;
 			global::MarcTron.Plugin.Resource.Drawable.notification_action_background = global::FileTransferApp_Mobile.Droid.Resource.Drawable.notification_action_background;
@@ -3643,6 +4014,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Drawable.notification_template_icon_low_bg = global::FileTransferApp_Mobile.Droid.Resource.Drawable.notification_template_icon_low_bg;
 			global::MarcTron.Plugin.Resource.Drawable.notification_tile_bg = global::FileTransferApp_Mobile.Droid.Resource.Drawable.notification_tile_bg;
 			global::MarcTron.Plugin.Resource.Drawable.notify_panel_notification_icon_bg = global::FileTransferApp_Mobile.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::MarcTron.Plugin.Resource.Drawable.test_custom_background = global::FileTransferApp_Mobile.Droid.Resource.Drawable.test_custom_background;
 			global::MarcTron.Plugin.Resource.Drawable.tooltip_frame_dark = global::FileTransferApp_Mobile.Droid.Resource.Drawable.tooltip_frame_dark;
 			global::MarcTron.Plugin.Resource.Drawable.tooltip_frame_light = global::FileTransferApp_Mobile.Droid.Resource.Drawable.tooltip_frame_light;
 			global::MarcTron.Plugin.Resource.Id.accessibility_action_clickable_span = global::FileTransferApp_Mobile.Droid.Resource.Id.accessibility_action_clickable_span;
@@ -3710,6 +4082,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.bottom = global::FileTransferApp_Mobile.Droid.Resource.Id.bottom;
 			global::MarcTron.Plugin.Resource.Id.bottomtab_navarea = global::FileTransferApp_Mobile.Droid.Resource.Id.bottomtab_navarea;
 			global::MarcTron.Plugin.Resource.Id.bottomtab_tabbar = global::FileTransferApp_Mobile.Droid.Resource.Id.bottomtab_tabbar;
+			global::MarcTron.Plugin.Resource.Id.BOTTOM_END = global::FileTransferApp_Mobile.Droid.Resource.Id.BOTTOM_END;
+			global::MarcTron.Plugin.Resource.Id.BOTTOM_START = global::FileTransferApp_Mobile.Droid.Resource.Id.BOTTOM_START;
 			global::MarcTron.Plugin.Resource.Id.browser_actions_header_text = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_header_text;
 			global::MarcTron.Plugin.Resource.Id.browser_actions_menu_items = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_menu_items;
 			global::MarcTron.Plugin.Resource.Id.browser_actions_menu_item_icon = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_menu_item_icon;
@@ -3717,14 +4091,20 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.browser_actions_menu_view = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_menu_view;
 			global::MarcTron.Plugin.Resource.Id.buttonPanel = global::FileTransferApp_Mobile.Droid.Resource.Id.buttonPanel;
 			global::MarcTron.Plugin.Resource.Id.cancel_action = global::FileTransferApp_Mobile.Droid.Resource.Id.cancel_action;
+			global::MarcTron.Plugin.Resource.Id.cancel_button = global::FileTransferApp_Mobile.Droid.Resource.Id.cancel_button;
 			global::MarcTron.Plugin.Resource.Id.center = global::FileTransferApp_Mobile.Droid.Resource.Id.center;
 			global::MarcTron.Plugin.Resource.Id.center_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Id.center_horizontal;
 			global::MarcTron.Plugin.Resource.Id.center_vertical = global::FileTransferApp_Mobile.Droid.Resource.Id.center_vertical;
 			global::MarcTron.Plugin.Resource.Id.checkbox = global::FileTransferApp_Mobile.Droid.Resource.Id.checkbox;
+			global::MarcTron.Plugin.Resource.Id.@checked = global::FileTransferApp_Mobile.Droid.Resource.Id.@checked;
+			global::MarcTron.Plugin.Resource.Id.chip = global::FileTransferApp_Mobile.Droid.Resource.Id.chip;
+			global::MarcTron.Plugin.Resource.Id.chip_group = global::FileTransferApp_Mobile.Droid.Resource.Id.chip_group;
 			global::MarcTron.Plugin.Resource.Id.chronometer = global::FileTransferApp_Mobile.Droid.Resource.Id.chronometer;
+			global::MarcTron.Plugin.Resource.Id.clear_text = global::FileTransferApp_Mobile.Droid.Resource.Id.clear_text;
 			global::MarcTron.Plugin.Resource.Id.clip_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Id.clip_horizontal;
 			global::MarcTron.Plugin.Resource.Id.clip_vertical = global::FileTransferApp_Mobile.Droid.Resource.Id.clip_vertical;
 			global::MarcTron.Plugin.Resource.Id.collapseActionView = global::FileTransferApp_Mobile.Droid.Resource.Id.collapseActionView;
+			global::MarcTron.Plugin.Resource.Id.confirm_button = global::FileTransferApp_Mobile.Droid.Resource.Id.confirm_button;
 			global::MarcTron.Plugin.Resource.Id.container = global::FileTransferApp_Mobile.Droid.Resource.Id.container;
 			global::MarcTron.Plugin.Resource.Id.content = global::FileTransferApp_Mobile.Droid.Resource.Id.content;
 			global::MarcTron.Plugin.Resource.Id.contentPanel = global::FileTransferApp_Mobile.Droid.Resource.Id.contentPanel;
@@ -3732,6 +4112,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.CTRL = global::FileTransferApp_Mobile.Droid.Resource.Id.CTRL;
 			global::MarcTron.Plugin.Resource.Id.custom = global::FileTransferApp_Mobile.Droid.Resource.Id.custom;
 			global::MarcTron.Plugin.Resource.Id.customPanel = global::FileTransferApp_Mobile.Droid.Resource.Id.customPanel;
+			global::MarcTron.Plugin.Resource.Id.cut = global::FileTransferApp_Mobile.Droid.Resource.Id.cut;
+			global::MarcTron.Plugin.Resource.Id.date_picker_actions = global::FileTransferApp_Mobile.Droid.Resource.Id.date_picker_actions;
 			global::MarcTron.Plugin.Resource.Id.decor_content_parent = global::FileTransferApp_Mobile.Droid.Resource.Id.decor_content_parent;
 			global::MarcTron.Plugin.Resource.Id.default_activity_button = global::FileTransferApp_Mobile.Droid.Resource.Id.default_activity_button;
 			global::MarcTron.Plugin.Resource.Id.design_bottom_sheet = global::FileTransferApp_Mobile.Droid.Resource.Id.design_bottom_sheet;
@@ -3741,6 +4123,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.design_navigation_view = global::FileTransferApp_Mobile.Droid.Resource.Id.design_navigation_view;
 			global::MarcTron.Plugin.Resource.Id.dialog_button = global::FileTransferApp_Mobile.Droid.Resource.Id.dialog_button;
 			global::MarcTron.Plugin.Resource.Id.disableHome = global::FileTransferApp_Mobile.Droid.Resource.Id.disableHome;
+			global::MarcTron.Plugin.Resource.Id.dropdown_menu = global::FileTransferApp_Mobile.Droid.Resource.Id.dropdown_menu;
 			global::MarcTron.Plugin.Resource.Id.edit_query = global::FileTransferApp_Mobile.Droid.Resource.Id.edit_query;
 			global::MarcTron.Plugin.Resource.Id.end = global::FileTransferApp_Mobile.Droid.Resource.Id.end;
 			global::MarcTron.Plugin.Resource.Id.end_padder = global::FileTransferApp_Mobile.Droid.Resource.Id.end_padder;
@@ -3749,16 +4132,21 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.exitUntilCollapsed = global::FileTransferApp_Mobile.Droid.Resource.Id.exitUntilCollapsed;
 			global::MarcTron.Plugin.Resource.Id.expanded_menu = global::FileTransferApp_Mobile.Droid.Resource.Id.expanded_menu;
 			global::MarcTron.Plugin.Resource.Id.expand_activities_button = global::FileTransferApp_Mobile.Droid.Resource.Id.expand_activities_button;
+			global::MarcTron.Plugin.Resource.Id.fade = global::FileTransferApp_Mobile.Droid.Resource.Id.fade;
 			global::MarcTron.Plugin.Resource.Id.fill = global::FileTransferApp_Mobile.Droid.Resource.Id.fill;
 			global::MarcTron.Plugin.Resource.Id.filled = global::FileTransferApp_Mobile.Droid.Resource.Id.filled;
 			global::MarcTron.Plugin.Resource.Id.fill_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Id.fill_horizontal;
 			global::MarcTron.Plugin.Resource.Id.fill_vertical = global::FileTransferApp_Mobile.Droid.Resource.Id.fill_vertical;
+			global::MarcTron.Plugin.Resource.Id.fitToContents = global::FileTransferApp_Mobile.Droid.Resource.Id.fitToContents;
 			global::MarcTron.Plugin.Resource.Id.@fixed = global::FileTransferApp_Mobile.Droid.Resource.Id.@fixed;
 			global::MarcTron.Plugin.Resource.Id.flyoutcontent_appbar = global::FileTransferApp_Mobile.Droid.Resource.Id.flyoutcontent_appbar;
 			global::MarcTron.Plugin.Resource.Id.forever = global::FileTransferApp_Mobile.Droid.Resource.Id.forever;
+			global::MarcTron.Plugin.Resource.Id.fragment_container_view_tag = global::FileTransferApp_Mobile.Droid.Resource.Id.fragment_container_view_tag;
 			global::MarcTron.Plugin.Resource.Id.FUNCTION = global::FileTransferApp_Mobile.Droid.Resource.Id.FUNCTION;
 			global::MarcTron.Plugin.Resource.Id.ghost_view = global::FileTransferApp_Mobile.Droid.Resource.Id.ghost_view;
+			global::MarcTron.Plugin.Resource.Id.ghost_view_holder = global::FileTransferApp_Mobile.Droid.Resource.Id.ghost_view_holder;
 			global::MarcTron.Plugin.Resource.Id.group_divider = global::FileTransferApp_Mobile.Droid.Resource.Id.group_divider;
+			global::MarcTron.Plugin.Resource.Id.hideable = global::FileTransferApp_Mobile.Droid.Resource.Id.hideable;
 			global::MarcTron.Plugin.Resource.Id.home = global::FileTransferApp_Mobile.Droid.Resource.Id.home;
 			global::MarcTron.Plugin.Resource.Id.homeAsUp = global::FileTransferApp_Mobile.Droid.Resource.Id.homeAsUp;
 			global::MarcTron.Plugin.Resource.Id.icon = global::FileTransferApp_Mobile.Droid.Resource.Id.icon;
@@ -3781,24 +4169,54 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.main_viewpager = global::FileTransferApp_Mobile.Droid.Resource.Id.main_viewpager;
 			global::MarcTron.Plugin.Resource.Id.masked = global::FileTransferApp_Mobile.Droid.Resource.Id.masked;
 			global::MarcTron.Plugin.Resource.Id.media_actions = global::FileTransferApp_Mobile.Droid.Resource.Id.media_actions;
+			global::MarcTron.Plugin.Resource.Id.media_controller_compat_view_tag = global::FileTransferApp_Mobile.Droid.Resource.Id.media_controller_compat_view_tag;
 			global::MarcTron.Plugin.Resource.Id.message = global::FileTransferApp_Mobile.Droid.Resource.Id.message;
 			global::MarcTron.Plugin.Resource.Id.META = global::FileTransferApp_Mobile.Droid.Resource.Id.META;
 			global::MarcTron.Plugin.Resource.Id.middle = global::FileTransferApp_Mobile.Droid.Resource.Id.middle;
 			global::MarcTron.Plugin.Resource.Id.mini = global::FileTransferApp_Mobile.Droid.Resource.Id.mini;
+			global::MarcTron.Plugin.Resource.Id.month_grid = global::FileTransferApp_Mobile.Droid.Resource.Id.month_grid;
+			global::MarcTron.Plugin.Resource.Id.month_navigation_bar = global::FileTransferApp_Mobile.Droid.Resource.Id.month_navigation_bar;
+			global::MarcTron.Plugin.Resource.Id.month_navigation_fragment_toggle = global::FileTransferApp_Mobile.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::MarcTron.Plugin.Resource.Id.month_navigation_next = global::FileTransferApp_Mobile.Droid.Resource.Id.month_navigation_next;
+			global::MarcTron.Plugin.Resource.Id.month_navigation_previous = global::FileTransferApp_Mobile.Droid.Resource.Id.month_navigation_previous;
+			global::MarcTron.Plugin.Resource.Id.month_title = global::FileTransferApp_Mobile.Droid.Resource.Id.month_title;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_days_of_week = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_day_selector_frame = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_frame = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_frame;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_main_pane = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_months = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_months;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_selection_frame = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_text_input_frame = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::MarcTron.Plugin.Resource.Id.mtrl_calendar_year_selector_frame = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::MarcTron.Plugin.Resource.Id.mtrl_card_checked_layer_id = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_card_checked_layer_id;
 			global::MarcTron.Plugin.Resource.Id.mtrl_child_content_container = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_child_content_container;
 			global::MarcTron.Plugin.Resource.Id.mtrl_internal_children_alpha_tag = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_header = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_header;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_header_selection_text = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_header_title_and_selection = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_header_toggle = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_text_input_date = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_text_input_range_end = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_text_input_range_start = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::MarcTron.Plugin.Resource.Id.mtrl_picker_title_text = global::FileTransferApp_Mobile.Droid.Resource.Id.mtrl_picker_title_text;
 			global::MarcTron.Plugin.Resource.Id.multiply = global::FileTransferApp_Mobile.Droid.Resource.Id.multiply;
 			global::MarcTron.Plugin.Resource.Id.navigation_header_container = global::FileTransferApp_Mobile.Droid.Resource.Id.navigation_header_container;
 			global::MarcTron.Plugin.Resource.Id.never = global::FileTransferApp_Mobile.Droid.Resource.Id.never;
 			global::MarcTron.Plugin.Resource.Id.none = global::FileTransferApp_Mobile.Droid.Resource.Id.none;
 			global::MarcTron.Plugin.Resource.Id.normal = global::FileTransferApp_Mobile.Droid.Resource.Id.normal;
+			global::MarcTron.Plugin.Resource.Id.noScroll = global::FileTransferApp_Mobile.Droid.Resource.Id.noScroll;
 			global::MarcTron.Plugin.Resource.Id.notification_background = global::FileTransferApp_Mobile.Droid.Resource.Id.notification_background;
 			global::MarcTron.Plugin.Resource.Id.notification_main_column = global::FileTransferApp_Mobile.Droid.Resource.Id.notification_main_column;
 			global::MarcTron.Plugin.Resource.Id.notification_main_column_container = global::FileTransferApp_Mobile.Droid.Resource.Id.notification_main_column_container;
+			global::MarcTron.Plugin.Resource.Id.off = global::FileTransferApp_Mobile.Droid.Resource.Id.off;
+			global::MarcTron.Plugin.Resource.Id.on = global::FileTransferApp_Mobile.Droid.Resource.Id.on;
 			global::MarcTron.Plugin.Resource.Id.outline = global::FileTransferApp_Mobile.Droid.Resource.Id.outline;
 			global::MarcTron.Plugin.Resource.Id.parallax = global::FileTransferApp_Mobile.Droid.Resource.Id.parallax;
 			global::MarcTron.Plugin.Resource.Id.parentPanel = global::FileTransferApp_Mobile.Droid.Resource.Id.parentPanel;
 			global::MarcTron.Plugin.Resource.Id.parent_matrix = global::FileTransferApp_Mobile.Droid.Resource.Id.parent_matrix;
+			global::MarcTron.Plugin.Resource.Id.password_toggle = global::FileTransferApp_Mobile.Droid.Resource.Id.password_toggle;
+			global::MarcTron.Plugin.Resource.Id.peekHeight = global::FileTransferApp_Mobile.Droid.Resource.Id.peekHeight;
 			global::MarcTron.Plugin.Resource.Id.pin = global::FileTransferApp_Mobile.Droid.Resource.Id.pin;
 			global::MarcTron.Plugin.Resource.Id.progress_circular = global::FileTransferApp_Mobile.Droid.Resource.Id.progress_circular;
 			global::MarcTron.Plugin.Resource.Id.progress_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Id.progress_horizontal;
@@ -3806,7 +4224,10 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.right = global::FileTransferApp_Mobile.Droid.Resource.Id.right;
 			global::MarcTron.Plugin.Resource.Id.right_icon = global::FileTransferApp_Mobile.Droid.Resource.Id.right_icon;
 			global::MarcTron.Plugin.Resource.Id.right_side = global::FileTransferApp_Mobile.Droid.Resource.Id.right_side;
+			global::MarcTron.Plugin.Resource.Id.rounded = global::FileTransferApp_Mobile.Droid.Resource.Id.rounded;
 			global::MarcTron.Plugin.Resource.Id.save_non_transition_alpha = global::FileTransferApp_Mobile.Droid.Resource.Id.save_non_transition_alpha;
+			global::MarcTron.Plugin.Resource.Id.save_overlay_view = global::FileTransferApp_Mobile.Droid.Resource.Id.save_overlay_view;
+			global::MarcTron.Plugin.Resource.Id.scale = global::FileTransferApp_Mobile.Droid.Resource.Id.scale;
 			global::MarcTron.Plugin.Resource.Id.screen = global::FileTransferApp_Mobile.Droid.Resource.Id.screen;
 			global::MarcTron.Plugin.Resource.Id.scroll = global::FileTransferApp_Mobile.Droid.Resource.Id.scroll;
 			global::MarcTron.Plugin.Resource.Id.scrollable = global::FileTransferApp_Mobile.Droid.Resource.Id.scrollable;
@@ -3832,6 +4253,9 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.showCustom = global::FileTransferApp_Mobile.Droid.Resource.Id.showCustom;
 			global::MarcTron.Plugin.Resource.Id.showHome = global::FileTransferApp_Mobile.Droid.Resource.Id.showHome;
 			global::MarcTron.Plugin.Resource.Id.showTitle = global::FileTransferApp_Mobile.Droid.Resource.Id.showTitle;
+			global::MarcTron.Plugin.Resource.Id.skipCollapsed = global::FileTransferApp_Mobile.Droid.Resource.Id.skipCollapsed;
+			global::MarcTron.Plugin.Resource.Id.slide = global::FileTransferApp_Mobile.Droid.Resource.Id.slide;
+			global::MarcTron.Plugin.Resource.Id.sliding_tabs = global::FileTransferApp_Mobile.Droid.Resource.Id.sliding_tabs;
 			global::MarcTron.Plugin.Resource.Id.smallLabel = global::FileTransferApp_Mobile.Droid.Resource.Id.smallLabel;
 			global::MarcTron.Plugin.Resource.Id.snackbar_action = global::FileTransferApp_Mobile.Droid.Resource.Id.snackbar_action;
 			global::MarcTron.Plugin.Resource.Id.snackbar_text = global::FileTransferApp_Mobile.Droid.Resource.Id.snackbar_text;
@@ -3857,32 +4281,43 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Id.tag_transition_group = global::FileTransferApp_Mobile.Droid.Resource.Id.tag_transition_group;
 			global::MarcTron.Plugin.Resource.Id.tag_unhandled_key_event_manager = global::FileTransferApp_Mobile.Droid.Resource.Id.tag_unhandled_key_event_manager;
 			global::MarcTron.Plugin.Resource.Id.tag_unhandled_key_listeners = global::FileTransferApp_Mobile.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::MarcTron.Plugin.Resource.Id.test_checkbox_android_button_tint = global::FileTransferApp_Mobile.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::MarcTron.Plugin.Resource.Id.test_checkbox_app_button_tint = global::FileTransferApp_Mobile.Droid.Resource.Id.test_checkbox_app_button_tint;
 			global::MarcTron.Plugin.Resource.Id.text = global::FileTransferApp_Mobile.Droid.Resource.Id.text;
 			global::MarcTron.Plugin.Resource.Id.text2 = global::FileTransferApp_Mobile.Droid.Resource.Id.text2;
+			global::MarcTron.Plugin.Resource.Id.textEnd = global::FileTransferApp_Mobile.Droid.Resource.Id.textEnd;
 			global::MarcTron.Plugin.Resource.Id.textinput_counter = global::FileTransferApp_Mobile.Droid.Resource.Id.textinput_counter;
 			global::MarcTron.Plugin.Resource.Id.textinput_error = global::FileTransferApp_Mobile.Droid.Resource.Id.textinput_error;
 			global::MarcTron.Plugin.Resource.Id.textinput_helper_text = global::FileTransferApp_Mobile.Droid.Resource.Id.textinput_helper_text;
 			global::MarcTron.Plugin.Resource.Id.textSpacerNoButtons = global::FileTransferApp_Mobile.Droid.Resource.Id.textSpacerNoButtons;
 			global::MarcTron.Plugin.Resource.Id.textSpacerNoTitle = global::FileTransferApp_Mobile.Droid.Resource.Id.textSpacerNoTitle;
 			global::MarcTron.Plugin.Resource.Id.textStart = global::FileTransferApp_Mobile.Droid.Resource.Id.textStart;
+			global::MarcTron.Plugin.Resource.Id.text_input_end_icon = global::FileTransferApp_Mobile.Droid.Resource.Id.text_input_end_icon;
+			global::MarcTron.Plugin.Resource.Id.text_input_start_icon = global::FileTransferApp_Mobile.Droid.Resource.Id.text_input_start_icon;
 			global::MarcTron.Plugin.Resource.Id.time = global::FileTransferApp_Mobile.Droid.Resource.Id.time;
 			global::MarcTron.Plugin.Resource.Id.title = global::FileTransferApp_Mobile.Droid.Resource.Id.title;
 			global::MarcTron.Plugin.Resource.Id.titleDividerNoCustom = global::FileTransferApp_Mobile.Droid.Resource.Id.titleDividerNoCustom;
 			global::MarcTron.Plugin.Resource.Id.title_template = global::FileTransferApp_Mobile.Droid.Resource.Id.title_template;
+			global::MarcTron.Plugin.Resource.Id.toolbar = global::FileTransferApp_Mobile.Droid.Resource.Id.toolbar;
 			global::MarcTron.Plugin.Resource.Id.top = global::FileTransferApp_Mobile.Droid.Resource.Id.top;
 			global::MarcTron.Plugin.Resource.Id.topPanel = global::FileTransferApp_Mobile.Droid.Resource.Id.topPanel;
+			global::MarcTron.Plugin.Resource.Id.TOP_END = global::FileTransferApp_Mobile.Droid.Resource.Id.TOP_END;
+			global::MarcTron.Plugin.Resource.Id.TOP_START = global::FileTransferApp_Mobile.Droid.Resource.Id.TOP_START;
 			global::MarcTron.Plugin.Resource.Id.touch_outside = global::FileTransferApp_Mobile.Droid.Resource.Id.touch_outside;
 			global::MarcTron.Plugin.Resource.Id.transition_current_scene = global::FileTransferApp_Mobile.Droid.Resource.Id.transition_current_scene;
 			global::MarcTron.Plugin.Resource.Id.transition_layout_save = global::FileTransferApp_Mobile.Droid.Resource.Id.transition_layout_save;
 			global::MarcTron.Plugin.Resource.Id.transition_position = global::FileTransferApp_Mobile.Droid.Resource.Id.transition_position;
 			global::MarcTron.Plugin.Resource.Id.transition_scene_layoutid_cache = global::FileTransferApp_Mobile.Droid.Resource.Id.transition_scene_layoutid_cache;
 			global::MarcTron.Plugin.Resource.Id.transition_transform = global::FileTransferApp_Mobile.Droid.Resource.Id.transition_transform;
+			global::MarcTron.Plugin.Resource.Id.@unchecked = global::FileTransferApp_Mobile.Droid.Resource.Id.@unchecked;
 			global::MarcTron.Plugin.Resource.Id.uniform = global::FileTransferApp_Mobile.Droid.Resource.Id.uniform;
 			global::MarcTron.Plugin.Resource.Id.unlabeled = global::FileTransferApp_Mobile.Droid.Resource.Id.unlabeled;
 			global::MarcTron.Plugin.Resource.Id.up = global::FileTransferApp_Mobile.Droid.Resource.Id.up;
 			global::MarcTron.Plugin.Resource.Id.useLogo = global::FileTransferApp_Mobile.Droid.Resource.Id.useLogo;
 			global::MarcTron.Plugin.Resource.Id.view_offset_helper = global::FileTransferApp_Mobile.Droid.Resource.Id.view_offset_helper;
+			global::MarcTron.Plugin.Resource.Id.view_tree_saved_state_registry_owner = global::FileTransferApp_Mobile.Droid.Resource.Id.view_tree_saved_state_registry_owner;
 			global::MarcTron.Plugin.Resource.Id.visible = global::FileTransferApp_Mobile.Droid.Resource.Id.visible;
+			global::MarcTron.Plugin.Resource.Id.visible_removing_fragment_view_tag = global::FileTransferApp_Mobile.Droid.Resource.Id.visible_removing_fragment_view_tag;
 			global::MarcTron.Plugin.Resource.Id.withText = global::FileTransferApp_Mobile.Droid.Resource.Id.withText;
 			global::MarcTron.Plugin.Resource.Id.wrap_content = global::FileTransferApp_Mobile.Droid.Resource.Id.wrap_content;
 			global::MarcTron.Plugin.Resource.Integer.abc_config_activityDefaultDur = global::FileTransferApp_Mobile.Droid.Resource.Integer.abc_config_activityDefaultDur;
@@ -3895,12 +4330,25 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Integer.design_tab_indicator_anim_duration_ms = global::FileTransferApp_Mobile.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
 			global::MarcTron.Plugin.Resource.Integer.google_play_services_version = global::FileTransferApp_Mobile.Droid.Resource.Integer.google_play_services_version;
 			global::MarcTron.Plugin.Resource.Integer.hide_password_duration = global::FileTransferApp_Mobile.Droid.Resource.Integer.hide_password_duration;
+			global::MarcTron.Plugin.Resource.Integer.mtrl_badge_max_character_count = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_badge_max_character_count;
 			global::MarcTron.Plugin.Resource.Integer.mtrl_btn_anim_delay_ms = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
 			global::MarcTron.Plugin.Resource.Integer.mtrl_btn_anim_duration_ms = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::MarcTron.Plugin.Resource.Integer.mtrl_calendar_header_orientation = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::MarcTron.Plugin.Resource.Integer.mtrl_calendar_selection_text_lines = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::MarcTron.Plugin.Resource.Integer.mtrl_calendar_year_selector_span = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::MarcTron.Plugin.Resource.Integer.mtrl_card_anim_delay_ms = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::MarcTron.Plugin.Resource.Integer.mtrl_card_anim_duration_ms = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
 			global::MarcTron.Plugin.Resource.Integer.mtrl_chip_anim_duration = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_chip_anim_duration;
 			global::MarcTron.Plugin.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::FileTransferApp_Mobile.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
 			global::MarcTron.Plugin.Resource.Integer.show_password_duration = global::FileTransferApp_Mobile.Droid.Resource.Integer.show_password_duration;
 			global::MarcTron.Plugin.Resource.Integer.status_bar_notification_info_maxnum = global::FileTransferApp_Mobile.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::MarcTron.Plugin.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::MarcTron.Plugin.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::MarcTron.Plugin.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::MarcTron.Plugin.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::MarcTron.Plugin.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::MarcTron.Plugin.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::MarcTron.Plugin.Resource.Interpolator.fast_out_slow_in = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.fast_out_slow_in;
 			global::MarcTron.Plugin.Resource.Interpolator.mtrl_fast_out_linear_in = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
 			global::MarcTron.Plugin.Resource.Interpolator.mtrl_fast_out_slow_in = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
 			global::MarcTron.Plugin.Resource.Interpolator.mtrl_linear = global::FileTransferApp_Mobile.Droid.Resource.Interpolator.mtrl_linear;
@@ -3950,9 +4398,39 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Layout.design_navigation_item_subheader = global::FileTransferApp_Mobile.Droid.Resource.Layout.design_navigation_item_subheader;
 			global::MarcTron.Plugin.Resource.Layout.design_navigation_menu = global::FileTransferApp_Mobile.Droid.Resource.Layout.design_navigation_menu;
 			global::MarcTron.Plugin.Resource.Layout.design_navigation_menu_item = global::FileTransferApp_Mobile.Droid.Resource.Layout.design_navigation_menu_item;
+			global::MarcTron.Plugin.Resource.Layout.design_text_input_end_icon = global::FileTransferApp_Mobile.Droid.Resource.Layout.design_text_input_end_icon;
+			global::MarcTron.Plugin.Resource.Layout.design_text_input_start_icon = global::FileTransferApp_Mobile.Droid.Resource.Layout.design_text_input_start_icon;
+			global::MarcTron.Plugin.Resource.Layout.FallbackTabbarDoNotUse = global::FileTransferApp_Mobile.Droid.Resource.Layout.FallbackTabbarDoNotUse;
+			global::MarcTron.Plugin.Resource.Layout.FallbackToolbarDoNotUse = global::FileTransferApp_Mobile.Droid.Resource.Layout.FallbackToolbarDoNotUse;
 			global::MarcTron.Plugin.Resource.Layout.FlyoutContent = global::FileTransferApp_Mobile.Droid.Resource.Layout.FlyoutContent;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_alert_dialog = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_alert_dialog_actions = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_alert_dialog_title = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_alert_select_dialog_item = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_day = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_day;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_days_of_week = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_day_of_week = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_month = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_month;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_months = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_months;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_month_labeled = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_month_navigation = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_vertical = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_calendar_year = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_calendar_year;
 			global::MarcTron.Plugin.Resource.Layout.mtrl_layout_snackbar = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_layout_snackbar;
 			global::MarcTron.Plugin.Resource.Layout.mtrl_layout_snackbar_include = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_actions = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_actions;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_dialog = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_header_dialog = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_header_fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_header_selection_text = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_header_title_text = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_header_toggle = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_text_input_date = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::MarcTron.Plugin.Resource.Layout.mtrl_picker_text_input_date_range = global::FileTransferApp_Mobile.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
 			global::MarcTron.Plugin.Resource.Layout.notification_action = global::FileTransferApp_Mobile.Droid.Resource.Layout.notification_action;
 			global::MarcTron.Plugin.Resource.Layout.notification_action_tombstone = global::FileTransferApp_Mobile.Droid.Resource.Layout.notification_action_tombstone;
 			global::MarcTron.Plugin.Resource.Layout.notification_media_action = global::FileTransferApp_Mobile.Droid.Resource.Layout.notification_media_action;
@@ -3974,6 +4452,21 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Layout.select_dialog_singlechoice_material = global::FileTransferApp_Mobile.Droid.Resource.Layout.select_dialog_singlechoice_material;
 			global::MarcTron.Plugin.Resource.Layout.ShellContent = global::FileTransferApp_Mobile.Droid.Resource.Layout.ShellContent;
 			global::MarcTron.Plugin.Resource.Layout.support_simple_spinner_dropdown_item = global::FileTransferApp_Mobile.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::MarcTron.Plugin.Resource.Layout.Tabbar = global::FileTransferApp_Mobile.Droid.Resource.Layout.Tabbar;
+			global::MarcTron.Plugin.Resource.Layout.test_action_chip = global::FileTransferApp_Mobile.Droid.Resource.Layout.test_action_chip;
+			global::MarcTron.Plugin.Resource.Layout.test_design_checkbox = global::FileTransferApp_Mobile.Droid.Resource.Layout.test_design_checkbox;
+			global::MarcTron.Plugin.Resource.Layout.test_reflow_chipgroup = global::FileTransferApp_Mobile.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::MarcTron.Plugin.Resource.Layout.test_toolbar = global::FileTransferApp_Mobile.Droid.Resource.Layout.test_toolbar;
+			global::MarcTron.Plugin.Resource.Layout.test_toolbar_custom_background = global::FileTransferApp_Mobile.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::MarcTron.Plugin.Resource.Layout.test_toolbar_elevation = global::FileTransferApp_Mobile.Droid.Resource.Layout.test_toolbar_elevation;
+			global::MarcTron.Plugin.Resource.Layout.test_toolbar_surface = global::FileTransferApp_Mobile.Droid.Resource.Layout.test_toolbar_surface;
+			global::MarcTron.Plugin.Resource.Layout.text_view_without_line_height = global::FileTransferApp_Mobile.Droid.Resource.Layout.text_view_without_line_height;
+			global::MarcTron.Plugin.Resource.Layout.text_view_with_line_height_from_appearance = global::FileTransferApp_Mobile.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::MarcTron.Plugin.Resource.Layout.text_view_with_line_height_from_layout = global::FileTransferApp_Mobile.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::MarcTron.Plugin.Resource.Layout.text_view_with_line_height_from_style = global::FileTransferApp_Mobile.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::MarcTron.Plugin.Resource.Layout.text_view_with_theme_line_height = global::FileTransferApp_Mobile.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::MarcTron.Plugin.Resource.Layout.Toolbar = global::FileTransferApp_Mobile.Droid.Resource.Layout.Toolbar;
+			global::MarcTron.Plugin.Resource.Plurals.mtrl_badge_content_description = global::FileTransferApp_Mobile.Droid.Resource.Plurals.mtrl_badge_content_description;
 			global::MarcTron.Plugin.Resource.String.abc_action_bar_home_description = global::FileTransferApp_Mobile.Droid.Resource.String.abc_action_bar_home_description;
 			global::MarcTron.Plugin.Resource.String.abc_action_bar_up_description = global::FileTransferApp_Mobile.Droid.Resource.String.abc_action_bar_up_description;
 			global::MarcTron.Plugin.Resource.String.abc_action_menu_overflow_description = global::FileTransferApp_Mobile.Droid.Resource.String.abc_action_menu_overflow_description;
@@ -4004,12 +4497,56 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.String.appbar_scrolling_view_behavior = global::FileTransferApp_Mobile.Droid.Resource.String.appbar_scrolling_view_behavior;
 			global::MarcTron.Plugin.Resource.String.bottom_sheet_behavior = global::FileTransferApp_Mobile.Droid.Resource.String.bottom_sheet_behavior;
 			global::MarcTron.Plugin.Resource.String.character_counter_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.character_counter_content_description;
+			global::MarcTron.Plugin.Resource.String.character_counter_overflowed_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.character_counter_overflowed_content_description;
 			global::MarcTron.Plugin.Resource.String.character_counter_pattern = global::FileTransferApp_Mobile.Droid.Resource.String.character_counter_pattern;
+			global::MarcTron.Plugin.Resource.String.chip_text = global::FileTransferApp_Mobile.Droid.Resource.String.chip_text;
+			global::MarcTron.Plugin.Resource.String.clear_text_end_icon_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.clear_text_end_icon_content_description;
 			global::MarcTron.Plugin.Resource.String.common_google_play_services_unknown_issue = global::FileTransferApp_Mobile.Droid.Resource.String.common_google_play_services_unknown_issue;
+			global::MarcTron.Plugin.Resource.String.copy_toast_msg = global::FileTransferApp_Mobile.Droid.Resource.String.copy_toast_msg;
+			global::MarcTron.Plugin.Resource.String.error_icon_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.error_icon_content_description;
+			global::MarcTron.Plugin.Resource.String.exposed_dropdown_menu_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.exposed_dropdown_menu_content_description;
 			global::MarcTron.Plugin.Resource.String.fab_transformation_scrim_behavior = global::FileTransferApp_Mobile.Droid.Resource.String.fab_transformation_scrim_behavior;
 			global::MarcTron.Plugin.Resource.String.fab_transformation_sheet_behavior = global::FileTransferApp_Mobile.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::MarcTron.Plugin.Resource.String.fallback_menu_item_copy_link = global::FileTransferApp_Mobile.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::MarcTron.Plugin.Resource.String.fallback_menu_item_open_in_browser = global::FileTransferApp_Mobile.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::MarcTron.Plugin.Resource.String.fallback_menu_item_share_link = global::FileTransferApp_Mobile.Droid.Resource.String.fallback_menu_item_share_link;
 			global::MarcTron.Plugin.Resource.String.hide_bottom_view_on_scroll_behavior = global::FileTransferApp_Mobile.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::MarcTron.Plugin.Resource.String.icon_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.icon_content_description;
+			global::MarcTron.Plugin.Resource.String.mtrl_badge_numberless_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_badge_numberless_content_description;
 			global::MarcTron.Plugin.Resource.String.mtrl_chip_close_icon_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::MarcTron.Plugin.Resource.String.mtrl_exceed_max_badge_number_suffix = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_a11y_next_month = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_a11y_prev_month = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_announce_current_selection = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_cancel = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_cancel;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_confirm = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_confirm;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_date_header_selected = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_date_header_title = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_date_header_unselected = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_day_of_week_column_header = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_invalid_format = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_invalid_format_example = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_invalid_format_use = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_invalid_range = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_navigate_to_year_description = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_out_of_range = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_range_header_only_end_selected = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_range_header_only_start_selected = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_range_header_selected = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_range_header_title = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_range_header_unselected = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_save = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_save;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_text_input_date_hint = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_text_input_day_abbr = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_text_input_month_abbr = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_text_input_year_abbr = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_toggle_to_day_selection = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::MarcTron.Plugin.Resource.String.mtrl_picker_toggle_to_year_selection = global::FileTransferApp_Mobile.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::MarcTron.Plugin.Resource.String.overflow_tab_title = global::FileTransferApp_Mobile.Droid.Resource.String.overflow_tab_title;
 			global::MarcTron.Plugin.Resource.String.password_toggle_content_description = global::FileTransferApp_Mobile.Droid.Resource.String.password_toggle_content_description;
 			global::MarcTron.Plugin.Resource.String.path_password_eye = global::FileTransferApp_Mobile.Droid.Resource.String.path_password_eye;
 			global::MarcTron.Plugin.Resource.String.path_password_eye_mask_strike_through = global::FileTransferApp_Mobile.Droid.Resource.String.path_password_eye_mask_strike_through;
@@ -4023,6 +4560,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Animation_AppCompat_DropDownUp = global::FileTransferApp_Mobile.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
 			global::MarcTron.Plugin.Resource.Style.Animation_AppCompat_Tooltip = global::FileTransferApp_Mobile.Droid.Resource.Style.Animation_AppCompat_Tooltip;
 			global::MarcTron.Plugin.Resource.Style.Animation_Design_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::MarcTron.Plugin.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::MarcTron.Plugin.Resource.Style.AppCompatDialogStyle = global::FileTransferApp_Mobile.Droid.Resource.Style.AppCompatDialogStyle;
 			global::MarcTron.Plugin.Resource.Style.Base_AlertDialog_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_AlertDialog_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.Base_AlertDialog_AppCompat_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
 			global::MarcTron.Plugin.Resource.Style.Base_Animation_AppCompat_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
@@ -4031,6 +4570,9 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Base_CardView = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_CardView;
 			global::MarcTron.Plugin.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.Base_DialogWindowTitle_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::MarcTron.Plugin.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::MarcTron.Plugin.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::MarcTron.Plugin.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
@@ -4076,6 +4618,10 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
 			global::MarcTron.Plugin.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
@@ -4088,6 +4634,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
 			global::MarcTron.Plugin.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
 			global::MarcTron.Plugin.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::MarcTron.Plugin.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_AppCompat_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
@@ -4108,6 +4655,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
@@ -4117,17 +4665,21 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
 			global::MarcTron.Plugin.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::MarcTron.Plugin.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::MarcTron.Plugin.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
 			global::MarcTron.Plugin.Resource.Style.Base_V21_Theme_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V21_Theme_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
@@ -4204,16 +4756,38 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_AppCompat_Spinner = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_AppCompat_TextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_AppCompat_Toolbar = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_Design_TabLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_Chip = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
 			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::MarcTron.Plugin.Resource.Style.Base_Widget_MaterialComponents_TextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
 			global::MarcTron.Plugin.Resource.Style.CardView = global::FileTransferApp_Mobile.Droid.Resource.Style.CardView;
 			global::MarcTron.Plugin.Resource.Style.CardView_Dark = global::FileTransferApp_Mobile.Droid.Resource.Style.CardView_Dark;
 			global::MarcTron.Plugin.Resource.Style.CardView_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.CardView_Light;
+			global::MarcTron.Plugin.Resource.Style.collectionViewTheme = global::FileTransferApp_Mobile.Droid.Resource.Style.collectionViewTheme;
+			global::MarcTron.Plugin.Resource.Style.EmptyTheme = global::FileTransferApp_Mobile.Droid.Resource.Style.EmptyTheme;
+			global::MarcTron.Plugin.Resource.Style.MainTheme = global::FileTransferApp_Mobile.Droid.Resource.Style.MainTheme;
+			global::MarcTron.Plugin.Resource.Style.MainTheme_Base = global::FileTransferApp_Mobile.Droid.Resource.Style.MainTheme_Base;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::MarcTron.Plugin.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::FileTransferApp_Mobile.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
 			global::MarcTron.Plugin.Resource.Style.Platform_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Platform_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.Platform_AppCompat_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.Platform_AppCompat_Light;
 			global::MarcTron.Plugin.Resource.Style.Platform_MaterialComponents = global::FileTransferApp_Mobile.Droid.Resource.Style.Platform_MaterialComponents;
@@ -4245,6 +4819,39 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::FileTransferApp_Mobile.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
 			global::MarcTron.Plugin.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::FileTransferApp_Mobile.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
 			global::MarcTron.Plugin.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::FileTransferApp_Mobile.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::MarcTron.Plugin.Resource.Style.scrollViewScrollBars = global::FileTransferApp_Mobile.Droid.Resource.Style.scrollViewScrollBars;
+			global::MarcTron.Plugin.Resource.Style.scrollViewTheme = global::FileTransferApp_Mobile.Droid.Resource.Style.scrollViewTheme;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_Cut = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearance_MaterialComponents = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::MarcTron.Plugin.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::FileTransferApp_Mobile.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::MarcTron.Plugin.Resource.Style.TestStyleWithLineHeight = global::FileTransferApp_Mobile.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::MarcTron.Plugin.Resource.Style.TestStyleWithLineHeightAppearance = global::FileTransferApp_Mobile.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::MarcTron.Plugin.Resource.Style.TestStyleWithoutLineHeight = global::FileTransferApp_Mobile.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::MarcTron.Plugin.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::FileTransferApp_Mobile.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::MarcTron.Plugin.Resource.Style.TestThemeWithLineHeight = global::FileTransferApp_Mobile.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::MarcTron.Plugin.Resource.Style.TestThemeWithLineHeightDisabled = global::FileTransferApp_Mobile.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::MarcTron.Plugin.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::FileTransferApp_Mobile.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::MarcTron.Plugin.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::FileTransferApp_Mobile.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::MarcTron.Plugin.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::FileTransferApp_Mobile.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::MarcTron.Plugin.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::FileTransferApp_Mobile.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::MarcTron.Plugin.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::FileTransferApp_Mobile.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_AppCompat_Body1 = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_AppCompat_Body2 = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
@@ -4311,6 +4918,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_Design_Hint = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_Design_Hint;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_Design_Snackbar_Message = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_Design_Tab = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::MarcTron.Plugin.Resource.Style.TextAppearance_MaterialComponents_Badge = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
 			global::MarcTron.Plugin.Resource.Style.TextAppearance_MaterialComponents_Button = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
@@ -4332,21 +4940,47 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_Dark = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_AppCompat_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Light_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_BottomSheetDialog;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
 			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::MarcTron.Plugin.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::FileTransferApp_Mobile.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_CompactMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_DayNight = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_DayNight;
@@ -4360,6 +4994,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_Empty = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_Empty;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_Light;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
 			global::MarcTron.Plugin.Resource.Style.Theme_AppCompat_Light_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
@@ -4379,11 +5014,33 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_CompactMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
@@ -4391,7 +5048,13 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
 			global::MarcTron.Plugin.Resource.Style.Theme_MaterialComponents_NoActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
@@ -4465,6 +5128,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
 			global::MarcTron.Plugin.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
 			global::MarcTron.Plugin.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::MarcTron.Plugin.Resource.Style.Widget_AppCompat_TextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_AppCompat_TextView;
 			global::MarcTron.Plugin.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
 			global::MarcTron.Plugin.Resource.Style.Widget_AppCompat_Toolbar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_AppCompat_Toolbar;
 			global::MarcTron.Plugin.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
@@ -4480,10 +5144,25 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Widget_Design_Snackbar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_Design_Snackbar;
 			global::MarcTron.Plugin.Resource.Style.Widget_Design_TabLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_Design_TabLayout;
 			global::MarcTron.Plugin.Resource.Style.Widget_Design_TextInputLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Badge = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Badge;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomSheet = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
@@ -4491,31 +5170,72 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_CardView = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_ChipGroup = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Chip_Action = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_NavigationView = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_PopupMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Snackbar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TabLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_TextView = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_TextView;
 			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Toolbar = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::MarcTron.Plugin.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
 			global::MarcTron.Plugin.Resource.Style.Widget_Support_CoordinatorLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
 			global::MarcTron.Plugin.Resource.Styleable.ActionBar = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ActionBar;
 			global::MarcTron.Plugin.Resource.Styleable.ActionBarLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ActionBarLayout;
@@ -4605,6 +5325,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
 			global::MarcTron.Plugin.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
 			global::MarcTron.Plugin.Resource.Styleable.AppBarLayout_liftOnScroll = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::MarcTron.Plugin.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::MarcTron.Plugin.Resource.Styleable.AppBarLayout_statusBarForeground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatImageView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatImageView;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatImageView_android_src = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatImageView_android_src;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatImageView_srcCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
@@ -4630,11 +5352,21 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_fontFamily = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_lineHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_textAllCaps = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTextView_textLocale = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTextView_textLocale;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_actionBarDivider = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
@@ -4708,14 +5440,18 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_panelBackground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
@@ -4757,29 +5493,46 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
 			global::MarcTron.Plugin.Resource.Styleable.AppCompatTheme_windowNoTitle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::MarcTron.Plugin.Resource.Styleable.Badge = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Badge;
+			global::MarcTron.Plugin.Resource.Styleable.Badge_backgroundColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::MarcTron.Plugin.Resource.Styleable.Badge_badgeGravity = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::MarcTron.Plugin.Resource.Styleable.Badge_badgeTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::MarcTron.Plugin.Resource.Styleable.Badge_maxCharacterCount = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::MarcTron.Plugin.Resource.Styleable.Badge_number = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Badge_number;
 			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar;
 			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_backgroundTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_elevation;
 			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_fabAnimationMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
 			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_fabCradleMargin = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
 			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
 			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
 			global::MarcTron.Plugin.Resource.Styleable.BottomAppBar_hideOnScroll = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView;
+			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_backgroundTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_backgroundTint;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_elevation;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemBackground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemIconSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemIconSize;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemRippleColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemRippleColor;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_itemTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
 			global::MarcTron.Plugin.Resource.Styleable.BottomNavigationView_menu = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomNavigationView_menu;
 			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
 			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
 			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
 			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
 			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
 			global::MarcTron.Plugin.Resource.Styleable.ButtonBarLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ButtonBarLayout;
 			global::MarcTron.Plugin.Resource.Styleable.ButtonBarLayout_allowStacking = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
 			global::MarcTron.Plugin.Resource.Styleable.CardView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CardView;
@@ -4809,6 +5562,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.Chip_android_maxWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_android_maxWidth;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_android_text = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_android_text;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_android_textAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.Chip_android_textColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_android_textColor;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_checkedIcon = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_checkedIcon;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_checkedIconEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_checkedIconEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_checkedIconVisible = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_checkedIconVisible;
@@ -4821,9 +5575,11 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.Chip_chipIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipIconTint;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_chipIconVisible = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipIconVisible;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_chipMinHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::MarcTron.Plugin.Resource.Styleable.Chip_chipMinTouchTargetSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_chipStartPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipStartPadding;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_chipStrokeColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipStrokeColor;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_chipStrokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::MarcTron.Plugin.Resource.Styleable.Chip_chipSurfaceColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_chipSurfaceColor;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_closeIcon = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_closeIcon;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_closeIconEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_closeIconEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_closeIconEndPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_closeIconEndPadding;
@@ -4831,10 +5587,13 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.Chip_closeIconStartPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_closeIconStartPadding;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_closeIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_closeIconTint;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_closeIconVisible = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::MarcTron.Plugin.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_hideMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_hideMotionSpec;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_iconEndPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_iconEndPadding;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_iconStartPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_iconStartPadding;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_rippleColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_rippleColor;
+			global::MarcTron.Plugin.Resource.Styleable.Chip_shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.Chip_shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_showMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_showMotionSpec;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_textEndPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_textEndPadding;
 			global::MarcTron.Plugin.Resource.Styleable.Chip_textStartPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Chip_textStartPadding;
@@ -4864,6 +5623,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.ColorStateListItem_android_color = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ColorStateListItem_android_color;
 			global::MarcTron.Plugin.Resource.Styleable.CompoundButton = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CompoundButton;
 			global::MarcTron.Plugin.Resource.Styleable.CompoundButton_android_button = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::MarcTron.Plugin.Resource.Styleable.CompoundButton_buttonCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CompoundButton_buttonCompat;
 			global::MarcTron.Plugin.Resource.Styleable.CompoundButton_buttonTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CompoundButton_buttonTint;
 			global::MarcTron.Plugin.Resource.Styleable.CompoundButton_buttonTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
 			global::MarcTron.Plugin.Resource.Styleable.CoordinatorLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout;
@@ -4886,6 +5646,17 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::FileTransferApp_Mobile.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
 			global::MarcTron.Plugin.Resource.Styleable.DrawerArrowToggle_spinBars = global::FileTransferApp_Mobile.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
 			global::MarcTron.Plugin.Resource.Styleable.DrawerArrowToggle_thickness = global::FileTransferApp_Mobile.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::MarcTron.Plugin.Resource.Styleable.DrawerLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.DrawerLayout;
+			global::MarcTron.Plugin.Resource.Styleable.DrawerLayout_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::MarcTron.Plugin.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_backgroundTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
@@ -4893,6 +5664,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_borderWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_fabCustomSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_fabSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_fabSize;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
@@ -4900,6 +5672,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_maxImageSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_rippleColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_showMotionSpec = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
 			global::MarcTron.Plugin.Resource.Styleable.FloatingActionButton_useCompatPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
 			global::MarcTron.Plugin.Resource.Styleable.FlowLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FlowLayout;
@@ -4927,6 +5701,13 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
 			global::MarcTron.Plugin.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
 			global::MarcTron.Plugin.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::MarcTron.Plugin.Resource.Styleable.Fragment = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Fragment;
+			global::MarcTron.Plugin.Resource.Styleable.FragmentContainerView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FragmentContainerView;
+			global::MarcTron.Plugin.Resource.Styleable.FragmentContainerView_android_name = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::MarcTron.Plugin.Resource.Styleable.FragmentContainerView_android_tag = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::MarcTron.Plugin.Resource.Styleable.Fragment_android_id = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Fragment_android_id;
+			global::MarcTron.Plugin.Resource.Styleable.Fragment_android_name = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Fragment_android_name;
+			global::MarcTron.Plugin.Resource.Styleable.Fragment_android_tag = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Fragment_android_tag;
 			global::MarcTron.Plugin.Resource.Styleable.GradientColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColor;
 			global::MarcTron.Plugin.Resource.Styleable.GradientColorItem = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColorItem;
 			global::MarcTron.Plugin.Resource.Styleable.GradientColorItem_android_color = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColorItem_android_color;
@@ -4943,6 +5724,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.GradientColor_android_startY = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColor_android_startY;
 			global::MarcTron.Plugin.Resource.Styleable.GradientColor_android_tileMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColor_android_tileMode;
 			global::MarcTron.Plugin.Resource.Styleable.GradientColor_android_type = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColor_android_type;
+			global::MarcTron.Plugin.Resource.Styleable.ItemsViewRendererTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ItemsViewRendererTheme;
+			global::MarcTron.Plugin.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ItemsViewRendererTheme_collectionViewStyle;
 			global::MarcTron.Plugin.Resource.Styleable.LinearLayoutCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.LinearLayoutCompat;
 			global::MarcTron.Plugin.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::FileTransferApp_Mobile.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
 			global::MarcTron.Plugin.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::FileTransferApp_Mobile.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
@@ -4961,7 +5744,22 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.ListPopupWindow = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ListPopupWindow;
 			global::MarcTron.Plugin.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
 			global::MarcTron.Plugin.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialog = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialogTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialButtonToggleGroup = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_android_checkable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_android_checkable;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_android_insetBottom = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_android_insetLeft = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_android_insetRight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_android_insetRight;
@@ -4969,6 +5767,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_backgroundTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_backgroundTint;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_backgroundTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_cornerRadius = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_elevation;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_icon = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_icon;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_iconGravity = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_iconGravity;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_iconPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_iconPadding;
@@ -4976,11 +5775,57 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_iconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_iconTint;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_iconTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_iconTintMode;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_rippleColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_strokeColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_strokeColor;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialButton_strokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_dayStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_rangeFillColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_yearStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_android_checkable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_cardForegroundColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_checkedIcon = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_checkedIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_rippleColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_state_dragged = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_state_dragged;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_strokeColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_strokeColor;
 			global::MarcTron.Plugin.Resource.Styleable.MaterialCardView_strokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCheckBox = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCheckBox;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCheckBox_buttonTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialRadioButton = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialRadioButton;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialShape = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialShape;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialShape_shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialTextAppearance_lineHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialTextView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialTextView;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialTextView_android_lineHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialTextView_android_textAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.MaterialTextView_lineHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MaterialTextView_lineHeight;
 			global::MarcTron.Plugin.Resource.Styleable.MenuGroup = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MenuGroup;
 			global::MarcTron.Plugin.Resource.Styleable.MenuGroup_android_checkableBehavior = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
 			global::MarcTron.Plugin.Resource.Styleable.MenuGroup_android_enabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.MenuGroup_android_enabled;
@@ -5031,7 +5876,16 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemBackground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemBackground;
 			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemHorizontalPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
 			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemIconPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemIconSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemIconSize;
 			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemMaxLines = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemShapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemShapeFillColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemShapeInsetStart = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemShapeInsetTop = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
 			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
 			global::MarcTron.Plugin.Resource.Styleable.NavigationView_itemTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_itemTextColor;
 			global::MarcTron.Plugin.Resource.Styleable.NavigationView_menu = global::FileTransferApp_Mobile.Droid.Resource.Styleable.NavigationView_menu;
@@ -5045,6 +5899,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::FileTransferApp_Mobile.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
 			global::MarcTron.Plugin.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
 			global::MarcTron.Plugin.Resource.Styleable.RecyclerView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.RecyclerView;
+			global::MarcTron.Plugin.Resource.Styleable.RecyclerView_android_clipToPadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
 			global::MarcTron.Plugin.Resource.Styleable.RecyclerView_android_descendantFocusability = global::FileTransferApp_Mobile.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
 			global::MarcTron.Plugin.Resource.Styleable.RecyclerView_android_orientation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.RecyclerView_android_orientation;
 			global::MarcTron.Plugin.Resource.Styleable.RecyclerView_fastScrollEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
@@ -5060,6 +5915,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
 			global::MarcTron.Plugin.Resource.Styleable.ScrollingViewBehavior_Layout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
 			global::MarcTron.Plugin.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::MarcTron.Plugin.Resource.Styleable.ScrollViewRendererTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ScrollViewRendererTheme;
+			global::MarcTron.Plugin.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ScrollViewRendererTheme_scrollViewStyle;
 			global::MarcTron.Plugin.Resource.Styleable.SearchView = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SearchView;
 			global::MarcTron.Plugin.Resource.Styleable.SearchView_android_focusable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SearchView_android_focusable;
 			global::MarcTron.Plugin.Resource.Styleable.SearchView_android_imeOptions = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SearchView_android_imeOptions;
@@ -5078,9 +5935,23 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.SearchView_submitBackground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SearchView_submitBackground;
 			global::MarcTron.Plugin.Resource.Styleable.SearchView_suggestionRowLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
 			global::MarcTron.Plugin.Resource.Styleable.SearchView_voiceIcon = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerFamily = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::MarcTron.Plugin.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
 			global::MarcTron.Plugin.Resource.Styleable.Snackbar = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Snackbar;
 			global::MarcTron.Plugin.Resource.Styleable.SnackbarLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SnackbarLayout;
+			global::MarcTron.Plugin.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
 			global::MarcTron.Plugin.Resource.Styleable.SnackbarLayout_android_maxWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::MarcTron.Plugin.Resource.Styleable.SnackbarLayout_animationMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::MarcTron.Plugin.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
 			global::MarcTron.Plugin.Resource.Styleable.SnackbarLayout_elevation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SnackbarLayout_elevation;
 			global::MarcTron.Plugin.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
 			global::MarcTron.Plugin.Resource.Styleable.Snackbar_snackbarButtonStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
@@ -5100,6 +5971,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::FileTransferApp_Mobile.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
 			global::MarcTron.Plugin.Resource.Styleable.StateListDrawable_android_variablePadding = global::FileTransferApp_Mobile.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
 			global::MarcTron.Plugin.Resource.Styleable.StateListDrawable_android_visible = global::FileTransferApp_Mobile.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::MarcTron.Plugin.Resource.Styleable.SwipeRefreshLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwipeRefreshLayout;
+			global::MarcTron.Plugin.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwipeRefreshLayout_swipeRefreshLayoutProgressSpinnerBackgroundColor;
 			global::MarcTron.Plugin.Resource.Styleable.SwitchCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchCompat;
 			global::MarcTron.Plugin.Resource.Styleable.SwitchCompat_android_textOff = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchCompat_android_textOff;
 			global::MarcTron.Plugin.Resource.Styleable.SwitchCompat_android_textOn = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchCompat_android_textOn;
@@ -5115,6 +5988,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.SwitchCompat_track = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchCompat_track;
 			global::MarcTron.Plugin.Resource.Styleable.SwitchCompat_trackTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchCompat_trackTint;
 			global::MarcTron.Plugin.Resource.Styleable.SwitchCompat_trackTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::MarcTron.Plugin.Resource.Styleable.SwitchMaterial = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchMaterial;
+			global::MarcTron.Plugin.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::FileTransferApp_Mobile.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
 			global::MarcTron.Plugin.Resource.Styleable.TabItem = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TabItem;
 			global::MarcTron.Plugin.Resource.Styleable.TabItem_android_icon = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TabItem_android_icon;
 			global::MarcTron.Plugin.Resource.Styleable.TabItem_android_layout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TabItem_android_layout;
@@ -5154,11 +6029,14 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_android_textColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_android_textColor;
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_android_textColorHint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_android_textColorLink = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_android_textFontWeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_android_textSize = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_android_textSize;
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_android_textStyle = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_android_textStyle;
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_android_typeface = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_android_typeface;
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_fontFamily = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_fontVariationSettings = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
 			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_textAllCaps = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::MarcTron.Plugin.Resource.Styleable.TextAppearance_textLocale = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextAppearance_textLocale;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_android_hint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_android_hint;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_android_textColorHint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
@@ -5171,23 +6049,45 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_boxStrokeColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_counterEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_counterMaxLength = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_counterTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_counterTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_endIconCheckable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_endIconContentDescription = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_endIconDrawable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_endIconMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_endIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_endIconTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_errorEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_errorIconDrawable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_errorIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_errorIconTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_errorTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_errorTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_helperText = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_helperText;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_helperTextEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_helperTextTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_hintEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_hintTextAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_hintTextColor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_passwordToggleTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
 			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_shapeAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_startIconCheckable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_startIconContentDescription = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_startIconDrawable = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_startIconTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::MarcTron.Plugin.Resource.Styleable.TextInputLayout_startIconTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
 			global::MarcTron.Plugin.Resource.Styleable.ThemeEnforcement = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ThemeEnforcement;
 			global::MarcTron.Plugin.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
 			global::MarcTron.Plugin.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
@@ -5207,6 +6107,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.Toolbar_logo = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Toolbar_logo;
 			global::MarcTron.Plugin.Resource.Styleable.Toolbar_logoDescription = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Toolbar_logoDescription;
 			global::MarcTron.Plugin.Resource.Styleable.Toolbar_maxButtonHeight = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::MarcTron.Plugin.Resource.Styleable.Toolbar_menu = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Toolbar_menu;
 			global::MarcTron.Plugin.Resource.Styleable.Toolbar_navigationContentDescription = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
 			global::MarcTron.Plugin.Resource.Styleable.Toolbar_navigationIcon = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Toolbar_navigationIcon;
 			global::MarcTron.Plugin.Resource.Styleable.Toolbar_popupTheme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.Toolbar_popupTheme;
@@ -5227,6 +6128,8 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.ViewBackgroundHelper_android_background = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
 			global::MarcTron.Plugin.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
 			global::MarcTron.Plugin.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::MarcTron.Plugin.Resource.Styleable.ViewPager2 = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewPager2;
+			global::MarcTron.Plugin.Resource.Styleable.ViewPager2_android_orientation = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewPager2_android_orientation;
 			global::MarcTron.Plugin.Resource.Styleable.ViewStubCompat = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewStubCompat;
 			global::MarcTron.Plugin.Resource.Styleable.ViewStubCompat_android_id = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewStubCompat_android_id;
 			global::MarcTron.Plugin.Resource.Styleable.ViewStubCompat_android_inflatedId = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
@@ -5236,8 +6139,12 @@ namespace FileTransferApp_Mobile.Droid
 			global::MarcTron.Plugin.Resource.Styleable.View_paddingEnd = global::FileTransferApp_Mobile.Droid.Resource.Styleable.View_paddingEnd;
 			global::MarcTron.Plugin.Resource.Styleable.View_paddingStart = global::FileTransferApp_Mobile.Droid.Resource.Styleable.View_paddingStart;
 			global::MarcTron.Plugin.Resource.Styleable.View_theme = global::FileTransferApp_Mobile.Droid.Resource.Styleable.View_theme;
+			global::MarcTron.Plugin.Resource.Xml.image_share_filepaths = global::FileTransferApp_Mobile.Droid.Resource.Xml.image_share_filepaths;
+			global::MarcTron.Plugin.Resource.Xml.standalone_badge = global::FileTransferApp_Mobile.Droid.Resource.Xml.standalone_badge;
+			global::MarcTron.Plugin.Resource.Xml.standalone_badge_gravity_bottom_end = global::FileTransferApp_Mobile.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::MarcTron.Plugin.Resource.Xml.standalone_badge_gravity_bottom_start = global::FileTransferApp_Mobile.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::MarcTron.Plugin.Resource.Xml.standalone_badge_gravity_top_start = global::FileTransferApp_Mobile.Droid.Resource.Xml.standalone_badge_gravity_top_start;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::FileTransferApp_Mobile.Droid.Resource.Attribute.alpha;
-			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::FileTransferApp_Mobile.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fontProviderAuthority;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderCerts = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fontProviderCerts;
@@ -5248,23 +6155,15 @@ namespace FileTransferApp_Mobile.Droid
 			global::Xamarin.Essentials.Resource.Attribute.fontStyle = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fontStyle;
 			global::Xamarin.Essentials.Resource.Attribute.fontVariationSettings = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fontVariationSettings;
 			global::Xamarin.Essentials.Resource.Attribute.fontWeight = global::FileTransferApp_Mobile.Droid.Resource.Attribute.fontWeight;
-			global::Xamarin.Essentials.Resource.Attribute.keylines = global::FileTransferApp_Mobile.Droid.Resource.Attribute.keylines;
-			global::Xamarin.Essentials.Resource.Attribute.layout_anchor = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_anchor;
-			global::Xamarin.Essentials.Resource.Attribute.layout_anchorGravity = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_anchorGravity;
-			global::Xamarin.Essentials.Resource.Attribute.layout_behavior = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_behavior;
-			global::Xamarin.Essentials.Resource.Attribute.layout_dodgeInsetEdges = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::Xamarin.Essentials.Resource.Attribute.layout_insetEdge = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_insetEdge;
-			global::Xamarin.Essentials.Resource.Attribute.layout_keyline = global::FileTransferApp_Mobile.Droid.Resource.Attribute.layout_keyline;
-			global::Xamarin.Essentials.Resource.Attribute.statusBarBackground = global::FileTransferApp_Mobile.Droid.Resource.Attribute.statusBarBackground;
 			global::Xamarin.Essentials.Resource.Attribute.ttcIndex = global::FileTransferApp_Mobile.Droid.Resource.Attribute.ttcIndex;
+			global::Xamarin.Essentials.Resource.Color.androidx_core_ripple_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::Xamarin.Essentials.Resource.Color.androidx_core_secondary_text_default_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
 			global::Xamarin.Essentials.Resource.Color.browser_actions_bg_grey = global::FileTransferApp_Mobile.Droid.Resource.Color.browser_actions_bg_grey;
 			global::Xamarin.Essentials.Resource.Color.browser_actions_divider_color = global::FileTransferApp_Mobile.Droid.Resource.Color.browser_actions_divider_color;
 			global::Xamarin.Essentials.Resource.Color.browser_actions_text_color = global::FileTransferApp_Mobile.Droid.Resource.Color.browser_actions_text_color;
 			global::Xamarin.Essentials.Resource.Color.browser_actions_title_color = global::FileTransferApp_Mobile.Droid.Resource.Color.browser_actions_title_color;
 			global::Xamarin.Essentials.Resource.Color.notification_action_color_filter = global::FileTransferApp_Mobile.Droid.Resource.Color.notification_action_color_filter;
 			global::Xamarin.Essentials.Resource.Color.notification_icon_bg_color = global::FileTransferApp_Mobile.Droid.Resource.Color.notification_icon_bg_color;
-			global::Xamarin.Essentials.Resource.Color.ripple_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.ripple_material_light;
-			global::Xamarin.Essentials.Resource.Color.secondary_text_default_material_light = global::FileTransferApp_Mobile.Droid.Resource.Color.secondary_text_default_material_light;
 			global::Xamarin.Essentials.Resource.Dimension.browser_actions_context_menu_max_width = global::FileTransferApp_Mobile.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
 			global::Xamarin.Essentials.Resource.Dimension.browser_actions_context_menu_min_padding = global::FileTransferApp_Mobile.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
 			global::Xamarin.Essentials.Resource.Dimension.compat_button_inset_horizontal_material = global::FileTransferApp_Mobile.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
@@ -5339,43 +6238,28 @@ namespace FileTransferApp_Mobile.Droid
 			global::Xamarin.Essentials.Resource.Id.action_divider = global::FileTransferApp_Mobile.Droid.Resource.Id.action_divider;
 			global::Xamarin.Essentials.Resource.Id.action_image = global::FileTransferApp_Mobile.Droid.Resource.Id.action_image;
 			global::Xamarin.Essentials.Resource.Id.action_text = global::FileTransferApp_Mobile.Droid.Resource.Id.action_text;
-			global::Xamarin.Essentials.Resource.Id.all = global::FileTransferApp_Mobile.Droid.Resource.Id.all;
 			global::Xamarin.Essentials.Resource.Id.async = global::FileTransferApp_Mobile.Droid.Resource.Id.async;
 			global::Xamarin.Essentials.Resource.Id.blocking = global::FileTransferApp_Mobile.Droid.Resource.Id.blocking;
-			global::Xamarin.Essentials.Resource.Id.bottom = global::FileTransferApp_Mobile.Droid.Resource.Id.bottom;
 			global::Xamarin.Essentials.Resource.Id.browser_actions_header_text = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_header_text;
 			global::Xamarin.Essentials.Resource.Id.browser_actions_menu_items = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_menu_items;
 			global::Xamarin.Essentials.Resource.Id.browser_actions_menu_item_icon = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_menu_item_icon;
 			global::Xamarin.Essentials.Resource.Id.browser_actions_menu_item_text = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_menu_item_text;
 			global::Xamarin.Essentials.Resource.Id.browser_actions_menu_view = global::FileTransferApp_Mobile.Droid.Resource.Id.browser_actions_menu_view;
-			global::Xamarin.Essentials.Resource.Id.center = global::FileTransferApp_Mobile.Droid.Resource.Id.center;
-			global::Xamarin.Essentials.Resource.Id.center_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Id.center_horizontal;
-			global::Xamarin.Essentials.Resource.Id.center_vertical = global::FileTransferApp_Mobile.Droid.Resource.Id.center_vertical;
 			global::Xamarin.Essentials.Resource.Id.chronometer = global::FileTransferApp_Mobile.Droid.Resource.Id.chronometer;
-			global::Xamarin.Essentials.Resource.Id.clip_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Id.clip_horizontal;
-			global::Xamarin.Essentials.Resource.Id.clip_vertical = global::FileTransferApp_Mobile.Droid.Resource.Id.clip_vertical;
 			global::Xamarin.Essentials.Resource.Id.dialog_button = global::FileTransferApp_Mobile.Droid.Resource.Id.dialog_button;
-			global::Xamarin.Essentials.Resource.Id.end = global::FileTransferApp_Mobile.Droid.Resource.Id.end;
-			global::Xamarin.Essentials.Resource.Id.fill = global::FileTransferApp_Mobile.Droid.Resource.Id.fill;
-			global::Xamarin.Essentials.Resource.Id.fill_horizontal = global::FileTransferApp_Mobile.Droid.Resource.Id.fill_horizontal;
-			global::Xamarin.Essentials.Resource.Id.fill_vertical = global::FileTransferApp_Mobile.Droid.Resource.Id.fill_vertical;
 			global::Xamarin.Essentials.Resource.Id.forever = global::FileTransferApp_Mobile.Droid.Resource.Id.forever;
 			global::Xamarin.Essentials.Resource.Id.icon = global::FileTransferApp_Mobile.Droid.Resource.Id.icon;
 			global::Xamarin.Essentials.Resource.Id.icon_group = global::FileTransferApp_Mobile.Droid.Resource.Id.icon_group;
 			global::Xamarin.Essentials.Resource.Id.info = global::FileTransferApp_Mobile.Droid.Resource.Id.info;
 			global::Xamarin.Essentials.Resource.Id.italic = global::FileTransferApp_Mobile.Droid.Resource.Id.italic;
-			global::Xamarin.Essentials.Resource.Id.left = global::FileTransferApp_Mobile.Droid.Resource.Id.left;
 			global::Xamarin.Essentials.Resource.Id.line1 = global::FileTransferApp_Mobile.Droid.Resource.Id.line1;
 			global::Xamarin.Essentials.Resource.Id.line3 = global::FileTransferApp_Mobile.Droid.Resource.Id.line3;
-			global::Xamarin.Essentials.Resource.Id.none = global::FileTransferApp_Mobile.Droid.Resource.Id.none;
 			global::Xamarin.Essentials.Resource.Id.normal = global::FileTransferApp_Mobile.Droid.Resource.Id.normal;
 			global::Xamarin.Essentials.Resource.Id.notification_background = global::FileTransferApp_Mobile.Droid.Resource.Id.notification_background;
 			global::Xamarin.Essentials.Resource.Id.notification_main_column = global::FileTransferApp_Mobile.Droid.Resource.Id.notification_main_column;
 			global::Xamarin.Essentials.Resource.Id.notification_main_column_container = global::FileTransferApp_Mobile.Droid.Resource.Id.notification_main_column_container;
-			global::Xamarin.Essentials.Resource.Id.right = global::FileTransferApp_Mobile.Droid.Resource.Id.right;
 			global::Xamarin.Essentials.Resource.Id.right_icon = global::FileTransferApp_Mobile.Droid.Resource.Id.right_icon;
 			global::Xamarin.Essentials.Resource.Id.right_side = global::FileTransferApp_Mobile.Droid.Resource.Id.right_side;
-			global::Xamarin.Essentials.Resource.Id.start = global::FileTransferApp_Mobile.Droid.Resource.Id.start;
 			global::Xamarin.Essentials.Resource.Id.tag_accessibility_actions = global::FileTransferApp_Mobile.Droid.Resource.Id.tag_accessibility_actions;
 			global::Xamarin.Essentials.Resource.Id.tag_accessibility_clickable_spans = global::FileTransferApp_Mobile.Droid.Resource.Id.tag_accessibility_clickable_spans;
 			global::Xamarin.Essentials.Resource.Id.tag_accessibility_heading = global::FileTransferApp_Mobile.Droid.Resource.Id.tag_accessibility_heading;
@@ -5388,7 +6272,6 @@ namespace FileTransferApp_Mobile.Droid
 			global::Xamarin.Essentials.Resource.Id.text2 = global::FileTransferApp_Mobile.Droid.Resource.Id.text2;
 			global::Xamarin.Essentials.Resource.Id.time = global::FileTransferApp_Mobile.Droid.Resource.Id.time;
 			global::Xamarin.Essentials.Resource.Id.title = global::FileTransferApp_Mobile.Droid.Resource.Id.title;
-			global::Xamarin.Essentials.Resource.Id.top = global::FileTransferApp_Mobile.Droid.Resource.Id.top;
 			global::Xamarin.Essentials.Resource.Integer.status_bar_notification_info_maxnum = global::FileTransferApp_Mobile.Droid.Resource.Integer.status_bar_notification_info_maxnum;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_page = global::FileTransferApp_Mobile.Droid.Resource.Layout.browser_actions_context_menu_page;
 			global::Xamarin.Essentials.Resource.Layout.browser_actions_context_menu_row = global::FileTransferApp_Mobile.Droid.Resource.Layout.browser_actions_context_menu_row;
@@ -5399,6 +6282,10 @@ namespace FileTransferApp_Mobile.Droid
 			global::Xamarin.Essentials.Resource.Layout.notification_template_icon_group = global::FileTransferApp_Mobile.Droid.Resource.Layout.notification_template_icon_group;
 			global::Xamarin.Essentials.Resource.Layout.notification_template_part_chronometer = global::FileTransferApp_Mobile.Droid.Resource.Layout.notification_template_part_chronometer;
 			global::Xamarin.Essentials.Resource.Layout.notification_template_part_time = global::FileTransferApp_Mobile.Droid.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Essentials.Resource.String.copy_toast_msg = global::FileTransferApp_Mobile.Droid.Resource.String.copy_toast_msg;
+			global::Xamarin.Essentials.Resource.String.fallback_menu_item_copy_link = global::FileTransferApp_Mobile.Droid.Resource.String.fallback_menu_item_copy_link;
+			global::Xamarin.Essentials.Resource.String.fallback_menu_item_open_in_browser = global::FileTransferApp_Mobile.Droid.Resource.String.fallback_menu_item_open_in_browser;
+			global::Xamarin.Essentials.Resource.String.fallback_menu_item_share_link = global::FileTransferApp_Mobile.Droid.Resource.String.fallback_menu_item_share_link;
 			global::Xamarin.Essentials.Resource.String.status_bar_notification_info_overflow = global::FileTransferApp_Mobile.Droid.Resource.String.status_bar_notification_info_overflow;
 			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_Compat_Notification;
 			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification_Info = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
@@ -5407,22 +6294,10 @@ namespace FileTransferApp_Mobile.Droid
 			global::Xamarin.Essentials.Resource.Style.TextAppearance_Compat_Notification_Title = global::FileTransferApp_Mobile.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
 			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionContainer = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
 			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionText = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_Compat_NotificationActionText;
-			global::Xamarin.Essentials.Resource.Style.Widget_Support_CoordinatorLayout = global::FileTransferApp_Mobile.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
 			global::Xamarin.Essentials.Resource.Styleable.ColorStateListItem = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ColorStateListItem;
 			global::Xamarin.Essentials.Resource.Styleable.ColorStateListItem_alpha = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ColorStateListItem_alpha;
 			global::Xamarin.Essentials.Resource.Styleable.ColorStateListItem_android_alpha = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
 			global::Xamarin.Essentials.Resource.Styleable.ColorStateListItem_android_color = global::FileTransferApp_Mobile.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_keylines = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::Xamarin.Essentials.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::FileTransferApp_Mobile.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamily = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FontFamily;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FontFamilyFont;
 			global::Xamarin.Essentials.Resource.Styleable.FontFamilyFont_android_font = global::FileTransferApp_Mobile.Droid.Resource.Styleable.FontFamilyFont_android_font;
@@ -5457,6 +6332,7 @@ namespace FileTransferApp_Mobile.Droid
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_startY = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColor_android_startY;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_tileMode = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_type = global::FileTransferApp_Mobile.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Essentials.Resource.Xml.image_share_filepaths = global::FileTransferApp_Mobile.Droid.Resource.Xml.image_share_filepaths;
 			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::FileTransferApp_Mobile.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Forms.PancakeView.Resource.Animation.abc_fade_in = global::FileTransferApp_Mobile.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.PancakeView.Resource.Animation.abc_fade_out = global::FileTransferApp_Mobile.Droid.Resource.Animation.abc_fade_out;
@@ -15381,101 +16257,101 @@ namespace FileTransferApp_Mobile.Droid
 		public partial class Animation
 		{
 			
-			// aapt resource value: 0x7F010004
-			public const int abc_fade_in = 2130771972;
-			
-			// aapt resource value: 0x7F010005
-			public const int abc_fade_out = 2130771973;
-			
-			// aapt resource value: 0x7F010006
-			public const int abc_grow_fade_in_from_bottom = 2130771974;
-			
-			// aapt resource value: 0x7F010007
-			public const int abc_popup_enter = 2130771975;
-			
-			// aapt resource value: 0x7F010008
-			public const int abc_popup_exit = 2130771976;
-			
-			// aapt resource value: 0x7F010009
-			public const int abc_shrink_fade_out_from_bottom = 2130771977;
-			
-			// aapt resource value: 0x7F01000A
-			public const int abc_slide_in_bottom = 2130771978;
-			
-			// aapt resource value: 0x7F01000B
-			public const int abc_slide_in_top = 2130771979;
-			
-			// aapt resource value: 0x7F01000C
-			public const int abc_slide_out_bottom = 2130771980;
-			
-			// aapt resource value: 0x7F01000D
-			public const int abc_slide_out_top = 2130771981;
-			
-			// aapt resource value: 0x7F01000E
-			public const int abc_tooltip_enter = 2130771982;
-			
-			// aapt resource value: 0x7F01000F
-			public const int abc_tooltip_exit = 2130771983;
-			
-			// aapt resource value: 0x7F010010
-			public const int btn_checkbox_to_checked_box_inner_merged_animation = 2130771984;
-			
-			// aapt resource value: 0x7F010011
-			public const int btn_checkbox_to_checked_box_outer_merged_animation = 2130771985;
-			
-			// aapt resource value: 0x7F010012
-			public const int btn_checkbox_to_checked_icon_null_animation = 2130771986;
-			
-			// aapt resource value: 0x7F010013
-			public const int btn_checkbox_to_unchecked_box_inner_merged_animation = 2130771987;
-			
-			// aapt resource value: 0x7F010014
-			public const int btn_checkbox_to_unchecked_check_path_merged_animation = 2130771988;
-			
-			// aapt resource value: 0x7F010015
-			public const int btn_checkbox_to_unchecked_icon_null_animation = 2130771989;
-			
-			// aapt resource value: 0x7F010016
-			public const int btn_radio_to_off_mtrl_dot_group_animation = 2130771990;
-			
-			// aapt resource value: 0x7F010017
-			public const int btn_radio_to_off_mtrl_ring_outer_animation = 2130771991;
-			
-			// aapt resource value: 0x7F010018
-			public const int btn_radio_to_off_mtrl_ring_outer_path_animation = 2130771992;
-			
-			// aapt resource value: 0x7F010019
-			public const int btn_radio_to_on_mtrl_dot_group_animation = 2130771993;
-			
-			// aapt resource value: 0x7F01001A
-			public const int btn_radio_to_on_mtrl_ring_outer_animation = 2130771994;
-			
-			// aapt resource value: 0x7F01001B
-			public const int btn_radio_to_on_mtrl_ring_outer_path_animation = 2130771995;
-			
-			// aapt resource value: 0x7F01001C
-			public const int design_bottom_sheet_slide_in = 2130771996;
-			
-			// aapt resource value: 0x7F01001D
-			public const int design_bottom_sheet_slide_out = 2130771997;
-			
-			// aapt resource value: 0x7F01001E
-			public const int design_snackbar_in = 2130771998;
-			
-			// aapt resource value: 0x7F01001F
-			public const int design_snackbar_out = 2130771999;
-			
 			// aapt resource value: 0x7F010000
-			public const int EnterFromLeft = 2130771968;
+			public const int abc_fade_in = 2130771968;
 			
 			// aapt resource value: 0x7F010001
-			public const int EnterFromRight = 2130771969;
+			public const int abc_fade_out = 2130771969;
 			
 			// aapt resource value: 0x7F010002
-			public const int ExitToLeft = 2130771970;
+			public const int abc_grow_fade_in_from_bottom = 2130771970;
 			
 			// aapt resource value: 0x7F010003
-			public const int ExitToRight = 2130771971;
+			public const int abc_popup_enter = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int abc_popup_exit = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int abc_shrink_fade_out_from_bottom = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int abc_slide_in_bottom = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int abc_slide_in_top = 2130771975;
+			
+			// aapt resource value: 0x7F010008
+			public const int abc_slide_out_bottom = 2130771976;
+			
+			// aapt resource value: 0x7F010009
+			public const int abc_slide_out_top = 2130771977;
+			
+			// aapt resource value: 0x7F01000A
+			public const int abc_tooltip_enter = 2130771978;
+			
+			// aapt resource value: 0x7F01000B
+			public const int abc_tooltip_exit = 2130771979;
+			
+			// aapt resource value: 0x7F01000C
+			public const int btn_checkbox_to_checked_box_inner_merged_animation = 2130771980;
+			
+			// aapt resource value: 0x7F01000D
+			public const int btn_checkbox_to_checked_box_outer_merged_animation = 2130771981;
+			
+			// aapt resource value: 0x7F01000E
+			public const int btn_checkbox_to_checked_icon_null_animation = 2130771982;
+			
+			// aapt resource value: 0x7F01000F
+			public const int btn_checkbox_to_unchecked_box_inner_merged_animation = 2130771983;
+			
+			// aapt resource value: 0x7F010010
+			public const int btn_checkbox_to_unchecked_check_path_merged_animation = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int btn_checkbox_to_unchecked_icon_null_animation = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int btn_radio_to_off_mtrl_dot_group_animation = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int btn_radio_to_off_mtrl_ring_outer_animation = 2130771987;
+			
+			// aapt resource value: 0x7F010014
+			public const int btn_radio_to_off_mtrl_ring_outer_path_animation = 2130771988;
+			
+			// aapt resource value: 0x7F010015
+			public const int btn_radio_to_on_mtrl_dot_group_animation = 2130771989;
+			
+			// aapt resource value: 0x7F010016
+			public const int btn_radio_to_on_mtrl_ring_outer_animation = 2130771990;
+			
+			// aapt resource value: 0x7F010017
+			public const int btn_radio_to_on_mtrl_ring_outer_path_animation = 2130771991;
+			
+			// aapt resource value: 0x7F010018
+			public const int design_bottom_sheet_slide_in = 2130771992;
+			
+			// aapt resource value: 0x7F010019
+			public const int design_bottom_sheet_slide_out = 2130771993;
+			
+			// aapt resource value: 0x7F01001A
+			public const int design_snackbar_in = 2130771994;
+			
+			// aapt resource value: 0x7F01001B
+			public const int design_snackbar_out = 2130771995;
+			
+			// aapt resource value: 0x7F01001C
+			public const int EnterFromLeft = 2130771996;
+			
+			// aapt resource value: 0x7F01001D
+			public const int EnterFromRight = 2130771997;
+			
+			// aapt resource value: 0x7F01001E
+			public const int ExitToLeft = 2130771998;
+			
+			// aapt resource value: 0x7F01001F
+			public const int ExitToRight = 2130771999;
 			
 			// aapt resource value: 0x7F010020
 			public const int fragment_close_enter = 2130772000;
@@ -17620,7 +18496,19 @@ namespace FileTransferApp_Mobile.Droid
 			public const int abc_config_actionMenuItemAllCaps = 2130968578;
 			
 			// aapt resource value: 0x7F040003
-			public const int mtrl_btn_textappearance_all_caps = 2130968579;
+			public const int enable_system_alarm_service_default = 2130968579;
+			
+			// aapt resource value: 0x7F040004
+			public const int enable_system_foreground_service_default = 2130968580;
+			
+			// aapt resource value: 0x7F040005
+			public const int enable_system_job_service_default = 2130968581;
+			
+			// aapt resource value: 0x7F040006
+			public const int mtrl_btn_textappearance_all_caps = 2130968582;
+			
+			// aapt resource value: 0x7F040007
+			public const int workmanager_test_configuration = 2130968583;
 			
 			static Boolean()
 			{
@@ -19602,215 +20490,203 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F070060
 			public const int avd_show_password = 2131165280;
 			
-			// aapt resource value: 0x7F070000
-			public const int BC_logo_1 = 2131165184;
-			
 			// aapt resource value: 0x7F070061
-			public const int blogger = 2131165281;
+			public const int BC_logo_1 = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int btn_checkbox_checked_mtrl = 2131165282;
+			public const int blogger = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165283;
+			public const int btn_checkbox_checked_mtrl = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int btn_checkbox_unchecked_mtrl = 2131165284;
+			public const int btn_checkbox_checked_to_unchecked_mtrl_animation = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165285;
+			public const int btn_checkbox_unchecked_mtrl = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int btn_radio_off_mtrl = 2131165286;
+			public const int btn_checkbox_unchecked_to_checked_mtrl_animation = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int btn_radio_off_to_on_mtrl_animation = 2131165287;
+			public const int btn_radio_off_mtrl = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int btn_radio_on_mtrl = 2131165288;
+			public const int btn_radio_off_to_on_mtrl_animation = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int btn_radio_on_to_off_mtrl_animation = 2131165289;
+			public const int btn_radio_on_mtrl = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int @checked = 2131165290;
+			public const int btn_radio_on_to_off_mtrl_animation = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int confirm = 2131165291;
+			public const int @checked = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int design_bottom_navigation_item_background = 2131165292;
+			public const int confirm = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int design_fab_background = 2131165293;
+			public const int design_bottom_navigation_item_background = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int design_ic_visibility = 2131165294;
+			public const int design_fab_background = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int design_ic_visibility_off = 2131165295;
+			public const int design_ic_visibility = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int design_password_eye = 2131165296;
+			public const int design_ic_visibility_off = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int design_snackbar_background = 2131165297;
+			public const int design_password_eye = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int error = 2131165298;
-			
-			// aapt resource value: 0x7F070001
-			public const int FileTransferIcon = 2131165185;
-			
-			// aapt resource value: 0x7F070002
-			public const int File_p = 2131165186;
+			public const int design_snackbar_background = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int github = 2131165299;
-			
-			// aapt resource value: 0x7F070074
-			public const int home = 2131165300;
+			public const int error = 2131165299;
 			
 			// aapt resource value: 0x7F070075
-			public const int ic_errorstatus = 2131165301;
+			public const int FileTransferIcon = 2131165301;
+			
+			// aapt resource value: 0x7F070074
+			public const int File_p = 2131165300;
 			
 			// aapt resource value: 0x7F070076
-			public const int ic_mtrl_checked_circle = 2131165302;
+			public const int github = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int ic_mtrl_chip_checked_black = 2131165303;
+			public const int home = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int ic_mtrl_chip_checked_circle = 2131165304;
+			public const int ic_errorstatus = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int ic_mtrl_chip_close_circle = 2131165305;
+			public const int ic_mtrl_checked_circle = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int ic_successstatus = 2131165306;
+			public const int ic_mtrl_chip_checked_black = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int inbox1 = 2131165307;
+			public const int ic_mtrl_chip_checked_circle = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int inbox2 = 2131165308;
+			public const int ic_mtrl_chip_close_circle = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int info = 2131165309;
+			public const int ic_successstatus = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int infoReceiveGif3 = 2131165310;
+			public const int inbox1 = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int infoSendGif3 = 2131165311;
+			public const int inbox2 = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int info_selected = 2131165312;
-			
-			// aapt resource value: 0x7F070081
-			public const int instagram = 2131165313;
-			
-			// aapt resource value: 0x7F070003
-			public const int Logo = 2131165187;
+			public const int info = 2131165312;
 			
 			// aapt resource value: 0x7F070082
-			public const int material_ic_calendar_black_24dp = 2131165314;
+			public const int infoReceiveGif3 = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int material_ic_clear_black_24dp = 2131165315;
+			public const int infoSendGif3 = 2131165315;
+			
+			// aapt resource value: 0x7F070081
+			public const int info_selected = 2131165313;
 			
 			// aapt resource value: 0x7F070084
-			public const int material_ic_edit_black_24dp = 2131165316;
+			public const int instagram = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165317;
+			public const int material_ic_calendar_black_24dp = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165318;
+			public const int material_ic_clear_black_24dp = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165319;
+			public const int material_ic_edit_black_24dp = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165320;
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int minus = 2131165321;
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int mtrl_dialog_background = 2131165322;
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int mtrl_dropdown_arrow = 2131165323;
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int mtrl_ic_arrow_drop_down = 2131165324;
+			public const int minus = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int mtrl_ic_arrow_drop_up = 2131165325;
+			public const int mtrl_dialog_background = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int mtrl_ic_cancel = 2131165326;
+			public const int mtrl_dropdown_arrow = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int mtrl_ic_error = 2131165327;
+			public const int mtrl_ic_arrow_drop_down = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int mtrl_popupmenu_background = 2131165328;
+			public const int mtrl_ic_arrow_drop_up = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int mtrl_popupmenu_background_dark = 2131165329;
+			public const int mtrl_ic_cancel = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int mtrl_tabs_default_indicator = 2131165330;
+			public const int mtrl_ic_error = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int navigation_empty_icon = 2131165331;
+			public const int mtrl_popupmenu_background = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int notification_action_background = 2131165332;
+			public const int mtrl_popupmenu_background_dark = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int notification_bg = 2131165333;
+			public const int mtrl_tabs_default_indicator = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int notification_bg_low = 2131165334;
+			public const int navigation_empty_icon = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int notification_bg_low_normal = 2131165335;
+			public const int notification_action_background = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int notification_bg_low_pressed = 2131165336;
+			public const int notification_bg = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int notification_bg_normal = 2131165337;
+			public const int notification_bg_low = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int notification_bg_normal_pressed = 2131165338;
+			public const int notification_bg_low_normal = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int notification_icon_background = 2131165339;
+			public const int notification_bg_low_pressed = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int notification_template_icon_bg = 2131165340;
+			public const int notification_bg_normal = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int notification_template_icon_low_bg = 2131165341;
+			public const int notification_bg_normal_pressed = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int notification_tile_bg = 2131165342;
+			public const int notification_icon_background = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int notify_panel_notification_icon_bg = 2131165343;
+			public const int notification_template_icon_bg = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int number1 = 2131165344;
+			public const int notification_template_icon_low_bg = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int number2 = 2131165345;
+			public const int notification_tile_bg = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int number3 = 2131165346;
+			public const int notify_panel_notification_icon_bg = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
 			public const int open = 2131165347;
@@ -19851,14 +20727,14 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0700AF
 			public const int tooltip_frame_light = 2131165359;
 			
-			// aapt resource value: 0x7F070004
-			public const int TR_flag = 2131165188;
-			
-			// aapt resource value: 0x7F070005
-			public const int UK_flag = 2131165189;
-			
 			// aapt resource value: 0x7F0700B0
-			public const int youtube = 2131165360;
+			public const int TR_flag = 2131165360;
+			
+			// aapt resource value: 0x7F0700B1
+			public const int UK_flag = 2131165361;
+			
+			// aapt resource value: 0x7F0700B2
+			public const int youtube = 2131165362;
 			
 			static Drawable()
 			{
@@ -19873,1016 +20749,968 @@ namespace FileTransferApp_Mobile.Droid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7F08000A
+			public const int accessibility_action_clickable_span = 2131230730;
+			
+			// aapt resource value: 0x7F08000B
+			public const int accessibility_custom_action_0 = 2131230731;
+			
 			// aapt resource value: 0x7F08000C
-			public const int accessibility_action_clickable_span = 2131230732;
+			public const int accessibility_custom_action_1 = 2131230732;
 			
 			// aapt resource value: 0x7F08000D
-			public const int accessibility_custom_action_0 = 2131230733;
+			public const int accessibility_custom_action_10 = 2131230733;
 			
 			// aapt resource value: 0x7F08000E
-			public const int accessibility_custom_action_1 = 2131230734;
+			public const int accessibility_custom_action_11 = 2131230734;
 			
 			// aapt resource value: 0x7F08000F
-			public const int accessibility_custom_action_10 = 2131230735;
+			public const int accessibility_custom_action_12 = 2131230735;
 			
 			// aapt resource value: 0x7F080010
-			public const int accessibility_custom_action_11 = 2131230736;
+			public const int accessibility_custom_action_13 = 2131230736;
 			
 			// aapt resource value: 0x7F080011
-			public const int accessibility_custom_action_12 = 2131230737;
+			public const int accessibility_custom_action_14 = 2131230737;
 			
 			// aapt resource value: 0x7F080012
-			public const int accessibility_custom_action_13 = 2131230738;
+			public const int accessibility_custom_action_15 = 2131230738;
 			
 			// aapt resource value: 0x7F080013
-			public const int accessibility_custom_action_14 = 2131230739;
+			public const int accessibility_custom_action_16 = 2131230739;
 			
 			// aapt resource value: 0x7F080014
-			public const int accessibility_custom_action_15 = 2131230740;
+			public const int accessibility_custom_action_17 = 2131230740;
 			
 			// aapt resource value: 0x7F080015
-			public const int accessibility_custom_action_16 = 2131230741;
+			public const int accessibility_custom_action_18 = 2131230741;
 			
 			// aapt resource value: 0x7F080016
-			public const int accessibility_custom_action_17 = 2131230742;
+			public const int accessibility_custom_action_19 = 2131230742;
 			
 			// aapt resource value: 0x7F080017
-			public const int accessibility_custom_action_18 = 2131230743;
+			public const int accessibility_custom_action_2 = 2131230743;
 			
 			// aapt resource value: 0x7F080018
-			public const int accessibility_custom_action_19 = 2131230744;
+			public const int accessibility_custom_action_20 = 2131230744;
 			
 			// aapt resource value: 0x7F080019
-			public const int accessibility_custom_action_2 = 2131230745;
+			public const int accessibility_custom_action_21 = 2131230745;
 			
 			// aapt resource value: 0x7F08001A
-			public const int accessibility_custom_action_20 = 2131230746;
+			public const int accessibility_custom_action_22 = 2131230746;
 			
 			// aapt resource value: 0x7F08001B
-			public const int accessibility_custom_action_21 = 2131230747;
+			public const int accessibility_custom_action_23 = 2131230747;
 			
 			// aapt resource value: 0x7F08001C
-			public const int accessibility_custom_action_22 = 2131230748;
+			public const int accessibility_custom_action_24 = 2131230748;
 			
 			// aapt resource value: 0x7F08001D
-			public const int accessibility_custom_action_23 = 2131230749;
+			public const int accessibility_custom_action_25 = 2131230749;
 			
 			// aapt resource value: 0x7F08001E
-			public const int accessibility_custom_action_24 = 2131230750;
+			public const int accessibility_custom_action_26 = 2131230750;
 			
 			// aapt resource value: 0x7F08001F
-			public const int accessibility_custom_action_25 = 2131230751;
+			public const int accessibility_custom_action_27 = 2131230751;
 			
 			// aapt resource value: 0x7F080020
-			public const int accessibility_custom_action_26 = 2131230752;
+			public const int accessibility_custom_action_28 = 2131230752;
 			
 			// aapt resource value: 0x7F080021
-			public const int accessibility_custom_action_27 = 2131230753;
+			public const int accessibility_custom_action_29 = 2131230753;
 			
 			// aapt resource value: 0x7F080022
-			public const int accessibility_custom_action_28 = 2131230754;
+			public const int accessibility_custom_action_3 = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int accessibility_custom_action_29 = 2131230755;
+			public const int accessibility_custom_action_30 = 2131230755;
 			
 			// aapt resource value: 0x7F080024
-			public const int accessibility_custom_action_3 = 2131230756;
+			public const int accessibility_custom_action_31 = 2131230756;
 			
 			// aapt resource value: 0x7F080025
-			public const int accessibility_custom_action_30 = 2131230757;
+			public const int accessibility_custom_action_4 = 2131230757;
 			
 			// aapt resource value: 0x7F080026
-			public const int accessibility_custom_action_31 = 2131230758;
+			public const int accessibility_custom_action_5 = 2131230758;
 			
 			// aapt resource value: 0x7F080027
-			public const int accessibility_custom_action_4 = 2131230759;
+			public const int accessibility_custom_action_6 = 2131230759;
 			
 			// aapt resource value: 0x7F080028
-			public const int accessibility_custom_action_5 = 2131230760;
+			public const int accessibility_custom_action_7 = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int accessibility_custom_action_6 = 2131230761;
+			public const int accessibility_custom_action_8 = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int accessibility_custom_action_7 = 2131230762;
+			public const int accessibility_custom_action_9 = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int accessibility_custom_action_8 = 2131230763;
-			
-			// aapt resource value: 0x7F08002C
-			public const int accessibility_custom_action_9 = 2131230764;
-			
-			// aapt resource value: 0x7F08002D
-			public const int action0 = 2131230765;
-			
-			// aapt resource value: 0x7F08003F
-			public const int actions = 2131230783;
-			
-			// aapt resource value: 0x7F08002E
-			public const int action_bar = 2131230766;
-			
-			// aapt resource value: 0x7F08002F
-			public const int action_bar_activity_content = 2131230767;
-			
-			// aapt resource value: 0x7F080030
-			public const int action_bar_container = 2131230768;
-			
-			// aapt resource value: 0x7F080031
-			public const int action_bar_root = 2131230769;
-			
-			// aapt resource value: 0x7F080032
-			public const int action_bar_spinner = 2131230770;
-			
-			// aapt resource value: 0x7F080033
-			public const int action_bar_subtitle = 2131230771;
-			
-			// aapt resource value: 0x7F080034
-			public const int action_bar_title = 2131230772;
-			
-			// aapt resource value: 0x7F080035
-			public const int action_container = 2131230773;
-			
-			// aapt resource value: 0x7F080036
-			public const int action_context_bar = 2131230774;
-			
-			// aapt resource value: 0x7F080037
-			public const int action_divider = 2131230775;
-			
-			// aapt resource value: 0x7F080038
-			public const int action_image = 2131230776;
-			
-			// aapt resource value: 0x7F080039
-			public const int action_menu_divider = 2131230777;
-			
-			// aapt resource value: 0x7F08003A
-			public const int action_menu_presenter = 2131230778;
-			
-			// aapt resource value: 0x7F08003B
-			public const int action_mode_bar = 2131230779;
-			
-			// aapt resource value: 0x7F08003C
-			public const int action_mode_bar_stub = 2131230780;
+			public const int action0 = 2131230763;
 			
 			// aapt resource value: 0x7F08003D
-			public const int action_mode_close_button = 2131230781;
+			public const int actions = 2131230781;
+			
+			// aapt resource value: 0x7F08002C
+			public const int action_bar = 2131230764;
+			
+			// aapt resource value: 0x7F08002D
+			public const int action_bar_activity_content = 2131230765;
+			
+			// aapt resource value: 0x7F08002E
+			public const int action_bar_container = 2131230766;
+			
+			// aapt resource value: 0x7F08002F
+			public const int action_bar_root = 2131230767;
+			
+			// aapt resource value: 0x7F080030
+			public const int action_bar_spinner = 2131230768;
+			
+			// aapt resource value: 0x7F080031
+			public const int action_bar_subtitle = 2131230769;
+			
+			// aapt resource value: 0x7F080032
+			public const int action_bar_title = 2131230770;
+			
+			// aapt resource value: 0x7F080033
+			public const int action_container = 2131230771;
+			
+			// aapt resource value: 0x7F080034
+			public const int action_context_bar = 2131230772;
+			
+			// aapt resource value: 0x7F080035
+			public const int action_divider = 2131230773;
+			
+			// aapt resource value: 0x7F080036
+			public const int action_image = 2131230774;
+			
+			// aapt resource value: 0x7F080037
+			public const int action_menu_divider = 2131230775;
+			
+			// aapt resource value: 0x7F080038
+			public const int action_menu_presenter = 2131230776;
+			
+			// aapt resource value: 0x7F080039
+			public const int action_mode_bar = 2131230777;
+			
+			// aapt resource value: 0x7F08003A
+			public const int action_mode_bar_stub = 2131230778;
+			
+			// aapt resource value: 0x7F08003B
+			public const int action_mode_close_button = 2131230779;
+			
+			// aapt resource value: 0x7F08003C
+			public const int action_text = 2131230780;
 			
 			// aapt resource value: 0x7F08003E
-			public const int action_text = 2131230782;
+			public const int activity_chooser_view_content = 2131230782;
+			
+			// aapt resource value: 0x7F08003F
+			public const int add = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int activity_chooser_view_content = 2131230784;
+			public const int alertTitle = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int add = 2131230785;
-			
-			// aapt resource value: 0x7F080042
-			public const int alertTitle = 2131230786;
-			
-			// aapt resource value: 0x7F080043
-			public const int all = 2131230787;
+			public const int all = 2131230785;
 			
 			// aapt resource value: 0x7F080000
 			public const int ALT = 2131230720;
 			
+			// aapt resource value: 0x7F080042
+			public const int always = 2131230786;
+			
+			// aapt resource value: 0x7F080043
+			public const int async = 2131230787;
+			
 			// aapt resource value: 0x7F080044
-			public const int always = 2131230788;
-			
-			// aapt resource value: 0x7F080001
-			public const int APPLICATION_NAME = 2131230721;
-			
-			// aapt resource value: 0x7F080046
-			public const int application_name = 2131230790;
+			public const int auto = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int app_name = 2131230789;
+			public const int beginning = 2131230789;
 			
-			// aapt resource value: 0x7F080002
-			public const int APP_NAME = 2131230722;
+			// aapt resource value: 0x7F080046
+			public const int blocking = 2131230790;
 			
 			// aapt resource value: 0x7F080047
-			public const int async = 2131230791;
+			public const int bottom = 2131230791;
 			
 			// aapt resource value: 0x7F080048
-			public const int auto = 2131230792;
+			public const int bottomtab_navarea = 2131230792;
 			
 			// aapt resource value: 0x7F080049
-			public const int background = 2131230793;
+			public const int bottomtab_tabbar = 2131230793;
+			
+			// aapt resource value: 0x7F080001
+			public const int BOTTOM_END = 2131230721;
+			
+			// aapt resource value: 0x7F080002
+			public const int BOTTOM_START = 2131230722;
 			
 			// aapt resource value: 0x7F08004A
-			public const int beginning = 2131230794;
-			
-			// aapt resource value: 0x7F08004B
-			public const int blocking = 2131230795;
-			
-			// aapt resource value: 0x7F08004C
-			public const int bottom = 2131230796;
+			public const int browser_actions_header_text = 2131230794;
 			
 			// aapt resource value: 0x7F08004D
-			public const int bottomtab_navarea = 2131230797;
+			public const int browser_actions_menu_items = 2131230797;
+			
+			// aapt resource value: 0x7F08004B
+			public const int browser_actions_menu_item_icon = 2131230795;
+			
+			// aapt resource value: 0x7F08004C
+			public const int browser_actions_menu_item_text = 2131230796;
 			
 			// aapt resource value: 0x7F08004E
-			public const int bottomtab_tabbar = 2131230798;
-			
-			// aapt resource value: 0x7F080003
-			public const int BOTTOM_END = 2131230723;
-			
-			// aapt resource value: 0x7F080004
-			public const int BOTTOM_START = 2131230724;
+			public const int browser_actions_menu_view = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int browser_actions_header_text = 2131230799;
-			
-			// aapt resource value: 0x7F080052
-			public const int browser_actions_menu_items = 2131230802;
+			public const int buttonPanel = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int browser_actions_menu_item_icon = 2131230800;
+			public const int cancel_action = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int browser_actions_menu_item_text = 2131230801;
+			public const int cancel_button = 2131230801;
+			
+			// aapt resource value: 0x7F080052
+			public const int center = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int browser_actions_menu_view = 2131230803;
+			public const int center_horizontal = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int button1 = 2131230804;
+			public const int center_vertical = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int button2 = 2131230805;
+			public const int checkbox = 2131230805;
 			
 			// aapt resource value: 0x7F080056
-			public const int button3 = 2131230806;
+			public const int @checked = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int buttonPanel = 2131230807;
+			public const int chip = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int cancel_action = 2131230808;
+			public const int chip1 = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int cancel_button = 2131230809;
+			public const int chip2 = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int center = 2131230810;
+			public const int chip3 = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int center_horizontal = 2131230811;
+			public const int chip_group = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int center_vertical = 2131230812;
+			public const int chronometer = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int checkbox = 2131230813;
+			public const int clear_text = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int @checked = 2131230814;
+			public const int clip_horizontal = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int chip = 2131230815;
+			public const int clip_vertical = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int chip1 = 2131230816;
+			public const int collapseActionView = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int chip2 = 2131230817;
+			public const int confirm_button = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int chip3 = 2131230818;
+			public const int container = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int chip_group = 2131230819;
+			public const int content = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int chronometer = 2131230820;
+			public const int contentPanel = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int clear_text = 2131230821;
+			public const int coordinator = 2131230821;
+			
+			// aapt resource value: 0x7F080003
+			public const int CTRL = 2131230723;
 			
 			// aapt resource value: 0x7F080066
-			public const int clip_horizontal = 2131230822;
+			public const int custom = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int clip_vertical = 2131230823;
+			public const int customPanel = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int collapseActionView = 2131230824;
+			public const int cut = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int confirm_button = 2131230825;
+			public const int date_picker_actions = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int container = 2131230826;
+			public const int decor_content_parent = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int content = 2131230827;
+			public const int default_activity_button = 2131230827;
 			
 			// aapt resource value: 0x7F08006C
-			public const int contentPanel = 2131230828;
+			public const int design_bottom_sheet = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int coordinator = 2131230829;
+			public const int design_menu_item_action_area = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int count = 2131230830;
-			
-			// aapt resource value: 0x7F080005
-			public const int CTRL = 2131230725;
+			public const int design_menu_item_action_area_stub = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int custom = 2131230831;
+			public const int design_menu_item_text = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int customPanel = 2131230832;
+			public const int design_navigation_view = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int cut = 2131230833;
+			public const int dialog_button = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int date_picker_actions = 2131230834;
+			public const int disableHome = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int decor_content_parent = 2131230835;
+			public const int dropdown_menu = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int default_activity_button = 2131230836;
+			public const int edit_query = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int design_bottom_sheet = 2131230837;
+			public const int end = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int design_menu_item_action_area = 2131230838;
+			public const int end_padder = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int design_menu_item_action_area_stub = 2131230839;
+			public const int enterAlways = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int design_menu_item_text = 2131230840;
+			public const int enterAlwaysCollapsed = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int design_navigation_view = 2131230841;
-			
-			// aapt resource value: 0x7F08007A
-			public const int dialog_button = 2131230842;
+			public const int exitUntilCollapsed = 2131230841;
 			
 			// aapt resource value: 0x7F08007B
-			public const int disableHome = 2131230843;
+			public const int expanded_menu = 2131230843;
+			
+			// aapt resource value: 0x7F08007A
+			public const int expand_activities_button = 2131230842;
 			
 			// aapt resource value: 0x7F08007C
-			public const int dropdown_menu = 2131230844;
+			public const int fade = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int edit_query = 2131230845;
-			
-			// aapt resource value: 0x7F08007E
-			public const int end = 2131230846;
-			
-			// aapt resource value: 0x7F08007F
-			public const int end_padder = 2131230847;
+			public const int fill = 2131230845;
 			
 			// aapt resource value: 0x7F080080
-			public const int enterAlways = 2131230848;
+			public const int filled = 2131230848;
+			
+			// aapt resource value: 0x7F08007E
+			public const int fill_horizontal = 2131230846;
+			
+			// aapt resource value: 0x7F08007F
+			public const int fill_vertical = 2131230847;
 			
 			// aapt resource value: 0x7F080081
-			public const int enterAlwaysCollapsed = 2131230849;
+			public const int fitToContents = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int exitUntilCollapsed = 2131230850;
-			
-			// aapt resource value: 0x7F080084
-			public const int expanded_menu = 2131230852;
+			public const int @fixed = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int expand_activities_button = 2131230851;
+			public const int floating = 2131230851;
+			
+			// aapt resource value: 0x7F080084
+			public const int flyoutcontent_appbar = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int fade = 2131230853;
+			public const int forever = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int fill = 2131230854;
+			public const int fragment_container_view_tag = 2131230854;
 			
-			// aapt resource value: 0x7F080089
-			public const int filled = 2131230857;
+			// aapt resource value: 0x7F080004
+			public const int FUNCTION = 2131230724;
 			
 			// aapt resource value: 0x7F080087
-			public const int fill_horizontal = 2131230855;
+			public const int ghost_view = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int fill_vertical = 2131230856;
+			public const int ghost_view_holder = 2131230856;
+			
+			// aapt resource value: 0x7F080089
+			public const int gone = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
-			public const int fitToContents = 2131230858;
+			public const int group_divider = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int @fixed = 2131230859;
+			public const int hideable = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int floating = 2131230860;
+			public const int home = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int flyoutcontent_appbar = 2131230861;
+			public const int homeAsUp = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int forever = 2131230862;
+			public const int icon = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int fragment_container_view_tag = 2131230863;
-			
-			// aapt resource value: 0x7F080006
-			public const int FUNCTION = 2131230726;
+			public const int icon_group = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int ghost_view = 2131230864;
+			public const int ifRoom = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int ghost_view_holder = 2131230865;
+			public const int image = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int gone = 2131230866;
+			public const int info = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int group_divider = 2131230867;
+			public const int italic = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int hideable = 2131230868;
+			public const int item_touch_helper_previous_elevation = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int home = 2131230869;
+			public const int labeled = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int homeAsUp = 2131230870;
+			public const int largeLabel = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int icon = 2131230871;
+			public const int left = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int icon1 = 2131230872;
+			public const int line1 = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int icon_group = 2131230873;
+			public const int line3 = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int ifRoom = 2131230874;
+			public const int listMode = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int image = 2131230875;
+			public const int list_item = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int info = 2131230876;
+			public const int loadingImage = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int italic = 2131230877;
+			public const int loadingProgressBar = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int item_touch_helper_previous_elevation = 2131230878;
+			public const int loadingProgressWheel = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int labeled = 2131230879;
+			public const int main_appbar = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int largeLabel = 2131230880;
+			public const int main_tablayout = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int left = 2131230881;
+			public const int main_toolbar = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int line1 = 2131230882;
+			public const int main_viewpager = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int line3 = 2131230883;
+			public const int masked = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int listMode = 2131230884;
+			public const int media_actions = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int list_item = 2131230885;
+			public const int media_controller_compat_view_tag = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int loadingImage = 2131230886;
+			public const int message = 2131230886;
+			
+			// aapt resource value: 0x7F080005
+			public const int META = 2131230725;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int loadingProgressBar = 2131230887;
+			public const int middle = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int loadingProgressWheel = 2131230888;
+			public const int mini = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int main_appbar = 2131230889;
+			public const int month_grid = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int main_tablayout = 2131230890;
+			public const int month_navigation_bar = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int main_toolbar = 2131230891;
+			public const int month_navigation_fragment_toggle = 2131230891;
 			
 			// aapt resource value: 0x7F0800AC
-			public const int main_viewpager = 2131230892;
+			public const int month_navigation_next = 2131230892;
 			
 			// aapt resource value: 0x7F0800AD
-			public const int mask = 2131230893;
+			public const int month_navigation_previous = 2131230893;
 			
 			// aapt resource value: 0x7F0800AE
-			public const int masked = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int maximum_number = 2131230895;
+			public const int month_title = 2131230894;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int media_actions = 2131230896;
+			public const int mtrl_calendar_days_of_week = 2131230896;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int mtrl_calendar_day_selector_frame = 2131230895;
 			
 			// aapt resource value: 0x7F0800B1
-			public const int media_controller_compat_view_tag = 2131230897;
+			public const int mtrl_calendar_frame = 2131230897;
 			
 			// aapt resource value: 0x7F0800B2
-			public const int message = 2131230898;
-			
-			// aapt resource value: 0x7F080007
-			public const int META = 2131230727;
+			public const int mtrl_calendar_main_pane = 2131230898;
 			
 			// aapt resource value: 0x7F0800B3
-			public const int middle = 2131230899;
+			public const int mtrl_calendar_months = 2131230899;
 			
 			// aapt resource value: 0x7F0800B4
-			public const int mini = 2131230900;
+			public const int mtrl_calendar_selection_frame = 2131230900;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int month_grid = 2131230901;
+			public const int mtrl_calendar_text_input_frame = 2131230901;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int month_navigation_bar = 2131230902;
+			public const int mtrl_calendar_year_selector_frame = 2131230902;
 			
 			// aapt resource value: 0x7F0800B7
-			public const int month_navigation_fragment_toggle = 2131230903;
+			public const int mtrl_card_checked_layer_id = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int month_navigation_next = 2131230904;
+			public const int mtrl_child_content_container = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int month_navigation_previous = 2131230905;
+			public const int mtrl_internal_children_alpha_tag = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int month_title = 2131230906;
-			
-			// aapt resource value: 0x7F0800BC
-			public const int mtrl_calendar_days_of_week = 2131230908;
+			public const int mtrl_motion_snapshot_view = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int mtrl_calendar_day_selector_frame = 2131230907;
+			public const int mtrl_picker_fullscreen = 2131230907;
+			
+			// aapt resource value: 0x7F0800BC
+			public const int mtrl_picker_header = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int mtrl_calendar_frame = 2131230909;
+			public const int mtrl_picker_header_selection_text = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int mtrl_calendar_main_pane = 2131230910;
+			public const int mtrl_picker_header_title_and_selection = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int mtrl_calendar_months = 2131230911;
+			public const int mtrl_picker_header_toggle = 2131230911;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int mtrl_calendar_selection_frame = 2131230912;
+			public const int mtrl_picker_text_input_date = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int mtrl_calendar_text_input_frame = 2131230913;
+			public const int mtrl_picker_text_input_range_end = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int mtrl_calendar_year_selector_frame = 2131230914;
+			public const int mtrl_picker_text_input_range_start = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int mtrl_card_checked_layer_id = 2131230915;
+			public const int mtrl_picker_title_text = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int mtrl_child_content_container = 2131230916;
+			public const int multiply = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int mtrl_internal_children_alpha_tag = 2131230917;
+			public const int navigation_header_container = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int mtrl_motion_snapshot_view = 2131230918;
-			
-			// aapt resource value: 0x7F0800C7
-			public const int mtrl_picker_fullscreen = 2131230919;
+			public const int never = 2131230918;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int mtrl_picker_header = 2131230920;
+			public const int none = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int mtrl_picker_header_selection_text = 2131230921;
+			public const int normal = 2131230921;
+			
+			// aapt resource value: 0x7F0800C7
+			public const int noScroll = 2131230919;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int mtrl_picker_header_title_and_selection = 2131230922;
+			public const int notification_background = 2131230922;
 			
 			// aapt resource value: 0x7F0800CB
-			public const int mtrl_picker_header_toggle = 2131230923;
+			public const int notification_main_column = 2131230923;
 			
 			// aapt resource value: 0x7F0800CC
-			public const int mtrl_picker_text_input_date = 2131230924;
+			public const int notification_main_column_container = 2131230924;
 			
 			// aapt resource value: 0x7F0800CD
-			public const int mtrl_picker_text_input_range_end = 2131230925;
+			public const int off = 2131230925;
 			
 			// aapt resource value: 0x7F0800CE
-			public const int mtrl_picker_text_input_range_start = 2131230926;
+			public const int on = 2131230926;
 			
 			// aapt resource value: 0x7F0800CF
-			public const int mtrl_picker_title_text = 2131230927;
+			public const int outline = 2131230927;
 			
 			// aapt resource value: 0x7F0800D0
-			public const int multiply = 2131230928;
+			public const int parallax = 2131230928;
 			
 			// aapt resource value: 0x7F0800D1
-			public const int navigation_header_container = 2131230929;
+			public const int parentPanel = 2131230929;
 			
 			// aapt resource value: 0x7F0800D2
-			public const int never = 2131230930;
-			
-			// aapt resource value: 0x7F0800D4
-			public const int none = 2131230932;
-			
-			// aapt resource value: 0x7F0800D5
-			public const int normal = 2131230933;
+			public const int parent_matrix = 2131230930;
 			
 			// aapt resource value: 0x7F0800D3
-			public const int noScroll = 2131230931;
+			public const int password_toggle = 2131230931;
+			
+			// aapt resource value: 0x7F0800D4
+			public const int peekHeight = 2131230932;
+			
+			// aapt resource value: 0x7F0800D5
+			public const int pin = 2131230933;
 			
 			// aapt resource value: 0x7F0800D6
-			public const int notification_background = 2131230934;
+			public const int progress_circular = 2131230934;
 			
 			// aapt resource value: 0x7F0800D7
-			public const int notification_main_column = 2131230935;
+			public const int progress_horizontal = 2131230935;
 			
 			// aapt resource value: 0x7F0800D8
-			public const int notification_main_column_container = 2131230936;
+			public const int radio = 2131230936;
 			
 			// aapt resource value: 0x7F0800D9
-			public const int off = 2131230937;
+			public const int right = 2131230937;
 			
 			// aapt resource value: 0x7F0800DA
-			public const int on = 2131230938;
+			public const int right_icon = 2131230938;
 			
 			// aapt resource value: 0x7F0800DB
-			public const int outline = 2131230939;
+			public const int right_side = 2131230939;
 			
 			// aapt resource value: 0x7F0800DC
-			public const int parallax = 2131230940;
+			public const int rounded = 2131230940;
 			
 			// aapt resource value: 0x7F0800DD
-			public const int parentPanel = 2131230941;
+			public const int row_index_key = 2131230941;
 			
 			// aapt resource value: 0x7F0800DE
-			public const int parent_matrix = 2131230942;
+			public const int save_non_transition_alpha = 2131230942;
 			
 			// aapt resource value: 0x7F0800DF
-			public const int password_toggle = 2131230943;
+			public const int save_overlay_view = 2131230943;
 			
 			// aapt resource value: 0x7F0800E0
-			public const int peekHeight = 2131230944;
+			public const int scale = 2131230944;
 			
 			// aapt resource value: 0x7F0800E1
-			public const int pin = 2131230945;
+			public const int screen = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int progress = 2131230946;
-			
-			// aapt resource value: 0x7F0800E3
-			public const int progress_circular = 2131230947;
-			
-			// aapt resource value: 0x7F0800E4
-			public const int progress_horizontal = 2131230948;
-			
-			// aapt resource value: 0x7F0800E5
-			public const int radio = 2131230949;
+			public const int scroll = 2131230946;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int right = 2131230950;
+			public const int scrollable = 2131230950;
+			
+			// aapt resource value: 0x7F0800E3
+			public const int scrollIndicatorDown = 2131230947;
+			
+			// aapt resource value: 0x7F0800E4
+			public const int scrollIndicatorUp = 2131230948;
+			
+			// aapt resource value: 0x7F0800E5
+			public const int scrollView = 2131230949;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int right_icon = 2131230951;
+			public const int search_badge = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int right_side = 2131230952;
+			public const int search_bar = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int rounded = 2131230953;
+			public const int search_button = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int row_index_key = 2131230954;
+			public const int search_close_btn = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int save_non_transition_alpha = 2131230955;
+			public const int search_edit_frame = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int save_overlay_view = 2131230956;
+			public const int search_go_btn = 2131230956;
 			
 			// aapt resource value: 0x7F0800ED
-			public const int scale = 2131230957;
+			public const int search_mag_icon = 2131230957;
 			
 			// aapt resource value: 0x7F0800EE
-			public const int screen = 2131230958;
+			public const int search_plate = 2131230958;
 			
 			// aapt resource value: 0x7F0800EF
-			public const int scroll = 2131230959;
-			
-			// aapt resource value: 0x7F0800F3
-			public const int scrollable = 2131230963;
+			public const int search_src_text = 2131230959;
 			
 			// aapt resource value: 0x7F0800F0
-			public const int scrollIndicatorDown = 2131230960;
-			
-			// aapt resource value: 0x7F0800F1
-			public const int scrollIndicatorUp = 2131230961;
+			public const int search_voice_btn = 2131230960;
 			
 			// aapt resource value: 0x7F0800F2
-			public const int scrollView = 2131230962;
+			public const int selected = 2131230962;
+			
+			// aapt resource value: 0x7F0800F1
+			public const int select_dialog_listview = 2131230961;
+			
+			// aapt resource value: 0x7F0800F3
+			public const int shellcontent_appbar = 2131230963;
 			
 			// aapt resource value: 0x7F0800F4
-			public const int search_badge = 2131230964;
+			public const int shellcontent_toolbar = 2131230964;
+			
+			// aapt resource value: 0x7F080006
+			public const int SHIFT = 2131230726;
 			
 			// aapt resource value: 0x7F0800F5
-			public const int search_bar = 2131230965;
+			public const int shortcut = 2131230965;
 			
 			// aapt resource value: 0x7F0800F6
-			public const int search_button = 2131230966;
+			public const int showCustom = 2131230966;
 			
 			// aapt resource value: 0x7F0800F7
-			public const int search_close_btn = 2131230967;
+			public const int showHome = 2131230967;
 			
 			// aapt resource value: 0x7F0800F8
-			public const int search_edit_frame = 2131230968;
+			public const int showTitle = 2131230968;
 			
 			// aapt resource value: 0x7F0800F9
-			public const int search_go_btn = 2131230969;
+			public const int skipCollapsed = 2131230969;
 			
 			// aapt resource value: 0x7F0800FA
-			public const int search_mag_icon = 2131230970;
+			public const int slide = 2131230970;
 			
 			// aapt resource value: 0x7F0800FB
-			public const int search_plate = 2131230971;
+			public const int sliding_tabs = 2131230971;
 			
 			// aapt resource value: 0x7F0800FC
-			public const int search_src_text = 2131230972;
+			public const int smallLabel = 2131230972;
 			
 			// aapt resource value: 0x7F0800FD
-			public const int search_voice_btn = 2131230973;
+			public const int snackbar_action = 2131230973;
 			
 			// aapt resource value: 0x7F0800FE
-			public const int secondaryProgress = 2131230974;
-			
-			// aapt resource value: 0x7F080100
-			public const int selected = 2131230976;
+			public const int snackbar_text = 2131230974;
 			
 			// aapt resource value: 0x7F0800FF
-			public const int select_dialog_listview = 2131230975;
+			public const int snap = 2131230975;
+			
+			// aapt resource value: 0x7F080100
+			public const int snapMargins = 2131230976;
 			
 			// aapt resource value: 0x7F080101
-			public const int shellcontent_appbar = 2131230977;
+			public const int spacer = 2131230977;
 			
 			// aapt resource value: 0x7F080102
-			public const int shellcontent_toolbar = 2131230978;
-			
-			// aapt resource value: 0x7F080008
-			public const int SHIFT = 2131230728;
+			public const int split_action_bar = 2131230978;
 			
 			// aapt resource value: 0x7F080103
-			public const int shortcut = 2131230979;
+			public const int src_atop = 2131230979;
 			
 			// aapt resource value: 0x7F080104
-			public const int showCustom = 2131230980;
+			public const int src_in = 2131230980;
 			
 			// aapt resource value: 0x7F080105
-			public const int showHome = 2131230981;
+			public const int src_over = 2131230981;
 			
 			// aapt resource value: 0x7F080106
-			public const int showTitle = 2131230982;
+			public const int start = 2131230982;
 			
 			// aapt resource value: 0x7F080107
-			public const int skipCollapsed = 2131230983;
+			public const int status_bar_latest_event_content = 2131230983;
 			
 			// aapt resource value: 0x7F080108
-			public const int slide = 2131230984;
+			public const int stretch = 2131230984;
 			
 			// aapt resource value: 0x7F080109
-			public const int sliding_tabs = 2131230985;
+			public const int submenuarrow = 2131230985;
 			
 			// aapt resource value: 0x7F08010A
-			public const int smallLabel = 2131230986;
+			public const int submit_area = 2131230986;
+			
+			// aapt resource value: 0x7F080007
+			public const int SYM = 2131230727;
 			
 			// aapt resource value: 0x7F08010B
-			public const int snackbar_action = 2131230987;
+			public const int tabMode = 2131230987;
 			
 			// aapt resource value: 0x7F08010C
-			public const int snackbar_text = 2131230988;
+			public const int tag_accessibility_actions = 2131230988;
 			
 			// aapt resource value: 0x7F08010D
-			public const int snap = 2131230989;
+			public const int tag_accessibility_clickable_spans = 2131230989;
 			
 			// aapt resource value: 0x7F08010E
-			public const int snapMargins = 2131230990;
+			public const int tag_accessibility_heading = 2131230990;
 			
 			// aapt resource value: 0x7F08010F
-			public const int spacer = 2131230991;
+			public const int tag_accessibility_pane_title = 2131230991;
 			
 			// aapt resource value: 0x7F080110
-			public const int split_action_bar = 2131230992;
+			public const int tag_screen_reader_focusable = 2131230992;
 			
 			// aapt resource value: 0x7F080111
-			public const int src_atop = 2131230993;
+			public const int tag_transition_group = 2131230993;
 			
 			// aapt resource value: 0x7F080112
-			public const int src_in = 2131230994;
+			public const int tag_unhandled_key_event_manager = 2131230994;
 			
 			// aapt resource value: 0x7F080113
-			public const int src_over = 2131230995;
+			public const int tag_unhandled_key_listeners = 2131230995;
 			
 			// aapt resource value: 0x7F080114
-			public const int start = 2131230996;
+			public const int test_checkbox_android_button_tint = 2131230996;
 			
 			// aapt resource value: 0x7F080115
-			public const int status_bar_latest_event_content = 2131230997;
+			public const int test_checkbox_app_button_tint = 2131230997;
 			
 			// aapt resource value: 0x7F080116
-			public const int stretch = 2131230998;
+			public const int test_radiobutton_android_button_tint = 2131230998;
 			
 			// aapt resource value: 0x7F080117
-			public const int submenuarrow = 2131230999;
+			public const int test_radiobutton_app_button_tint = 2131230999;
 			
 			// aapt resource value: 0x7F080118
-			public const int submit_area = 2131231000;
+			public const int text = 2131231000;
 			
 			// aapt resource value: 0x7F080119
-			public const int suffix = 2131231001;
-			
-			// aapt resource value: 0x7F080009
-			public const int SYM = 2131230729;
+			public const int text2 = 2131231001;
 			
 			// aapt resource value: 0x7F08011A
-			public const int tabMode = 2131231002;
-			
-			// aapt resource value: 0x7F08011B
-			public const int tag_accessibility_actions = 2131231003;
-			
-			// aapt resource value: 0x7F08011C
-			public const int tag_accessibility_clickable_spans = 2131231004;
-			
-			// aapt resource value: 0x7F08011D
-			public const int tag_accessibility_heading = 2131231005;
-			
-			// aapt resource value: 0x7F08011E
-			public const int tag_accessibility_pane_title = 2131231006;
-			
-			// aapt resource value: 0x7F08011F
-			public const int tag_screen_reader_focusable = 2131231007;
-			
-			// aapt resource value: 0x7F080120
-			public const int tag_transition_group = 2131231008;
+			public const int textEnd = 2131231002;
 			
 			// aapt resource value: 0x7F080121
-			public const int tag_unhandled_key_event_manager = 2131231009;
+			public const int textinput_counter = 2131231009;
 			
 			// aapt resource value: 0x7F080122
-			public const int tag_unhandled_key_listeners = 2131231010;
+			public const int textinput_error = 2131231010;
 			
 			// aapt resource value: 0x7F080123
-			public const int test_checkbox_android_button_tint = 2131231011;
+			public const int textinput_helper_text = 2131231011;
 			
 			// aapt resource value: 0x7F080124
-			public const int test_checkbox_app_button_tint = 2131231012;
+			public const int textinput_placeholder = 2131231012;
 			
 			// aapt resource value: 0x7F080125
-			public const int test_radiobutton_android_button_tint = 2131231013;
+			public const int textinput_prefix_text = 2131231013;
 			
 			// aapt resource value: 0x7F080126
-			public const int test_radiobutton_app_button_tint = 2131231014;
+			public const int textinput_suffix_text = 2131231014;
+			
+			// aapt resource value: 0x7F08011B
+			public const int textSpacerNoButtons = 2131231003;
+			
+			// aapt resource value: 0x7F08011C
+			public const int textSpacerNoTitle = 2131231004;
+			
+			// aapt resource value: 0x7F08011D
+			public const int textStart = 2131231005;
+			
+			// aapt resource value: 0x7F08011E
+			public const int textViewStatus = 2131231006;
+			
+			// aapt resource value: 0x7F08011F
+			public const int text_input_end_icon = 2131231007;
+			
+			// aapt resource value: 0x7F080120
+			public const int text_input_start_icon = 2131231008;
 			
 			// aapt resource value: 0x7F080127
-			public const int text = 2131231015;
+			public const int time = 2131231015;
 			
 			// aapt resource value: 0x7F080128
-			public const int text1 = 2131231016;
+			public const int title = 2131231016;
 			
 			// aapt resource value: 0x7F080129
-			public const int text2 = 2131231017;
+			public const int titleDividerNoCustom = 2131231017;
 			
 			// aapt resource value: 0x7F08012A
-			public const int textEnd = 2131231018;
-			
-			// aapt resource value: 0x7F080131
-			public const int textinput_counter = 2131231025;
-			
-			// aapt resource value: 0x7F080132
-			public const int textinput_error = 2131231026;
-			
-			// aapt resource value: 0x7F080133
-			public const int textinput_helper_text = 2131231027;
-			
-			// aapt resource value: 0x7F080134
-			public const int textinput_placeholder = 2131231028;
-			
-			// aapt resource value: 0x7F080135
-			public const int textinput_prefix_text = 2131231029;
-			
-			// aapt resource value: 0x7F080136
-			public const int textinput_suffix_text = 2131231030;
+			public const int title_template = 2131231018;
 			
 			// aapt resource value: 0x7F08012B
-			public const int textSpacerNoButtons = 2131231019;
+			public const int toolbar = 2131231019;
 			
 			// aapt resource value: 0x7F08012C
-			public const int textSpacerNoTitle = 2131231020;
+			public const int top = 2131231020;
 			
 			// aapt resource value: 0x7F08012D
-			public const int textStart = 2131231021;
+			public const int topPanel = 2131231021;
+			
+			// aapt resource value: 0x7F080008
+			public const int TOP_END = 2131230728;
+			
+			// aapt resource value: 0x7F080009
+			public const int TOP_START = 2131230729;
 			
 			// aapt resource value: 0x7F08012E
-			public const int textViewStatus = 2131231022;
+			public const int touch_outside = 2131231022;
 			
 			// aapt resource value: 0x7F08012F
-			public const int text_input_end_icon = 2131231023;
+			public const int transition_current_scene = 2131231023;
 			
 			// aapt resource value: 0x7F080130
-			public const int text_input_start_icon = 2131231024;
+			public const int transition_layout_save = 2131231024;
+			
+			// aapt resource value: 0x7F080131
+			public const int transition_position = 2131231025;
+			
+			// aapt resource value: 0x7F080132
+			public const int transition_scene_layoutid_cache = 2131231026;
+			
+			// aapt resource value: 0x7F080133
+			public const int transition_transform = 2131231027;
+			
+			// aapt resource value: 0x7F080134
+			public const int @unchecked = 2131231028;
+			
+			// aapt resource value: 0x7F080135
+			public const int uniform = 2131231029;
+			
+			// aapt resource value: 0x7F080136
+			public const int unlabeled = 2131231030;
 			
 			// aapt resource value: 0x7F080137
-			public const int time = 2131231031;
+			public const int up = 2131231031;
 			
 			// aapt resource value: 0x7F080138
-			public const int title = 2131231032;
+			public const int useLogo = 2131231032;
 			
 			// aapt resource value: 0x7F080139
-			public const int titleDividerNoCustom = 2131231033;
+			public const int view_offset_helper = 2131231033;
 			
 			// aapt resource value: 0x7F08013A
-			public const int title_template = 2131231034;
+			public const int view_tree_saved_state_registry_owner = 2131231034;
 			
 			// aapt resource value: 0x7F08013B
-			public const int toolbar = 2131231035;
+			public const int visible = 2131231035;
 			
 			// aapt resource value: 0x7F08013C
-			public const int top = 2131231036;
-			
-			// aapt resource value: 0x7F08013D
-			public const int topPanel = 2131231037;
-			
-			// aapt resource value: 0x7F08000A
-			public const int TOP_END = 2131230730;
-			
-			// aapt resource value: 0x7F08000B
-			public const int TOP_START = 2131230731;
+			public const int visible_removing_fragment_view_tag = 2131231036;
 			
 			// aapt resource value: 0x7F08013E
-			public const int touch_outside = 2131231038;
+			public const int withinBounds = 2131231038;
+			
+			// aapt resource value: 0x7F08013D
+			public const int withText = 2131231037;
 			
 			// aapt resource value: 0x7F08013F
-			public const int transition_current_scene = 2131231039;
+			public const int wrap_content = 2131231039;
 			
 			// aapt resource value: 0x7F080140
-			public const int transition_layout_save = 2131231040;
-			
-			// aapt resource value: 0x7F080141
-			public const int transition_position = 2131231041;
-			
-			// aapt resource value: 0x7F080142
-			public const int transition_scene_layoutid_cache = 2131231042;
-			
-			// aapt resource value: 0x7F080143
-			public const int transition_transform = 2131231043;
-			
-			// aapt resource value: 0x7F080144
-			public const int @unchecked = 2131231044;
-			
-			// aapt resource value: 0x7F080145
-			public const int uniform = 2131231045;
-			
-			// aapt resource value: 0x7F080146
-			public const int unlabeled = 2131231046;
-			
-			// aapt resource value: 0x7F080147
-			public const int up = 2131231047;
-			
-			// aapt resource value: 0x7F080148
-			public const int useLogo = 2131231048;
-			
-			// aapt resource value: 0x7F080149
-			public const int view_offset_helper = 2131231049;
-			
-			// aapt resource value: 0x7F08014A
-			public const int view_tree_saved_state_registry_owner = 2131231050;
-			
-			// aapt resource value: 0x7F08014B
-			public const int visible = 2131231051;
-			
-			// aapt resource value: 0x7F08014C
-			public const int visible_removing_fragment_view_tag = 2131231052;
-			
-			// aapt resource value: 0x7F08014E
-			public const int withinBounds = 2131231054;
-			
-			// aapt resource value: 0x7F08014D
-			public const int withText = 2131231053;
-			
-			// aapt resource value: 0x7F08014F
-			public const int wrap_content = 2131231055;
-			
-			// aapt resource value: 0x7F080150
-			public const int zero_corner_chip = 2131231056;
+			public const int zero_corner_chip = 2131231040;
 			
 			static Id()
 			{
@@ -21022,359 +21850,359 @@ namespace FileTransferApp_Mobile.Droid
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7F0B0008
-			public const int abc_action_bar_title_item = 2131427336;
-			
-			// aapt resource value: 0x7F0B0009
-			public const int abc_action_bar_up_container = 2131427337;
-			
-			// aapt resource value: 0x7F0B000A
-			public const int abc_action_menu_item_layout = 2131427338;
-			
-			// aapt resource value: 0x7F0B000B
-			public const int abc_action_menu_layout = 2131427339;
-			
-			// aapt resource value: 0x7F0B000C
-			public const int abc_action_mode_bar = 2131427340;
-			
-			// aapt resource value: 0x7F0B000D
-			public const int abc_action_mode_close_item_material = 2131427341;
-			
-			// aapt resource value: 0x7F0B000E
-			public const int abc_activity_chooser_view = 2131427342;
-			
-			// aapt resource value: 0x7F0B000F
-			public const int abc_activity_chooser_view_list_item = 2131427343;
-			
-			// aapt resource value: 0x7F0B0010
-			public const int abc_alert_dialog_button_bar_material = 2131427344;
-			
-			// aapt resource value: 0x7F0B0011
-			public const int abc_alert_dialog_material = 2131427345;
-			
-			// aapt resource value: 0x7F0B0012
-			public const int abc_alert_dialog_title_material = 2131427346;
-			
-			// aapt resource value: 0x7F0B0013
-			public const int abc_cascading_menu_item_layout = 2131427347;
-			
-			// aapt resource value: 0x7F0B0014
-			public const int abc_dialog_title_material = 2131427348;
-			
-			// aapt resource value: 0x7F0B0015
-			public const int abc_expanded_menu_layout = 2131427349;
-			
-			// aapt resource value: 0x7F0B0016
-			public const int abc_list_menu_item_checkbox = 2131427350;
-			
-			// aapt resource value: 0x7F0B0017
-			public const int abc_list_menu_item_icon = 2131427351;
-			
-			// aapt resource value: 0x7F0B0018
-			public const int abc_list_menu_item_layout = 2131427352;
-			
-			// aapt resource value: 0x7F0B0019
-			public const int abc_list_menu_item_radio = 2131427353;
-			
-			// aapt resource value: 0x7F0B001A
-			public const int abc_popup_menu_header_item_layout = 2131427354;
-			
-			// aapt resource value: 0x7F0B001B
-			public const int abc_popup_menu_item_layout = 2131427355;
-			
-			// aapt resource value: 0x7F0B001C
-			public const int abc_screen_content_include = 2131427356;
-			
-			// aapt resource value: 0x7F0B001D
-			public const int abc_screen_simple = 2131427357;
-			
-			// aapt resource value: 0x7F0B001E
-			public const int abc_screen_simple_overlay_action_mode = 2131427358;
-			
-			// aapt resource value: 0x7F0B001F
-			public const int abc_screen_toolbar = 2131427359;
-			
-			// aapt resource value: 0x7F0B0020
-			public const int abc_search_dropdown_item_icons_2line = 2131427360;
-			
-			// aapt resource value: 0x7F0B0021
-			public const int abc_search_view = 2131427361;
-			
-			// aapt resource value: 0x7F0B0022
-			public const int abc_select_dialog_material = 2131427362;
-			
-			// aapt resource value: 0x7F0B0023
-			public const int abc_tooltip = 2131427363;
-			
 			// aapt resource value: 0x7F0B0000
-			public const int BottomTabLayout = 2131427328;
-			
-			// aapt resource value: 0x7F0B0024
-			public const int browser_actions_context_menu_page = 2131427364;
-			
-			// aapt resource value: 0x7F0B0025
-			public const int browser_actions_context_menu_row = 2131427365;
-			
-			// aapt resource value: 0x7F0B0026
-			public const int custom_dialog = 2131427366;
-			
-			// aapt resource value: 0x7F0B0027
-			public const int design_bottom_navigation_item = 2131427367;
-			
-			// aapt resource value: 0x7F0B0028
-			public const int design_bottom_sheet_dialog = 2131427368;
-			
-			// aapt resource value: 0x7F0B0029
-			public const int design_layout_snackbar = 2131427369;
-			
-			// aapt resource value: 0x7F0B002A
-			public const int design_layout_snackbar_include = 2131427370;
-			
-			// aapt resource value: 0x7F0B002B
-			public const int design_layout_tab_icon = 2131427371;
-			
-			// aapt resource value: 0x7F0B002C
-			public const int design_layout_tab_text = 2131427372;
-			
-			// aapt resource value: 0x7F0B002D
-			public const int design_menu_item_action_area = 2131427373;
-			
-			// aapt resource value: 0x7F0B002E
-			public const int design_navigation_item = 2131427374;
-			
-			// aapt resource value: 0x7F0B002F
-			public const int design_navigation_item_header = 2131427375;
-			
-			// aapt resource value: 0x7F0B0030
-			public const int design_navigation_item_separator = 2131427376;
-			
-			// aapt resource value: 0x7F0B0031
-			public const int design_navigation_item_subheader = 2131427377;
-			
-			// aapt resource value: 0x7F0B0032
-			public const int design_navigation_menu = 2131427378;
-			
-			// aapt resource value: 0x7F0B0033
-			public const int design_navigation_menu_item = 2131427379;
-			
-			// aapt resource value: 0x7F0B0034
-			public const int design_text_input_end_icon = 2131427380;
-			
-			// aapt resource value: 0x7F0B0035
-			public const int design_text_input_start_icon = 2131427381;
+			public const int abc_action_bar_title_item = 2131427328;
 			
 			// aapt resource value: 0x7F0B0001
-			public const int FallbackTabbarDoNotUse = 2131427329;
+			public const int abc_action_bar_up_container = 2131427329;
 			
 			// aapt resource value: 0x7F0B0002
-			public const int FallbackToolbarDoNotUse = 2131427330;
+			public const int abc_action_menu_item_layout = 2131427330;
 			
 			// aapt resource value: 0x7F0B0003
-			public const int FlyoutContent = 2131427331;
-			
-			// aapt resource value: 0x7F0B0036
-			public const int loading = 2131427382;
-			
-			// aapt resource value: 0x7F0B0037
-			public const int loadingimage = 2131427383;
-			
-			// aapt resource value: 0x7F0B0038
-			public const int loadingprogress = 2131427384;
-			
-			// aapt resource value: 0x7F0B0039
-			public const int mtrl_alert_dialog = 2131427385;
-			
-			// aapt resource value: 0x7F0B003A
-			public const int mtrl_alert_dialog_actions = 2131427386;
-			
-			// aapt resource value: 0x7F0B003B
-			public const int mtrl_alert_dialog_title = 2131427387;
-			
-			// aapt resource value: 0x7F0B003C
-			public const int mtrl_alert_select_dialog_item = 2131427388;
-			
-			// aapt resource value: 0x7F0B003D
-			public const int mtrl_alert_select_dialog_multichoice = 2131427389;
-			
-			// aapt resource value: 0x7F0B003E
-			public const int mtrl_alert_select_dialog_singlechoice = 2131427390;
-			
-			// aapt resource value: 0x7F0B003F
-			public const int mtrl_calendar_day = 2131427391;
-			
-			// aapt resource value: 0x7F0B0041
-			public const int mtrl_calendar_days_of_week = 2131427393;
-			
-			// aapt resource value: 0x7F0B0040
-			public const int mtrl_calendar_day_of_week = 2131427392;
-			
-			// aapt resource value: 0x7F0B0042
-			public const int mtrl_calendar_horizontal = 2131427394;
-			
-			// aapt resource value: 0x7F0B0043
-			public const int mtrl_calendar_month = 2131427395;
-			
-			// aapt resource value: 0x7F0B0046
-			public const int mtrl_calendar_months = 2131427398;
-			
-			// aapt resource value: 0x7F0B0044
-			public const int mtrl_calendar_month_labeled = 2131427396;
-			
-			// aapt resource value: 0x7F0B0045
-			public const int mtrl_calendar_month_navigation = 2131427397;
-			
-			// aapt resource value: 0x7F0B0047
-			public const int mtrl_calendar_vertical = 2131427399;
-			
-			// aapt resource value: 0x7F0B0048
-			public const int mtrl_calendar_year = 2131427400;
-			
-			// aapt resource value: 0x7F0B0049
-			public const int mtrl_layout_snackbar = 2131427401;
-			
-			// aapt resource value: 0x7F0B004A
-			public const int mtrl_layout_snackbar_include = 2131427402;
-			
-			// aapt resource value: 0x7F0B004B
-			public const int mtrl_picker_actions = 2131427403;
-			
-			// aapt resource value: 0x7F0B004C
-			public const int mtrl_picker_dialog = 2131427404;
-			
-			// aapt resource value: 0x7F0B004D
-			public const int mtrl_picker_fullscreen = 2131427405;
-			
-			// aapt resource value: 0x7F0B004E
-			public const int mtrl_picker_header_dialog = 2131427406;
-			
-			// aapt resource value: 0x7F0B004F
-			public const int mtrl_picker_header_fullscreen = 2131427407;
-			
-			// aapt resource value: 0x7F0B0050
-			public const int mtrl_picker_header_selection_text = 2131427408;
-			
-			// aapt resource value: 0x7F0B0051
-			public const int mtrl_picker_header_title_text = 2131427409;
-			
-			// aapt resource value: 0x7F0B0052
-			public const int mtrl_picker_header_toggle = 2131427410;
-			
-			// aapt resource value: 0x7F0B0053
-			public const int mtrl_picker_text_input_date = 2131427411;
-			
-			// aapt resource value: 0x7F0B0054
-			public const int mtrl_picker_text_input_date_range = 2131427412;
-			
-			// aapt resource value: 0x7F0B0055
-			public const int notification_action = 2131427413;
-			
-			// aapt resource value: 0x7F0B0056
-			public const int notification_action_tombstone = 2131427414;
-			
-			// aapt resource value: 0x7F0B0057
-			public const int notification_media_action = 2131427415;
-			
-			// aapt resource value: 0x7F0B0058
-			public const int notification_media_cancel_action = 2131427416;
-			
-			// aapt resource value: 0x7F0B0059
-			public const int notification_template_big_media = 2131427417;
-			
-			// aapt resource value: 0x7F0B005A
-			public const int notification_template_big_media_custom = 2131427418;
-			
-			// aapt resource value: 0x7F0B005B
-			public const int notification_template_big_media_narrow = 2131427419;
-			
-			// aapt resource value: 0x7F0B005C
-			public const int notification_template_big_media_narrow_custom = 2131427420;
-			
-			// aapt resource value: 0x7F0B005D
-			public const int notification_template_custom_big = 2131427421;
-			
-			// aapt resource value: 0x7F0B005E
-			public const int notification_template_icon_group = 2131427422;
-			
-			// aapt resource value: 0x7F0B005F
-			public const int notification_template_lines_media = 2131427423;
-			
-			// aapt resource value: 0x7F0B0060
-			public const int notification_template_media = 2131427424;
-			
-			// aapt resource value: 0x7F0B0061
-			public const int notification_template_media_custom = 2131427425;
-			
-			// aapt resource value: 0x7F0B0062
-			public const int notification_template_part_chronometer = 2131427426;
-			
-			// aapt resource value: 0x7F0B0063
-			public const int notification_template_part_time = 2131427427;
+			public const int abc_action_menu_layout = 2131427331;
 			
 			// aapt resource value: 0x7F0B0004
-			public const int RootLayout = 2131427332;
-			
-			// aapt resource value: 0x7F0B0064
-			public const int select_dialog_item_material = 2131427428;
-			
-			// aapt resource value: 0x7F0B0065
-			public const int select_dialog_multichoice_material = 2131427429;
-			
-			// aapt resource value: 0x7F0B0066
-			public const int select_dialog_singlechoice_material = 2131427430;
+			public const int abc_action_mode_bar = 2131427332;
 			
 			// aapt resource value: 0x7F0B0005
-			public const int ShellContent = 2131427333;
-			
-			// aapt resource value: 0x7F0B0067
-			public const int support_simple_spinner_dropdown_item = 2131427431;
+			public const int abc_action_mode_close_item_material = 2131427333;
 			
 			// aapt resource value: 0x7F0B0006
-			public const int Tabbar = 2131427334;
-			
-			// aapt resource value: 0x7F0B0068
-			public const int test_action_chip = 2131427432;
-			
-			// aapt resource value: 0x7F0B0069
-			public const int test_chip_zero_corner_radius = 2131427433;
-			
-			// aapt resource value: 0x7F0B006A
-			public const int test_design_checkbox = 2131427434;
-			
-			// aapt resource value: 0x7F0B006B
-			public const int test_design_radiobutton = 2131427435;
-			
-			// aapt resource value: 0x7F0B006C
-			public const int test_reflow_chipgroup = 2131427436;
-			
-			// aapt resource value: 0x7F0B006D
-			public const int test_toolbar = 2131427437;
-			
-			// aapt resource value: 0x7F0B006E
-			public const int test_toolbar_custom_background = 2131427438;
-			
-			// aapt resource value: 0x7F0B006F
-			public const int test_toolbar_elevation = 2131427439;
-			
-			// aapt resource value: 0x7F0B0070
-			public const int test_toolbar_surface = 2131427440;
-			
-			// aapt resource value: 0x7F0B0075
-			public const int text_view_without_line_height = 2131427445;
-			
-			// aapt resource value: 0x7F0B0071
-			public const int text_view_with_line_height_from_appearance = 2131427441;
-			
-			// aapt resource value: 0x7F0B0072
-			public const int text_view_with_line_height_from_layout = 2131427442;
-			
-			// aapt resource value: 0x7F0B0073
-			public const int text_view_with_line_height_from_style = 2131427443;
-			
-			// aapt resource value: 0x7F0B0074
-			public const int text_view_with_theme_line_height = 2131427444;
+			public const int abc_activity_chooser_view = 2131427334;
 			
 			// aapt resource value: 0x7F0B0007
-			public const int Toolbar = 2131427335;
+			public const int abc_activity_chooser_view_list_item = 2131427335;
+			
+			// aapt resource value: 0x7F0B0008
+			public const int abc_alert_dialog_button_bar_material = 2131427336;
+			
+			// aapt resource value: 0x7F0B0009
+			public const int abc_alert_dialog_material = 2131427337;
+			
+			// aapt resource value: 0x7F0B000A
+			public const int abc_alert_dialog_title_material = 2131427338;
+			
+			// aapt resource value: 0x7F0B000B
+			public const int abc_cascading_menu_item_layout = 2131427339;
+			
+			// aapt resource value: 0x7F0B000C
+			public const int abc_dialog_title_material = 2131427340;
+			
+			// aapt resource value: 0x7F0B000D
+			public const int abc_expanded_menu_layout = 2131427341;
+			
+			// aapt resource value: 0x7F0B000E
+			public const int abc_list_menu_item_checkbox = 2131427342;
+			
+			// aapt resource value: 0x7F0B000F
+			public const int abc_list_menu_item_icon = 2131427343;
+			
+			// aapt resource value: 0x7F0B0010
+			public const int abc_list_menu_item_layout = 2131427344;
+			
+			// aapt resource value: 0x7F0B0011
+			public const int abc_list_menu_item_radio = 2131427345;
+			
+			// aapt resource value: 0x7F0B0012
+			public const int abc_popup_menu_header_item_layout = 2131427346;
+			
+			// aapt resource value: 0x7F0B0013
+			public const int abc_popup_menu_item_layout = 2131427347;
+			
+			// aapt resource value: 0x7F0B0014
+			public const int abc_screen_content_include = 2131427348;
+			
+			// aapt resource value: 0x7F0B0015
+			public const int abc_screen_simple = 2131427349;
+			
+			// aapt resource value: 0x7F0B0016
+			public const int abc_screen_simple_overlay_action_mode = 2131427350;
+			
+			// aapt resource value: 0x7F0B0017
+			public const int abc_screen_toolbar = 2131427351;
+			
+			// aapt resource value: 0x7F0B0018
+			public const int abc_search_dropdown_item_icons_2line = 2131427352;
+			
+			// aapt resource value: 0x7F0B0019
+			public const int abc_search_view = 2131427353;
+			
+			// aapt resource value: 0x7F0B001A
+			public const int abc_select_dialog_material = 2131427354;
+			
+			// aapt resource value: 0x7F0B001B
+			public const int abc_tooltip = 2131427355;
+			
+			// aapt resource value: 0x7F0B001C
+			public const int BottomTabLayout = 2131427356;
+			
+			// aapt resource value: 0x7F0B001D
+			public const int browser_actions_context_menu_page = 2131427357;
+			
+			// aapt resource value: 0x7F0B001E
+			public const int browser_actions_context_menu_row = 2131427358;
+			
+			// aapt resource value: 0x7F0B001F
+			public const int custom_dialog = 2131427359;
+			
+			// aapt resource value: 0x7F0B0020
+			public const int design_bottom_navigation_item = 2131427360;
+			
+			// aapt resource value: 0x7F0B0021
+			public const int design_bottom_sheet_dialog = 2131427361;
+			
+			// aapt resource value: 0x7F0B0022
+			public const int design_layout_snackbar = 2131427362;
+			
+			// aapt resource value: 0x7F0B0023
+			public const int design_layout_snackbar_include = 2131427363;
+			
+			// aapt resource value: 0x7F0B0024
+			public const int design_layout_tab_icon = 2131427364;
+			
+			// aapt resource value: 0x7F0B0025
+			public const int design_layout_tab_text = 2131427365;
+			
+			// aapt resource value: 0x7F0B0026
+			public const int design_menu_item_action_area = 2131427366;
+			
+			// aapt resource value: 0x7F0B0027
+			public const int design_navigation_item = 2131427367;
+			
+			// aapt resource value: 0x7F0B0028
+			public const int design_navigation_item_header = 2131427368;
+			
+			// aapt resource value: 0x7F0B0029
+			public const int design_navigation_item_separator = 2131427369;
+			
+			// aapt resource value: 0x7F0B002A
+			public const int design_navigation_item_subheader = 2131427370;
+			
+			// aapt resource value: 0x7F0B002B
+			public const int design_navigation_menu = 2131427371;
+			
+			// aapt resource value: 0x7F0B002C
+			public const int design_navigation_menu_item = 2131427372;
+			
+			// aapt resource value: 0x7F0B002D
+			public const int design_text_input_end_icon = 2131427373;
+			
+			// aapt resource value: 0x7F0B002E
+			public const int design_text_input_start_icon = 2131427374;
+			
+			// aapt resource value: 0x7F0B002F
+			public const int FallbackTabbarDoNotUse = 2131427375;
+			
+			// aapt resource value: 0x7F0B0030
+			public const int FallbackToolbarDoNotUse = 2131427376;
+			
+			// aapt resource value: 0x7F0B0031
+			public const int FlyoutContent = 2131427377;
+			
+			// aapt resource value: 0x7F0B0032
+			public const int loading = 2131427378;
+			
+			// aapt resource value: 0x7F0B0033
+			public const int loadingimage = 2131427379;
+			
+			// aapt resource value: 0x7F0B0034
+			public const int loadingprogress = 2131427380;
+			
+			// aapt resource value: 0x7F0B0035
+			public const int mtrl_alert_dialog = 2131427381;
+			
+			// aapt resource value: 0x7F0B0036
+			public const int mtrl_alert_dialog_actions = 2131427382;
+			
+			// aapt resource value: 0x7F0B0037
+			public const int mtrl_alert_dialog_title = 2131427383;
+			
+			// aapt resource value: 0x7F0B0038
+			public const int mtrl_alert_select_dialog_item = 2131427384;
+			
+			// aapt resource value: 0x7F0B0039
+			public const int mtrl_alert_select_dialog_multichoice = 2131427385;
+			
+			// aapt resource value: 0x7F0B003A
+			public const int mtrl_alert_select_dialog_singlechoice = 2131427386;
+			
+			// aapt resource value: 0x7F0B003B
+			public const int mtrl_calendar_day = 2131427387;
+			
+			// aapt resource value: 0x7F0B003D
+			public const int mtrl_calendar_days_of_week = 2131427389;
+			
+			// aapt resource value: 0x7F0B003C
+			public const int mtrl_calendar_day_of_week = 2131427388;
+			
+			// aapt resource value: 0x7F0B003E
+			public const int mtrl_calendar_horizontal = 2131427390;
+			
+			// aapt resource value: 0x7F0B003F
+			public const int mtrl_calendar_month = 2131427391;
+			
+			// aapt resource value: 0x7F0B0042
+			public const int mtrl_calendar_months = 2131427394;
+			
+			// aapt resource value: 0x7F0B0040
+			public const int mtrl_calendar_month_labeled = 2131427392;
+			
+			// aapt resource value: 0x7F0B0041
+			public const int mtrl_calendar_month_navigation = 2131427393;
+			
+			// aapt resource value: 0x7F0B0043
+			public const int mtrl_calendar_vertical = 2131427395;
+			
+			// aapt resource value: 0x7F0B0044
+			public const int mtrl_calendar_year = 2131427396;
+			
+			// aapt resource value: 0x7F0B0045
+			public const int mtrl_layout_snackbar = 2131427397;
+			
+			// aapt resource value: 0x7F0B0046
+			public const int mtrl_layout_snackbar_include = 2131427398;
+			
+			// aapt resource value: 0x7F0B0047
+			public const int mtrl_picker_actions = 2131427399;
+			
+			// aapt resource value: 0x7F0B0048
+			public const int mtrl_picker_dialog = 2131427400;
+			
+			// aapt resource value: 0x7F0B0049
+			public const int mtrl_picker_fullscreen = 2131427401;
+			
+			// aapt resource value: 0x7F0B004A
+			public const int mtrl_picker_header_dialog = 2131427402;
+			
+			// aapt resource value: 0x7F0B004B
+			public const int mtrl_picker_header_fullscreen = 2131427403;
+			
+			// aapt resource value: 0x7F0B004C
+			public const int mtrl_picker_header_selection_text = 2131427404;
+			
+			// aapt resource value: 0x7F0B004D
+			public const int mtrl_picker_header_title_text = 2131427405;
+			
+			// aapt resource value: 0x7F0B004E
+			public const int mtrl_picker_header_toggle = 2131427406;
+			
+			// aapt resource value: 0x7F0B004F
+			public const int mtrl_picker_text_input_date = 2131427407;
+			
+			// aapt resource value: 0x7F0B0050
+			public const int mtrl_picker_text_input_date_range = 2131427408;
+			
+			// aapt resource value: 0x7F0B0051
+			public const int notification_action = 2131427409;
+			
+			// aapt resource value: 0x7F0B0052
+			public const int notification_action_tombstone = 2131427410;
+			
+			// aapt resource value: 0x7F0B0053
+			public const int notification_media_action = 2131427411;
+			
+			// aapt resource value: 0x7F0B0054
+			public const int notification_media_cancel_action = 2131427412;
+			
+			// aapt resource value: 0x7F0B0055
+			public const int notification_template_big_media = 2131427413;
+			
+			// aapt resource value: 0x7F0B0056
+			public const int notification_template_big_media_custom = 2131427414;
+			
+			// aapt resource value: 0x7F0B0057
+			public const int notification_template_big_media_narrow = 2131427415;
+			
+			// aapt resource value: 0x7F0B0058
+			public const int notification_template_big_media_narrow_custom = 2131427416;
+			
+			// aapt resource value: 0x7F0B0059
+			public const int notification_template_custom_big = 2131427417;
+			
+			// aapt resource value: 0x7F0B005A
+			public const int notification_template_icon_group = 2131427418;
+			
+			// aapt resource value: 0x7F0B005B
+			public const int notification_template_lines_media = 2131427419;
+			
+			// aapt resource value: 0x7F0B005C
+			public const int notification_template_media = 2131427420;
+			
+			// aapt resource value: 0x7F0B005D
+			public const int notification_template_media_custom = 2131427421;
+			
+			// aapt resource value: 0x7F0B005E
+			public const int notification_template_part_chronometer = 2131427422;
+			
+			// aapt resource value: 0x7F0B005F
+			public const int notification_template_part_time = 2131427423;
+			
+			// aapt resource value: 0x7F0B0060
+			public const int RootLayout = 2131427424;
+			
+			// aapt resource value: 0x7F0B0061
+			public const int select_dialog_item_material = 2131427425;
+			
+			// aapt resource value: 0x7F0B0062
+			public const int select_dialog_multichoice_material = 2131427426;
+			
+			// aapt resource value: 0x7F0B0063
+			public const int select_dialog_singlechoice_material = 2131427427;
+			
+			// aapt resource value: 0x7F0B0064
+			public const int ShellContent = 2131427428;
+			
+			// aapt resource value: 0x7F0B0065
+			public const int support_simple_spinner_dropdown_item = 2131427429;
+			
+			// aapt resource value: 0x7F0B0066
+			public const int Tabbar = 2131427430;
+			
+			// aapt resource value: 0x7F0B0067
+			public const int test_action_chip = 2131427431;
+			
+			// aapt resource value: 0x7F0B0068
+			public const int test_chip_zero_corner_radius = 2131427432;
+			
+			// aapt resource value: 0x7F0B0069
+			public const int test_design_checkbox = 2131427433;
+			
+			// aapt resource value: 0x7F0B006A
+			public const int test_design_radiobutton = 2131427434;
+			
+			// aapt resource value: 0x7F0B006B
+			public const int test_reflow_chipgroup = 2131427435;
+			
+			// aapt resource value: 0x7F0B006C
+			public const int test_toolbar = 2131427436;
+			
+			// aapt resource value: 0x7F0B006D
+			public const int test_toolbar_custom_background = 2131427437;
+			
+			// aapt resource value: 0x7F0B006E
+			public const int test_toolbar_elevation = 2131427438;
+			
+			// aapt resource value: 0x7F0B006F
+			public const int test_toolbar_surface = 2131427439;
+			
+			// aapt resource value: 0x7F0B0074
+			public const int text_view_without_line_height = 2131427444;
+			
+			// aapt resource value: 0x7F0B0070
+			public const int text_view_with_line_height_from_appearance = 2131427440;
+			
+			// aapt resource value: 0x7F0B0071
+			public const int text_view_with_line_height_from_layout = 2131427441;
+			
+			// aapt resource value: 0x7F0B0072
+			public const int text_view_with_line_height_from_style = 2131427442;
+			
+			// aapt resource value: 0x7F0B0073
+			public const int text_view_with_theme_line_height = 2131427443;
+			
+			// aapt resource value: 0x7F0B0075
+			public const int Toolbar = 2131427445;
 			
 			static Layout()
 			{
@@ -21392,17 +22220,14 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0C0000
 			public const int FileTransferIcon = 2131492864;
 			
+			// aapt resource value: 0x7F0C0001
+			public const int icon = 2131492865;
+			
 			// aapt resource value: 0x7F0C0002
-			public const int icon = 2131492866;
+			public const int icon_round = 2131492866;
 			
 			// aapt resource value: 0x7F0C0003
-			public const int icon_round = 2131492867;
-			
-			// aapt resource value: 0x7F0C0004
-			public const int launcher_foreground = 2131492868;
-			
-			// aapt resource value: 0x7F0C0001
-			public const int Logo = 2131492865;
+			public const int launcher_foreground = 2131492867;
 			
 			static Mipmap()
 			{
@@ -21767,11 +22592,11 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F000E
 			public const int Base_CardView = 2131689486;
 			
-			// aapt resource value: 0x7F0F000F
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689487;
-			
 			// aapt resource value: 0x7F0F0010
-			public const int Base_DialogWindowTitle_AppCompat = 2131689488;
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689488;
+			
+			// aapt resource value: 0x7F0F000F
+			public const int Base_DialogWindowTitle_AppCompat = 2131689487;
 			
 			// aapt resource value: 0x7F0F0011
 			public const int Base_MaterialAlertDialog_MaterialComponents_Title_Icon = 2131689489;
@@ -21938,203 +22763,203 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F0047
 			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689543;
 			
-			// aapt resource value: 0x7F0F0048
-			public const int Base_ThemeOverlay_AppCompat = 2131689544;
-			
-			// aapt resource value: 0x7F0F0049
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689545;
-			
-			// aapt resource value: 0x7F0F004A
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689546;
-			
-			// aapt resource value: 0x7F0F004B
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689547;
-			
-			// aapt resource value: 0x7F0F004C
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689548;
-			
-			// aapt resource value: 0x7F0F004D
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689549;
-			
-			// aapt resource value: 0x7F0F004E
-			public const int Base_ThemeOverlay_AppCompat_Light = 2131689550;
-			
-			// aapt resource value: 0x7F0F004F
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689551;
-			
-			// aapt resource value: 0x7F0F0050
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689552;
-			
-			// aapt resource value: 0x7F0F0051
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131689553;
-			
-			// aapt resource value: 0x7F0F0052
-			public const int Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131689554;
-			
-			// aapt resource value: 0x7F0F0053
-			public const int Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689555;
-			
-			// aapt resource value: 0x7F0F0054
-			public const int Base_Theme_AppCompat = 2131689556;
-			
-			// aapt resource value: 0x7F0F0055
-			public const int Base_Theme_AppCompat_CompactMenu = 2131689557;
-			
-			// aapt resource value: 0x7F0F0056
-			public const int Base_Theme_AppCompat_Dialog = 2131689558;
-			
-			// aapt resource value: 0x7F0F0057
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689559;
-			
-			// aapt resource value: 0x7F0F0058
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689560;
-			
-			// aapt resource value: 0x7F0F0059
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689561;
-			
-			// aapt resource value: 0x7F0F005A
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689562;
-			
-			// aapt resource value: 0x7F0F005B
-			public const int Base_Theme_AppCompat_Light = 2131689563;
-			
-			// aapt resource value: 0x7F0F005C
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689564;
-			
-			// aapt resource value: 0x7F0F005D
-			public const int Base_Theme_AppCompat_Light_Dialog = 2131689565;
-			
-			// aapt resource value: 0x7F0F005E
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689566;
-			
-			// aapt resource value: 0x7F0F005F
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689567;
-			
-			// aapt resource value: 0x7F0F0060
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689568;
-			
-			// aapt resource value: 0x7F0F0061
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689569;
-			
-			// aapt resource value: 0x7F0F0062
-			public const int Base_Theme_MaterialComponents = 2131689570;
-			
-			// aapt resource value: 0x7F0F0063
-			public const int Base_Theme_MaterialComponents_Bridge = 2131689571;
-			
-			// aapt resource value: 0x7F0F0064
-			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689572;
-			
-			// aapt resource value: 0x7F0F0065
-			public const int Base_Theme_MaterialComponents_Dialog = 2131689573;
-			
-			// aapt resource value: 0x7F0F0066
-			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689574;
-			
-			// aapt resource value: 0x7F0F0067
-			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689575;
-			
-			// aapt resource value: 0x7F0F0068
-			public const int Base_Theme_MaterialComponents_Dialog_Bridge = 2131689576;
-			
 			// aapt resource value: 0x7F0F0069
-			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689577;
+			public const int Base_ThemeOverlay_AppCompat = 2131689577;
 			
 			// aapt resource value: 0x7F0F006A
-			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689578;
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689578;
 			
 			// aapt resource value: 0x7F0F006B
-			public const int Base_Theme_MaterialComponents_Light = 2131689579;
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689579;
 			
 			// aapt resource value: 0x7F0F006C
-			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689580;
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689580;
 			
 			// aapt resource value: 0x7F0F006D
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689581;
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689581;
 			
 			// aapt resource value: 0x7F0F006E
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689582;
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689582;
 			
 			// aapt resource value: 0x7F0F006F
-			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689583;
+			public const int Base_ThemeOverlay_AppCompat_Light = 2131689583;
 			
 			// aapt resource value: 0x7F0F0070
-			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689584;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689584;
 			
 			// aapt resource value: 0x7F0F0071
-			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689585;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689585;
 			
 			// aapt resource value: 0x7F0F0072
-			public const int Base_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689586;
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131689586;
 			
 			// aapt resource value: 0x7F0F0073
-			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689587;
+			public const int Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131689587;
 			
 			// aapt resource value: 0x7F0F0074
-			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689588;
+			public const int Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689588;
 			
-			// aapt resource value: 0x7F0F0075
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689589;
+			// aapt resource value: 0x7F0F0048
+			public const int Base_Theme_AppCompat = 2131689544;
 			
-			// aapt resource value: 0x7F0F0076
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689590;
+			// aapt resource value: 0x7F0F0049
+			public const int Base_Theme_AppCompat_CompactMenu = 2131689545;
 			
-			// aapt resource value: 0x7F0F0077
-			public const int Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689591;
+			// aapt resource value: 0x7F0F004A
+			public const int Base_Theme_AppCompat_Dialog = 2131689546;
 			
-			// aapt resource value: 0x7F0F0078
-			public const int Base_V14_Theme_MaterialComponents = 2131689592;
+			// aapt resource value: 0x7F0F004E
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689550;
 			
-			// aapt resource value: 0x7F0F0079
-			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689593;
+			// aapt resource value: 0x7F0F004B
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689547;
 			
-			// aapt resource value: 0x7F0F007A
-			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689594;
+			// aapt resource value: 0x7F0F004C
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689548;
 			
-			// aapt resource value: 0x7F0F007B
-			public const int Base_V14_Theme_MaterialComponents_Dialog_Bridge = 2131689595;
+			// aapt resource value: 0x7F0F004D
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689549;
 			
-			// aapt resource value: 0x7F0F007C
-			public const int Base_V14_Theme_MaterialComponents_Light = 2131689596;
+			// aapt resource value: 0x7F0F004F
+			public const int Base_Theme_AppCompat_Light = 2131689551;
 			
-			// aapt resource value: 0x7F0F007D
-			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689597;
+			// aapt resource value: 0x7F0F0050
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689552;
+			
+			// aapt resource value: 0x7F0F0051
+			public const int Base_Theme_AppCompat_Light_Dialog = 2131689553;
+			
+			// aapt resource value: 0x7F0F0055
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689557;
+			
+			// aapt resource value: 0x7F0F0052
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689554;
+			
+			// aapt resource value: 0x7F0F0053
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689555;
+			
+			// aapt resource value: 0x7F0F0054
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689556;
+			
+			// aapt resource value: 0x7F0F0056
+			public const int Base_Theme_MaterialComponents = 2131689558;
+			
+			// aapt resource value: 0x7F0F0057
+			public const int Base_Theme_MaterialComponents_Bridge = 2131689559;
+			
+			// aapt resource value: 0x7F0F0058
+			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689560;
+			
+			// aapt resource value: 0x7F0F0059
+			public const int Base_Theme_MaterialComponents_Dialog = 2131689561;
+			
+			// aapt resource value: 0x7F0F005E
+			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689566;
+			
+			// aapt resource value: 0x7F0F005A
+			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689562;
+			
+			// aapt resource value: 0x7F0F005B
+			public const int Base_Theme_MaterialComponents_Dialog_Bridge = 2131689563;
+			
+			// aapt resource value: 0x7F0F005C
+			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689564;
+			
+			// aapt resource value: 0x7F0F005D
+			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689565;
+			
+			// aapt resource value: 0x7F0F005F
+			public const int Base_Theme_MaterialComponents_Light = 2131689567;
+			
+			// aapt resource value: 0x7F0F0060
+			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689568;
+			
+			// aapt resource value: 0x7F0F0061
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689569;
+			
+			// aapt resource value: 0x7F0F0062
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689570;
+			
+			// aapt resource value: 0x7F0F0063
+			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689571;
+			
+			// aapt resource value: 0x7F0F0068
+			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689576;
+			
+			// aapt resource value: 0x7F0F0064
+			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689572;
+			
+			// aapt resource value: 0x7F0F0065
+			public const int Base_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689573;
+			
+			// aapt resource value: 0x7F0F0066
+			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689574;
+			
+			// aapt resource value: 0x7F0F0067
+			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689575;
 			
 			// aapt resource value: 0x7F0F007E
-			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689598;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689598;
 			
 			// aapt resource value: 0x7F0F007F
-			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689599;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689599;
 			
 			// aapt resource value: 0x7F0F0080
-			public const int Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689600;
+			public const int Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689600;
 			
-			// aapt resource value: 0x7F0F0081
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689601;
+			// aapt resource value: 0x7F0F0075
+			public const int Base_V14_Theme_MaterialComponents = 2131689589;
 			
-			// aapt resource value: 0x7F0F0082
-			public const int Base_V21_Theme_AppCompat = 2131689602;
+			// aapt resource value: 0x7F0F0076
+			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689590;
 			
-			// aapt resource value: 0x7F0F0083
-			public const int Base_V21_Theme_AppCompat_Dialog = 2131689603;
+			// aapt resource value: 0x7F0F0077
+			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689591;
 			
-			// aapt resource value: 0x7F0F0084
-			public const int Base_V21_Theme_AppCompat_Light = 2131689604;
+			// aapt resource value: 0x7F0F0078
+			public const int Base_V14_Theme_MaterialComponents_Dialog_Bridge = 2131689592;
 			
-			// aapt resource value: 0x7F0F0085
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689605;
+			// aapt resource value: 0x7F0F0079
+			public const int Base_V14_Theme_MaterialComponents_Light = 2131689593;
 			
-			// aapt resource value: 0x7F0F0086
-			public const int Base_V21_Theme_MaterialComponents = 2131689606;
+			// aapt resource value: 0x7F0F007A
+			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689594;
 			
-			// aapt resource value: 0x7F0F0087
-			public const int Base_V21_Theme_MaterialComponents_Dialog = 2131689607;
+			// aapt resource value: 0x7F0F007B
+			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689595;
 			
-			// aapt resource value: 0x7F0F0088
-			public const int Base_V21_Theme_MaterialComponents_Light = 2131689608;
+			// aapt resource value: 0x7F0F007C
+			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689596;
+			
+			// aapt resource value: 0x7F0F007D
+			public const int Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = 2131689597;
 			
 			// aapt resource value: 0x7F0F0089
-			public const int Base_V21_Theme_MaterialComponents_Light_Dialog = 2131689609;
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689609;
+			
+			// aapt resource value: 0x7F0F0081
+			public const int Base_V21_Theme_AppCompat = 2131689601;
+			
+			// aapt resource value: 0x7F0F0082
+			public const int Base_V21_Theme_AppCompat_Dialog = 2131689602;
+			
+			// aapt resource value: 0x7F0F0083
+			public const int Base_V21_Theme_AppCompat_Light = 2131689603;
+			
+			// aapt resource value: 0x7F0F0084
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689604;
+			
+			// aapt resource value: 0x7F0F0085
+			public const int Base_V21_Theme_MaterialComponents = 2131689605;
+			
+			// aapt resource value: 0x7F0F0086
+			public const int Base_V21_Theme_MaterialComponents_Dialog = 2131689606;
+			
+			// aapt resource value: 0x7F0F0087
+			public const int Base_V21_Theme_MaterialComponents_Light = 2131689607;
+			
+			// aapt resource value: 0x7F0F0088
+			public const int Base_V21_Theme_MaterialComponents_Light_Dialog = 2131689608;
 			
 			// aapt resource value: 0x7F0F008A
 			public const int Base_V22_Theme_AppCompat = 2131689610;
@@ -22163,20 +22988,20 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F0092
 			public const int Base_V28_Theme_AppCompat_Light = 2131689618;
 			
+			// aapt resource value: 0x7F0F0097
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689623;
+			
 			// aapt resource value: 0x7F0F0093
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689619;
+			public const int Base_V7_Theme_AppCompat = 2131689619;
 			
 			// aapt resource value: 0x7F0F0094
-			public const int Base_V7_Theme_AppCompat = 2131689620;
+			public const int Base_V7_Theme_AppCompat_Dialog = 2131689620;
 			
 			// aapt resource value: 0x7F0F0095
-			public const int Base_V7_Theme_AppCompat_Dialog = 2131689621;
+			public const int Base_V7_Theme_AppCompat_Light = 2131689621;
 			
 			// aapt resource value: 0x7F0F0096
-			public const int Base_V7_Theme_AppCompat_Light = 2131689622;
-			
-			// aapt resource value: 0x7F0F0097
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689623;
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689622;
 			
 			// aapt resource value: 0x7F0F0098
 			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131689624;
@@ -22223,26 +23048,26 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F00A6
 			public const int Base_Widget_AppCompat_Button = 2131689638;
 			
-			// aapt resource value: 0x7F0F00A7
-			public const int Base_Widget_AppCompat_ButtonBar = 2131689639;
-			
-			// aapt resource value: 0x7F0F00A8
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689640;
-			
-			// aapt resource value: 0x7F0F00A9
-			public const int Base_Widget_AppCompat_Button_Borderless = 2131689641;
-			
-			// aapt resource value: 0x7F0F00AA
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689642;
-			
-			// aapt resource value: 0x7F0F00AB
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689643;
-			
 			// aapt resource value: 0x7F0F00AC
-			public const int Base_Widget_AppCompat_Button_Colored = 2131689644;
+			public const int Base_Widget_AppCompat_ButtonBar = 2131689644;
 			
 			// aapt resource value: 0x7F0F00AD
-			public const int Base_Widget_AppCompat_Button_Small = 2131689645;
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689645;
+			
+			// aapt resource value: 0x7F0F00A7
+			public const int Base_Widget_AppCompat_Button_Borderless = 2131689639;
+			
+			// aapt resource value: 0x7F0F00A8
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689640;
+			
+			// aapt resource value: 0x7F0F00A9
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689641;
+			
+			// aapt resource value: 0x7F0F00AA
+			public const int Base_Widget_AppCompat_Button_Colored = 2131689642;
+			
+			// aapt resource value: 0x7F0F00AB
+			public const int Base_Widget_AppCompat_Button_Small = 2131689643;
 			
 			// aapt resource value: 0x7F0F00AE
 			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131689646;
@@ -22517,23 +23342,23 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F0107
 			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689735;
 			
+			// aapt resource value: 0x7F0F010D
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689741;
+			
 			// aapt resource value: 0x7F0F0108
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689736;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689736;
 			
 			// aapt resource value: 0x7F0F0109
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689737;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689737;
 			
 			// aapt resource value: 0x7F0F010A
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689738;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689738;
 			
 			// aapt resource value: 0x7F0F010B
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689739;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689739;
 			
 			// aapt resource value: 0x7F0F010C
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689740;
-			
-			// aapt resource value: 0x7F0F010D
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689741;
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689740;
 			
 			// aapt resource value: 0x7F0F010E
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689742;
@@ -22547,101 +23372,101 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F02BF
 			public const int scrollViewTheme = 2131690175;
 			
-			// aapt resource value: 0x7F0F0110
-			public const int ShapeAppearanceOverlay = 2131689744;
-			
-			// aapt resource value: 0x7F0F0111
-			public const int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = 2131689745;
-			
-			// aapt resource value: 0x7F0F0112
-			public const int ShapeAppearanceOverlay_BottomRightCut = 2131689746;
-			
-			// aapt resource value: 0x7F0F0113
-			public const int ShapeAppearanceOverlay_Cut = 2131689747;
-			
-			// aapt resource value: 0x7F0F0114
-			public const int ShapeAppearanceOverlay_DifferentCornerSize = 2131689748;
-			
-			// aapt resource value: 0x7F0F0115
-			public const int ShapeAppearanceOverlay_MaterialComponents_BottomSheet = 2131689749;
-			
 			// aapt resource value: 0x7F0F0116
-			public const int ShapeAppearanceOverlay_MaterialComponents_Chip = 2131689750;
+			public const int ShapeAppearanceOverlay = 2131689750;
 			
 			// aapt resource value: 0x7F0F0117
-			public const int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = 2131689751;
+			public const int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = 2131689751;
 			
 			// aapt resource value: 0x7F0F0118
-			public const int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = 2131689752;
+			public const int ShapeAppearanceOverlay_BottomRightCut = 2131689752;
 			
 			// aapt resource value: 0x7F0F0119
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689753;
+			public const int ShapeAppearanceOverlay_Cut = 2131689753;
 			
 			// aapt resource value: 0x7F0F011A
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = 2131689754;
+			public const int ShapeAppearanceOverlay_DifferentCornerSize = 2131689754;
 			
 			// aapt resource value: 0x7F0F011B
-			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = 2131689755;
+			public const int ShapeAppearanceOverlay_MaterialComponents_BottomSheet = 2131689755;
 			
 			// aapt resource value: 0x7F0F011C
-			public const int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = 2131689756;
+			public const int ShapeAppearanceOverlay_MaterialComponents_Chip = 2131689756;
 			
 			// aapt resource value: 0x7F0F011D
-			public const int ShapeAppearanceOverlay_TopLeftCut = 2131689757;
+			public const int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = 2131689757;
 			
 			// aapt resource value: 0x7F0F011E
-			public const int ShapeAppearanceOverlay_TopRightDifferentCornerSize = 2131689758;
+			public const int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = 2131689758;
 			
 			// aapt resource value: 0x7F0F011F
-			public const int ShapeAppearance_MaterialComponents = 2131689759;
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689759;
 			
 			// aapt resource value: 0x7F0F0120
-			public const int ShapeAppearance_MaterialComponents_LargeComponent = 2131689760;
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = 2131689760;
 			
 			// aapt resource value: 0x7F0F0121
-			public const int ShapeAppearance_MaterialComponents_MediumComponent = 2131689761;
+			public const int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
-			public const int ShapeAppearance_MaterialComponents_SmallComponent = 2131689762;
+			public const int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = 2131689762;
 			
 			// aapt resource value: 0x7F0F0123
-			public const int ShapeAppearance_MaterialComponents_Test = 2131689763;
+			public const int ShapeAppearanceOverlay_TopLeftCut = 2131689763;
 			
 			// aapt resource value: 0x7F0F0124
-			public const int ShapeAppearance_MaterialComponents_Tooltip = 2131689764;
+			public const int ShapeAppearanceOverlay_TopRightDifferentCornerSize = 2131689764;
 			
-			// aapt resource value: 0x7F0F0125
-			public const int TestStyleWithLineHeight = 2131689765;
+			// aapt resource value: 0x7F0F0110
+			public const int ShapeAppearance_MaterialComponents = 2131689744;
 			
-			// aapt resource value: 0x7F0F0126
-			public const int TestStyleWithLineHeightAppearance = 2131689766;
+			// aapt resource value: 0x7F0F0111
+			public const int ShapeAppearance_MaterialComponents_LargeComponent = 2131689745;
 			
-			// aapt resource value: 0x7F0F0128
-			public const int TestStyleWithoutLineHeight = 2131689768;
+			// aapt resource value: 0x7F0F0112
+			public const int ShapeAppearance_MaterialComponents_MediumComponent = 2131689746;
 			
-			// aapt resource value: 0x7F0F0127
-			public const int TestStyleWithThemeLineHeightAttribute = 2131689767;
+			// aapt resource value: 0x7F0F0113
+			public const int ShapeAppearance_MaterialComponents_SmallComponent = 2131689747;
 			
-			// aapt resource value: 0x7F0F0129
-			public const int TestThemeWithLineHeight = 2131689769;
+			// aapt resource value: 0x7F0F0114
+			public const int ShapeAppearance_MaterialComponents_Test = 2131689748;
+			
+			// aapt resource value: 0x7F0F0115
+			public const int ShapeAppearance_MaterialComponents_Tooltip = 2131689749;
 			
 			// aapt resource value: 0x7F0F012A
-			public const int TestThemeWithLineHeightDisabled = 2131689770;
+			public const int TestStyleWithLineHeight = 2131689770;
 			
 			// aapt resource value: 0x7F0F012B
-			public const int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689771;
-			
-			// aapt resource value: 0x7F0F012C
-			public const int Test_Theme_MaterialComponents_MaterialCalendar = 2131689772;
+			public const int TestStyleWithLineHeightAppearance = 2131689771;
 			
 			// aapt resource value: 0x7F0F012D
-			public const int Test_Widget_MaterialComponents_MaterialCalendar = 2131689773;
+			public const int TestStyleWithoutLineHeight = 2131689773;
+			
+			// aapt resource value: 0x7F0F012C
+			public const int TestStyleWithThemeLineHeightAttribute = 2131689772;
 			
 			// aapt resource value: 0x7F0F012E
-			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day = 2131689774;
+			public const int TestThemeWithLineHeight = 2131689774;
 			
 			// aapt resource value: 0x7F0F012F
-			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131689775;
+			public const int TestThemeWithLineHeightDisabled = 2131689775;
+			
+			// aapt resource value: 0x7F0F0125
+			public const int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = 2131689765;
+			
+			// aapt resource value: 0x7F0F0126
+			public const int Test_Theme_MaterialComponents_MaterialCalendar = 2131689766;
+			
+			// aapt resource value: 0x7F0F0127
+			public const int Test_Widget_MaterialComponents_MaterialCalendar = 2131689767;
+			
+			// aapt resource value: 0x7F0F0128
+			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day = 2131689768;
+			
+			// aapt resource value: 0x7F0F0129
+			public const int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131689769;
 			
 			// aapt resource value: 0x7F0F0130
 			public const int TextAppearance_AppCompat = 2131689776;
@@ -22907,383 +23732,383 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F0187
 			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689863;
 			
-			// aapt resource value: 0x7F0F0188
-			public const int ThemeOverlayColorAccentRed = 2131689864;
-			
-			// aapt resource value: 0x7F0F0189
-			public const int ThemeOverlay_AppCompat = 2131689865;
-			
-			// aapt resource value: 0x7F0F018A
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689866;
-			
-			// aapt resource value: 0x7F0F018B
-			public const int ThemeOverlay_AppCompat_Dark = 2131689867;
-			
-			// aapt resource value: 0x7F0F018C
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689868;
-			
-			// aapt resource value: 0x7F0F018D
-			public const int ThemeOverlay_AppCompat_DayNight = 2131689869;
-			
-			// aapt resource value: 0x7F0F018E
-			public const int ThemeOverlay_AppCompat_DayNight_ActionBar = 2131689870;
-			
-			// aapt resource value: 0x7F0F018F
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689871;
-			
-			// aapt resource value: 0x7F0F0190
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689872;
-			
-			// aapt resource value: 0x7F0F0191
-			public const int ThemeOverlay_AppCompat_Light = 2131689873;
-			
-			// aapt resource value: 0x7F0F0192
-			public const int ThemeOverlay_Design_TextInputEditText = 2131689874;
-			
-			// aapt resource value: 0x7F0F0193
-			public const int ThemeOverlay_MaterialComponents = 2131689875;
-			
-			// aapt resource value: 0x7F0F0194
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689876;
-			
-			// aapt resource value: 0x7F0F0195
-			public const int ThemeOverlay_MaterialComponents_ActionBar_Primary = 2131689877;
-			
-			// aapt resource value: 0x7F0F0196
-			public const int ThemeOverlay_MaterialComponents_ActionBar_Surface = 2131689878;
-			
-			// aapt resource value: 0x7F0F0197
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView = 2131689879;
-			
-			// aapt resource value: 0x7F0F0198
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = 2131689880;
-			
-			// aapt resource value: 0x7F0F0199
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131689881;
-			
-			// aapt resource value: 0x7F0F019A
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131689882;
-			
-			// aapt resource value: 0x7F0F019B
-			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131689883;
-			
-			// aapt resource value: 0x7F0F019C
-			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Primary = 2131689884;
-			
-			// aapt resource value: 0x7F0F019D
-			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Surface = 2131689885;
-			
-			// aapt resource value: 0x7F0F019E
-			public const int ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689886;
-			
-			// aapt resource value: 0x7F0F019F
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689887;
-			
-			// aapt resource value: 0x7F0F01A0
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689888;
-			
-			// aapt resource value: 0x7F0F01A1
-			public const int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = 2131689889;
-			
-			// aapt resource value: 0x7F0F01A2
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689890;
-			
-			// aapt resource value: 0x7F0F01A3
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689891;
-			
-			// aapt resource value: 0x7F0F01A4
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131689892;
-			
-			// aapt resource value: 0x7F0F01A5
-			public const int ThemeOverlay_MaterialComponents_Light = 2131689893;
-			
-			// aapt resource value: 0x7F0F01A6
-			public const int ThemeOverlay_MaterialComponents_Light_BottomSheetDialog = 2131689894;
-			
-			// aapt resource value: 0x7F0F01A7
-			public const int ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131689895;
-			
-			// aapt resource value: 0x7F0F01A8
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689896;
-			
-			// aapt resource value: 0x7F0F01A9
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = 2131689897;
-			
-			// aapt resource value: 0x7F0F01AA
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = 2131689898;
-			
-			// aapt resource value: 0x7F0F01AB
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = 2131689899;
-			
-			// aapt resource value: 0x7F0F01AC
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = 2131689900;
-			
-			// aapt resource value: 0x7F0F01AD
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = 2131689901;
-			
-			// aapt resource value: 0x7F0F01AE
-			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = 2131689902;
-			
-			// aapt resource value: 0x7F0F01AF
-			public const int ThemeOverlay_MaterialComponents_MaterialCalendar = 2131689903;
-			
-			// aapt resource value: 0x7F0F01B0
-			public const int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = 2131689904;
-			
-			// aapt resource value: 0x7F0F01B1
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689905;
-			
-			// aapt resource value: 0x7F0F01B2
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689906;
-			
-			// aapt resource value: 0x7F0F01B3
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689907;
-			
-			// aapt resource value: 0x7F0F01B4
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689908;
-			
-			// aapt resource value: 0x7F0F01B5
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689909;
-			
-			// aapt resource value: 0x7F0F01B6
-			public const int ThemeOverlay_MaterialComponents_Toolbar_Primary = 2131689910;
-			
-			// aapt resource value: 0x7F0F01B7
-			public const int ThemeOverlay_MaterialComponents_Toolbar_Surface = 2131689911;
-			
-			// aapt resource value: 0x7F0F01B8
-			public const int Theme_AppCompat = 2131689912;
-			
-			// aapt resource value: 0x7F0F01B9
-			public const int Theme_AppCompat_CompactMenu = 2131689913;
-			
-			// aapt resource value: 0x7F0F01BA
-			public const int Theme_AppCompat_DayNight = 2131689914;
-			
-			// aapt resource value: 0x7F0F01BB
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689915;
-			
-			// aapt resource value: 0x7F0F01BC
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689916;
-			
-			// aapt resource value: 0x7F0F01BD
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689917;
-			
-			// aapt resource value: 0x7F0F01BE
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689918;
-			
-			// aapt resource value: 0x7F0F01BF
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689919;
-			
-			// aapt resource value: 0x7F0F01C0
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689920;
-			
-			// aapt resource value: 0x7F0F01C1
-			public const int Theme_AppCompat_Dialog = 2131689921;
-			
-			// aapt resource value: 0x7F0F01C2
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689922;
-			
-			// aapt resource value: 0x7F0F01C3
-			public const int Theme_AppCompat_Dialog_Alert = 2131689923;
-			
-			// aapt resource value: 0x7F0F01C4
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689924;
-			
-			// aapt resource value: 0x7F0F01C5
-			public const int Theme_AppCompat_Empty = 2131689925;
-			
-			// aapt resource value: 0x7F0F01C6
-			public const int Theme_AppCompat_Light = 2131689926;
-			
-			// aapt resource value: 0x7F0F01C7
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689927;
-			
-			// aapt resource value: 0x7F0F01C8
-			public const int Theme_AppCompat_Light_Dialog = 2131689928;
-			
-			// aapt resource value: 0x7F0F01C9
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689929;
-			
-			// aapt resource value: 0x7F0F01CA
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689930;
-			
-			// aapt resource value: 0x7F0F01CB
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689931;
-			
-			// aapt resource value: 0x7F0F01CC
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689932;
-			
-			// aapt resource value: 0x7F0F01CD
-			public const int Theme_AppCompat_NoActionBar = 2131689933;
-			
-			// aapt resource value: 0x7F0F01CE
-			public const int Theme_Design = 2131689934;
-			
-			// aapt resource value: 0x7F0F01CF
-			public const int Theme_Design_BottomSheetDialog = 2131689935;
-			
-			// aapt resource value: 0x7F0F01D0
-			public const int Theme_Design_Light = 2131689936;
-			
-			// aapt resource value: 0x7F0F01D1
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689937;
-			
-			// aapt resource value: 0x7F0F01D2
-			public const int Theme_Design_Light_NoActionBar = 2131689938;
-			
-			// aapt resource value: 0x7F0F01D3
-			public const int Theme_Design_NoActionBar = 2131689939;
-			
-			// aapt resource value: 0x7F0F01D4
-			public const int Theme_IAPTheme = 2131689940;
-			
-			// aapt resource value: 0x7F0F01D5
-			public const int Theme_MaterialComponents = 2131689941;
+			// aapt resource value: 0x7F0F0205
+			public const int ThemeOverlayColorAccentRed = 2131689989;
 			
 			// aapt resource value: 0x7F0F01D6
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689942;
+			public const int ThemeOverlay_AppCompat = 2131689942;
 			
 			// aapt resource value: 0x7F0F01D7
-			public const int Theme_MaterialComponents_Bridge = 2131689943;
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689943;
 			
 			// aapt resource value: 0x7F0F01D8
-			public const int Theme_MaterialComponents_CompactMenu = 2131689944;
+			public const int ThemeOverlay_AppCompat_Dark = 2131689944;
 			
 			// aapt resource value: 0x7F0F01D9
-			public const int Theme_MaterialComponents_DayNight = 2131689945;
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689945;
 			
 			// aapt resource value: 0x7F0F01DA
-			public const int Theme_MaterialComponents_DayNight_BottomSheetDialog = 2131689946;
+			public const int ThemeOverlay_AppCompat_DayNight = 2131689946;
 			
 			// aapt resource value: 0x7F0F01DB
-			public const int Theme_MaterialComponents_DayNight_Bridge = 2131689947;
+			public const int ThemeOverlay_AppCompat_DayNight_ActionBar = 2131689947;
 			
 			// aapt resource value: 0x7F0F01DC
-			public const int Theme_MaterialComponents_DayNight_DarkActionBar = 2131689948;
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689948;
 			
 			// aapt resource value: 0x7F0F01DD
-			public const int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = 2131689949;
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689949;
 			
 			// aapt resource value: 0x7F0F01DE
-			public const int Theme_MaterialComponents_DayNight_Dialog = 2131689950;
+			public const int ThemeOverlay_AppCompat_Light = 2131689950;
 			
 			// aapt resource value: 0x7F0F01DF
-			public const int Theme_MaterialComponents_DayNight_DialogWhenLarge = 2131689951;
+			public const int ThemeOverlay_Design_TextInputEditText = 2131689951;
 			
 			// aapt resource value: 0x7F0F01E0
-			public const int Theme_MaterialComponents_DayNight_Dialog_Alert = 2131689952;
+			public const int ThemeOverlay_MaterialComponents = 2131689952;
 			
 			// aapt resource value: 0x7F0F01E1
-			public const int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = 2131689953;
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689953;
 			
 			// aapt resource value: 0x7F0F01E2
-			public const int Theme_MaterialComponents_DayNight_Dialog_Bridge = 2131689954;
+			public const int ThemeOverlay_MaterialComponents_ActionBar_Primary = 2131689954;
 			
 			// aapt resource value: 0x7F0F01E3
-			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize = 2131689955;
+			public const int ThemeOverlay_MaterialComponents_ActionBar_Surface = 2131689955;
 			
 			// aapt resource value: 0x7F0F01E4
-			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = 2131689956;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView = 2131689956;
 			
 			// aapt resource value: 0x7F0F01E5
-			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth = 2131689957;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = 2131689957;
 			
 			// aapt resource value: 0x7F0F01E6
-			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = 2131689958;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = 2131689958;
 			
 			// aapt resource value: 0x7F0F01E7
-			public const int Theme_MaterialComponents_DayNight_NoActionBar = 2131689959;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = 2131689959;
 			
 			// aapt resource value: 0x7F0F01E8
-			public const int Theme_MaterialComponents_DayNight_NoActionBar_Bridge = 2131689960;
+			public const int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = 2131689960;
 			
 			// aapt resource value: 0x7F0F01E9
-			public const int Theme_MaterialComponents_Dialog = 2131689961;
+			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Primary = 2131689961;
 			
 			// aapt resource value: 0x7F0F01EA
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689962;
+			public const int ThemeOverlay_MaterialComponents_BottomAppBar_Surface = 2131689962;
 			
 			// aapt resource value: 0x7F0F01EB
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689963;
+			public const int ThemeOverlay_MaterialComponents_BottomSheetDialog = 2131689963;
 			
 			// aapt resource value: 0x7F0F01EC
-			public const int Theme_MaterialComponents_Dialog_Alert_Bridge = 2131689964;
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689964;
 			
 			// aapt resource value: 0x7F0F01ED
-			public const int Theme_MaterialComponents_Dialog_Bridge = 2131689965;
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689965;
 			
 			// aapt resource value: 0x7F0F01EE
-			public const int Theme_MaterialComponents_Dialog_FixedSize = 2131689966;
+			public const int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = 2131689966;
 			
 			// aapt resource value: 0x7F0F01EF
-			public const int Theme_MaterialComponents_Dialog_FixedSize_Bridge = 2131689967;
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689967;
 			
 			// aapt resource value: 0x7F0F01F0
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689968;
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689968;
 			
 			// aapt resource value: 0x7F0F01F1
-			public const int Theme_MaterialComponents_Dialog_MinWidth_Bridge = 2131689969;
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = 2131689969;
 			
 			// aapt resource value: 0x7F0F01F2
-			public const int Theme_MaterialComponents_Light = 2131689970;
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689970;
 			
 			// aapt resource value: 0x7F0F01F3
-			public const int Theme_MaterialComponents_Light_BarSize = 2131689971;
+			public const int ThemeOverlay_MaterialComponents_Light_BottomSheetDialog = 2131689971;
 			
 			// aapt resource value: 0x7F0F01F4
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689972;
+			public const int ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = 2131689972;
 			
 			// aapt resource value: 0x7F0F01F5
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689973;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog = 2131689973;
 			
 			// aapt resource value: 0x7F0F01F6
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689974;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = 2131689974;
 			
 			// aapt resource value: 0x7F0F01F7
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689975;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = 2131689975;
 			
 			// aapt resource value: 0x7F0F01F8
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689976;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = 2131689976;
 			
 			// aapt resource value: 0x7F0F01F9
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689977;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = 2131689977;
 			
 			// aapt resource value: 0x7F0F01FA
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689978;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = 2131689978;
 			
 			// aapt resource value: 0x7F0F01FB
-			public const int Theme_MaterialComponents_Light_Dialog_Alert_Bridge = 2131689979;
+			public const int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = 2131689979;
 			
 			// aapt resource value: 0x7F0F01FC
-			public const int Theme_MaterialComponents_Light_Dialog_Bridge = 2131689980;
+			public const int ThemeOverlay_MaterialComponents_MaterialCalendar = 2131689980;
 			
 			// aapt resource value: 0x7F0F01FD
-			public const int Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689981;
+			public const int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = 2131689981;
 			
 			// aapt resource value: 0x7F0F01FE
-			public const int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = 2131689982;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689982;
 			
 			// aapt resource value: 0x7F0F01FF
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689983;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689983;
 			
 			// aapt resource value: 0x7F0F0200
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = 2131689984;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689984;
 			
 			// aapt resource value: 0x7F0F0201
-			public const int Theme_MaterialComponents_Light_LargeTouch = 2131689985;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689985;
 			
 			// aapt resource value: 0x7F0F0202
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689986;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689986;
 			
 			// aapt resource value: 0x7F0F0203
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689987;
+			public const int ThemeOverlay_MaterialComponents_Toolbar_Primary = 2131689987;
 			
 			// aapt resource value: 0x7F0F0204
-			public const int Theme_MaterialComponents_NoActionBar = 2131689988;
+			public const int ThemeOverlay_MaterialComponents_Toolbar_Surface = 2131689988;
 			
-			// aapt resource value: 0x7F0F0205
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689989;
+			// aapt resource value: 0x7F0F0188
+			public const int Theme_AppCompat = 2131689864;
+			
+			// aapt resource value: 0x7F0F0189
+			public const int Theme_AppCompat_CompactMenu = 2131689865;
+			
+			// aapt resource value: 0x7F0F018A
+			public const int Theme_AppCompat_DayNight = 2131689866;
+			
+			// aapt resource value: 0x7F0F018B
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689867;
+			
+			// aapt resource value: 0x7F0F018C
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689868;
+			
+			// aapt resource value: 0x7F0F018F
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689871;
+			
+			// aapt resource value: 0x7F0F018D
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689869;
+			
+			// aapt resource value: 0x7F0F018E
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689870;
+			
+			// aapt resource value: 0x7F0F0190
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689872;
+			
+			// aapt resource value: 0x7F0F0191
+			public const int Theme_AppCompat_Dialog = 2131689873;
+			
+			// aapt resource value: 0x7F0F0194
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689876;
+			
+			// aapt resource value: 0x7F0F0192
+			public const int Theme_AppCompat_Dialog_Alert = 2131689874;
+			
+			// aapt resource value: 0x7F0F0193
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689875;
+			
+			// aapt resource value: 0x7F0F0195
+			public const int Theme_AppCompat_Empty = 2131689877;
+			
+			// aapt resource value: 0x7F0F0196
+			public const int Theme_AppCompat_Light = 2131689878;
+			
+			// aapt resource value: 0x7F0F0197
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689879;
+			
+			// aapt resource value: 0x7F0F0198
+			public const int Theme_AppCompat_Light_Dialog = 2131689880;
+			
+			// aapt resource value: 0x7F0F019B
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689883;
+			
+			// aapt resource value: 0x7F0F0199
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689881;
+			
+			// aapt resource value: 0x7F0F019A
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689882;
+			
+			// aapt resource value: 0x7F0F019C
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689884;
+			
+			// aapt resource value: 0x7F0F019D
+			public const int Theme_AppCompat_NoActionBar = 2131689885;
+			
+			// aapt resource value: 0x7F0F019E
+			public const int Theme_Design = 2131689886;
+			
+			// aapt resource value: 0x7F0F019F
+			public const int Theme_Design_BottomSheetDialog = 2131689887;
+			
+			// aapt resource value: 0x7F0F01A0
+			public const int Theme_Design_Light = 2131689888;
+			
+			// aapt resource value: 0x7F0F01A1
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689889;
+			
+			// aapt resource value: 0x7F0F01A2
+			public const int Theme_Design_Light_NoActionBar = 2131689890;
+			
+			// aapt resource value: 0x7F0F01A3
+			public const int Theme_Design_NoActionBar = 2131689891;
+			
+			// aapt resource value: 0x7F0F01A4
+			public const int Theme_IAPTheme = 2131689892;
+			
+			// aapt resource value: 0x7F0F01A5
+			public const int Theme_MaterialComponents = 2131689893;
+			
+			// aapt resource value: 0x7F0F01A6
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689894;
+			
+			// aapt resource value: 0x7F0F01A7
+			public const int Theme_MaterialComponents_Bridge = 2131689895;
+			
+			// aapt resource value: 0x7F0F01A8
+			public const int Theme_MaterialComponents_CompactMenu = 2131689896;
+			
+			// aapt resource value: 0x7F0F01A9
+			public const int Theme_MaterialComponents_DayNight = 2131689897;
+			
+			// aapt resource value: 0x7F0F01AA
+			public const int Theme_MaterialComponents_DayNight_BottomSheetDialog = 2131689898;
+			
+			// aapt resource value: 0x7F0F01AB
+			public const int Theme_MaterialComponents_DayNight_Bridge = 2131689899;
+			
+			// aapt resource value: 0x7F0F01AC
+			public const int Theme_MaterialComponents_DayNight_DarkActionBar = 2131689900;
+			
+			// aapt resource value: 0x7F0F01AD
+			public const int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = 2131689901;
+			
+			// aapt resource value: 0x7F0F01AE
+			public const int Theme_MaterialComponents_DayNight_Dialog = 2131689902;
+			
+			// aapt resource value: 0x7F0F01B6
+			public const int Theme_MaterialComponents_DayNight_DialogWhenLarge = 2131689910;
+			
+			// aapt resource value: 0x7F0F01AF
+			public const int Theme_MaterialComponents_DayNight_Dialog_Alert = 2131689903;
+			
+			// aapt resource value: 0x7F0F01B0
+			public const int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = 2131689904;
+			
+			// aapt resource value: 0x7F0F01B1
+			public const int Theme_MaterialComponents_DayNight_Dialog_Bridge = 2131689905;
+			
+			// aapt resource value: 0x7F0F01B2
+			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize = 2131689906;
+			
+			// aapt resource value: 0x7F0F01B3
+			public const int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = 2131689907;
+			
+			// aapt resource value: 0x7F0F01B4
+			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth = 2131689908;
+			
+			// aapt resource value: 0x7F0F01B5
+			public const int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = 2131689909;
+			
+			// aapt resource value: 0x7F0F01B7
+			public const int Theme_MaterialComponents_DayNight_NoActionBar = 2131689911;
+			
+			// aapt resource value: 0x7F0F01B8
+			public const int Theme_MaterialComponents_DayNight_NoActionBar_Bridge = 2131689912;
+			
+			// aapt resource value: 0x7F0F01B9
+			public const int Theme_MaterialComponents_Dialog = 2131689913;
+			
+			// aapt resource value: 0x7F0F01C1
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689921;
+			
+			// aapt resource value: 0x7F0F01BA
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689914;
+			
+			// aapt resource value: 0x7F0F01BB
+			public const int Theme_MaterialComponents_Dialog_Alert_Bridge = 2131689915;
+			
+			// aapt resource value: 0x7F0F01BC
+			public const int Theme_MaterialComponents_Dialog_Bridge = 2131689916;
+			
+			// aapt resource value: 0x7F0F01BD
+			public const int Theme_MaterialComponents_Dialog_FixedSize = 2131689917;
+			
+			// aapt resource value: 0x7F0F01BE
+			public const int Theme_MaterialComponents_Dialog_FixedSize_Bridge = 2131689918;
+			
+			// aapt resource value: 0x7F0F01BF
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689919;
+			
+			// aapt resource value: 0x7F0F01C0
+			public const int Theme_MaterialComponents_Dialog_MinWidth_Bridge = 2131689920;
+			
+			// aapt resource value: 0x7F0F01C2
+			public const int Theme_MaterialComponents_Light = 2131689922;
+			
+			// aapt resource value: 0x7F0F01C3
+			public const int Theme_MaterialComponents_Light_BarSize = 2131689923;
+			
+			// aapt resource value: 0x7F0F01C4
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689924;
+			
+			// aapt resource value: 0x7F0F01C5
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689925;
+			
+			// aapt resource value: 0x7F0F01C6
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689926;
+			
+			// aapt resource value: 0x7F0F01C7
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689927;
+			
+			// aapt resource value: 0x7F0F01C8
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689928;
+			
+			// aapt resource value: 0x7F0F01D0
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689936;
+			
+			// aapt resource value: 0x7F0F01C9
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689929;
+			
+			// aapt resource value: 0x7F0F01CA
+			public const int Theme_MaterialComponents_Light_Dialog_Alert_Bridge = 2131689930;
+			
+			// aapt resource value: 0x7F0F01CB
+			public const int Theme_MaterialComponents_Light_Dialog_Bridge = 2131689931;
+			
+			// aapt resource value: 0x7F0F01CC
+			public const int Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689932;
+			
+			// aapt resource value: 0x7F0F01CD
+			public const int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = 2131689933;
+			
+			// aapt resource value: 0x7F0F01CE
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689934;
+			
+			// aapt resource value: 0x7F0F01CF
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = 2131689935;
+			
+			// aapt resource value: 0x7F0F01D1
+			public const int Theme_MaterialComponents_Light_LargeTouch = 2131689937;
+			
+			// aapt resource value: 0x7F0F01D2
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689938;
+			
+			// aapt resource value: 0x7F0F01D3
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689939;
+			
+			// aapt resource value: 0x7F0F01D4
+			public const int Theme_MaterialComponents_NoActionBar = 2131689940;
+			
+			// aapt resource value: 0x7F0F01D5
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689941;
 			
 			// aapt resource value: 0x7F0F0206
 			public const int Widget_AppCompat_ActionBar = 2131689990;
@@ -23321,26 +24146,26 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F0211
 			public const int Widget_AppCompat_Button = 2131690001;
 			
-			// aapt resource value: 0x7F0F0212
-			public const int Widget_AppCompat_ButtonBar = 2131690002;
-			
-			// aapt resource value: 0x7F0F0213
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131690003;
-			
-			// aapt resource value: 0x7F0F0214
-			public const int Widget_AppCompat_Button_Borderless = 2131690004;
-			
-			// aapt resource value: 0x7F0F0215
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131690005;
-			
-			// aapt resource value: 0x7F0F0216
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131690006;
-			
 			// aapt resource value: 0x7F0F0217
-			public const int Widget_AppCompat_Button_Colored = 2131690007;
+			public const int Widget_AppCompat_ButtonBar = 2131690007;
 			
 			// aapt resource value: 0x7F0F0218
-			public const int Widget_AppCompat_Button_Small = 2131690008;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131690008;
+			
+			// aapt resource value: 0x7F0F0212
+			public const int Widget_AppCompat_Button_Borderless = 2131690002;
+			
+			// aapt resource value: 0x7F0F0213
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131690003;
+			
+			// aapt resource value: 0x7F0F0214
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131690004;
+			
+			// aapt resource value: 0x7F0F0215
+			public const int Widget_AppCompat_Button_Colored = 2131690005;
+			
+			// aapt resource value: 0x7F0F0216
+			public const int Widget_AppCompat_Button_Small = 2131690006;
 			
 			// aapt resource value: 0x7F0F0219
 			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131690009;
@@ -23645,20 +24470,20 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F027D
 			public const int Widget_MaterialComponents_CheckedTextView = 2131690109;
 			
+			// aapt resource value: 0x7F0F0282
+			public const int Widget_MaterialComponents_ChipGroup = 2131690114;
+			
 			// aapt resource value: 0x7F0F027E
-			public const int Widget_MaterialComponents_ChipGroup = 2131690110;
+			public const int Widget_MaterialComponents_Chip_Action = 2131690110;
 			
 			// aapt resource value: 0x7F0F027F
-			public const int Widget_MaterialComponents_Chip_Action = 2131690111;
+			public const int Widget_MaterialComponents_Chip_Choice = 2131690111;
 			
 			// aapt resource value: 0x7F0F0280
-			public const int Widget_MaterialComponents_Chip_Choice = 2131690112;
+			public const int Widget_MaterialComponents_Chip_Entry = 2131690112;
 			
 			// aapt resource value: 0x7F0F0281
-			public const int Widget_MaterialComponents_Chip_Entry = 2131690113;
-			
-			// aapt resource value: 0x7F0F0282
-			public const int Widget_MaterialComponents_Chip_Filter = 2131690114;
+			public const int Widget_MaterialComponents_Chip_Filter = 2131690113;
 			
 			// aapt resource value: 0x7F0F0283
 			public const int Widget_MaterialComponents_CompoundButton_CheckBox = 2131690115;
@@ -23690,17 +24515,17 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0x7F0F028C
 			public const int Widget_MaterialComponents_MaterialCalendar_Day = 2131690124;
 			
+			// aapt resource value: 0x7F0F0290
+			public const int Widget_MaterialComponents_MaterialCalendar_DayTextView = 2131690128;
+			
 			// aapt resource value: 0x7F0F028D
-			public const int Widget_MaterialComponents_MaterialCalendar_DayTextView = 2131690125;
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Invalid = 2131690125;
 			
 			// aapt resource value: 0x7F0F028E
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Invalid = 2131690126;
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131690126;
 			
 			// aapt resource value: 0x7F0F028F
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Selected = 2131690127;
-			
-			// aapt resource value: 0x7F0F0290
-			public const int Widget_MaterialComponents_MaterialCalendar_Day_Today = 2131690128;
+			public const int Widget_MaterialComponents_MaterialCalendar_Day_Today = 2131690127;
 			
 			// aapt resource value: 0x7F0F0291
 			public const int Widget_MaterialComponents_MaterialCalendar_Fullscreen = 2131690129;
@@ -23980,8 +24805,9 @@ namespace FileTransferApp_Mobile.Droid
 			// aapt resource value: 0
 			public const int ActionMenuItemView_android_minWidth = 0;
 			
-			// aapt resource value: {  }
-			public static int[] ActionMenuView = new int[0];
+			// aapt resource value: { 0xFFFFFFFF }
+			public static int[] ActionMenuView = new int[] {
+					-1};
 			
 			// aapt resource value: { 0x7F030043,0x7F03004A,0x7F0300A6,0x7F03013F,0x7F030220,0x7F03027D }
 			public static int[] ActionMode = new int[] {

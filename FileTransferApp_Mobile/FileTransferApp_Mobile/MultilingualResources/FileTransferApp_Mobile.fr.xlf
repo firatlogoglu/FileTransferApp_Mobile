@@ -8,7 +8,7 @@
       <group id="FILETRANSFERAPP_MOBILE/RESOURCES/APPRESOURCES.RESX" datatype="resx">
         <trans-unit id="Ac_btnReceive" translate="yes" xml:space="preserve">
           <source>Receive Files</source>
-          <target state="translated" state-qualifier="tm-suggestion">Recevoir des fichiers</target>
+          <target state="translated">Application de bureau</target>
         </trans-unit>
         <trans-unit id="Ac_btnSend" translate="yes" xml:space="preserve">
           <source>Send Files</source>
@@ -43,8 +43,8 @@
           <target state="translated" state-qualifier="tm-suggestion">Ajouter</target>
         </trans-unit>
         <trans-unit id="File_btnConfirm" translate="yes" xml:space="preserve">
-          <source>Confirm files</source>
-          <target state="translated">Confirmer les fichiers</target>
+          <source>Confirm</source>
+          <target state="translated">Confirmer</target>
         </trans-unit>
         <trans-unit id="File_btnOpen" translate="yes" xml:space="preserve">
           <source>Open</source>
@@ -247,6 +247,10 @@
         <trans-unit id="Settings_SelectTargetFolder" translate="yes" xml:space="preserve">
           <source>Select folder to store received files.</source>
           <target state="translated">Sélectionnez le dossier pour stocker les fichiers reçus.</target>
+        </trans-unit>
+        <trans-unit id="Setting_DownloadDektop" translate="yes" xml:space="preserve">
+          <source>Desktop App</source>
+          <target state="translated">Application de bureau</target>
         </trans-unit>
       </group>
     </body>

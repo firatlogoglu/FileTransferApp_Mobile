@@ -148,7 +148,7 @@
     <value>Add more</value>
   </data>
   <data name="File_btnConfirm" xml:space="preserve">
-    <value>Confirm files</value>
+    <value>Confirm</value>
   </data>
   <data name="File_btnOpen" xml:space="preserve">
     <value>Open</value>
@@ -243,6 +243,9 @@
   </data>
   <data name="Setting_DeviceName" xml:space="preserve">
     <value>Device Name :</value>
+  </data>
+  <data name="Setting_DownloadDektop" xml:space="preserve">
+    <value>Desktop App</value>
   </data>
   <data name="Setting_Language" xml:space="preserve">
     <value>Language :</value>
