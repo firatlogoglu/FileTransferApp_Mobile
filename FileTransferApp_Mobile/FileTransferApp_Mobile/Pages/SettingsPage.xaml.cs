@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using System.Linq;
+using Xamarin.Essentials;
+
 namespace FileTransferApp_Mobile.Pages
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
@@ -95,6 +97,11 @@ namespace FileTransferApp_Mobile.Pages
         private void btn_Info_Clicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new Pages.InfoPage());
+        }
+
+        private void btn_GetDesktopApp_Clicked(object sender, EventArgs e)
+        {
+            Launcher.OpenAsync("https://buggycompany.blogspot.com/2021/03/buggy-file-transfer.html");
         }
     }
 }

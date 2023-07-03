@@ -43,7 +43,7 @@
           <target state="translated" state-qualifier="tm-suggestion">Weitere hinzufügen</target>
         </trans-unit>
         <trans-unit id="File_btnConfirm" translate="yes" xml:space="preserve">
-          <source>Confirm files</source>
+          <source>Confirm</source>
           <target state="translated">Dateien bestätigen</target>
         </trans-unit>
         <trans-unit id="File_btnOpen" translate="yes" xml:space="preserve">
@@ -247,6 +247,10 @@
         <trans-unit id="Settings_SelectTargetFolder" translate="yes" xml:space="preserve">
           <source>Select folder to store received files.</source>
           <target state="translated">Wählen Sie den Ordner aus, in dem die empfangenen Dateien gespeichert werden sollen.</target>
+        </trans-unit>
+        <trans-unit id="Setting_DownloadDektop" translate="yes" xml:space="preserve">
+          <source>Desktop App</source>
+          <target state="translated">Desktop-Anwendung</target>
         </trans-unit>
       </group>
     </body>

@@ -142,7 +142,7 @@ namespace FileTransferApp_Mobile.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Confirm files.
+        ///   Looks up a localized string similar to Confirm.
         /// </summary>
         public static string File_btnConfirm {
             get {
@@ -408,6 +408,15 @@ namespace FileTransferApp_Mobile.Resources {
         public static string Setting_DeviceName {
             get {
                 return ResourceManager.GetString("Setting_DeviceName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Desktop App.
+        /// </summary>
+        public static string Setting_DownloadDektop {
+            get {
+                return ResourceManager.GetString("Setting_DownloadDektop", resourceCulture);
             }
         }
         

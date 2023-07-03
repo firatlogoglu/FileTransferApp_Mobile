@@ -43,7 +43,7 @@
           <target state="translated" state-qualifier="tm-suggestion">添加更多</target>
         </trans-unit>
         <trans-unit id="File_btnConfirm" translate="yes" xml:space="preserve">
-          <source>Confirm files</source>
+          <source>Confirm</source>
           <target state="translated">确认文件</target>
         </trans-unit>
         <trans-unit id="File_btnOpen" translate="yes" xml:space="preserve">
@@ -247,6 +247,10 @@
         <trans-unit id="Settings_SelectTargetFolder" translate="yes" xml:space="preserve">
           <source>Select folder to store received files.</source>
           <target state="translated">选择文件夹来存储接收到的文件。</target>
+        </trans-unit>
+        <trans-unit id="Setting_DownloadDektop" translate="yes" xml:space="preserve">
+          <source>Desktop App</source>
+          <target state="translated" state-qualifier="tm-suggestion">桌面应用</target>
         </trans-unit>
       </group>
     </body>
